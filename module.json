@@ -1,0 +1,22 @@
+{
+  "name": "FoundryVTT-dnd5e-ru",
+  "title": "DnD5e Russian Translation",
+  "description": "Add Russian language to dnd5e system for FoundryVTT.",
+  "version": "0.1",
+  "minimumCoreVersion" : "0.4.5",
+  "author": "ariakas81, Simone, Ultra164",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+    
+  "languages": [{
+  	"lang": "ru",
+    "name": "Russian",
+    "path": "ru.json"
+  }],
+    
+  "url": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it",
+  "manifest": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it/raw/master/it-IT/module.json",
+  "download": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it/-/jobs/artifacts/master/raw/dnd5e-it-IT.zip?job=build"
+}

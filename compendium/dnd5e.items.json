@@ -1,0 +1,1097 @@
+{
+  "label": "Oggetti (SRD)",
+  "mapping": {
+    "range": {
+      "path": "data.range",
+      "converter": "range"
+    },
+    "target": null
+  },
+  "entries": [
+    {
+      "id": "Antitoxin",
+      "name": "Противоядие (флакон)",
+      "description": "Существо, выпившее жидкость из этого флакона, в течение часа совершает спасброски от яда с преимуществом. Оно не предоставляет преимущества нежити и конструктам."
+    },
+    {
+      "id": "Abacus",
+      "name": "Счеты",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Potion of Greater Healing",
+      "name": "Зелье большого лечения",
+      "description": "Вы восстанавливаете 4d4 + 4 хита, когда выпиваете это зелье. Зелье представляет собой красную жидкость, сверкающую при встряхивании."
+    },
+    {
+      "id": "Acid (vial)",
+      "name": "Кислота (Флакон)",
+      "description": "Вы можете действием выплеснуть содержимое этого сосуда на существо, находящееся в пределах 5 футов от вас, или метнуть сосуд на расстояние до 20 футов, чтобы он разбился от удара. В любом случае совершите дальнобойную атаку против существа или предмета, считая кислоту импровизированным оружием. При попадании цель получает урон кислотой 2к6."
+    },
+    {
+      "id": "Alchemist's Fire",
+      "name": "Алхимический огонь (фляжка)",
+      "description": "Эта вязкая и клейкая жидкость воспламеняется при контакте с воздухом. Вы можете действием метнуть фляжку на расстояние до 20 футов, разбив её от удара. Совершите дальнобойную атаку по существу или предмету, считая алхимический огонь импровизированным оружием. При попадании цель получает урон огнём 1к4 в начале каждого своего хода. Существо может окончить этот урон, потратив действие на тушение пламени, и совершив проверку Ловкости со Сл 10."
+    },
+    {
+      "id": "Alchemist's supplies",
+      "name": "Scorte da Alchimista",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Potion of Healing",
+      "name": "Зелье лечения",
+      "description": "Существо, выпившее магическую красную жидкость из этого флакона, восстанавливает 2к4 + 2 хита. Зелье выпивается или заливается в рот другому действием."
+    },
+    {
+      "id": "Arrows",
+      "name": "Стрелы (20)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Backpack",
+      "name": "Рюкзак",
+      "description": "Вместимость: 1 кубический фут/30 фунтов (15 килограмм)<br>Вы также можете привязывать такие предметы как спальники и верёвки снаружи рюкзака."
+    },
+    {
+      "id": "Bagpipes",
+      "name": "Cornamusa",
+      "description": "<p>Sulla tabella sono mostrati alcuni dei più comuni esempi di strumenti musicali. Se hai la competenza con uno specifico strumento musicale, puoi sommare il tuo bonus di competenza a qualsiasi prova di caratteristica effettuata per suonare musica con quello strumento. Ogni tipo di strumento musicale richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Ball Bearings",
+      "name": "Металлические шарики (сумка с 1000 шт.)",
+      "description": "Вы можете действием рассыпать из этого мешка крохотные металлические шарики, покрыв площадь 10 × 10 футов. Существа, перемещающиеся по этой области, должны преуспеть в спасброске Ловкости со Сл 10, иначе они падают ничком. Существо, перемещающееся по этой области с уменьшенной вдвое скоростью, не обязано совершать спасбросок."
+    },
+    {
+      "id": "Barrel",
+      "name": "Barile",
+      "description": "<p>Un barile pu&ograve; contenere 160 litri di liquido o 0,12 metri cubi di solidi.</p>"
+    },
+    {
+      "id": "Potion of Superior Healing",
+      "name": "Зелье отличного лечения",
+      "description": "Вы восстанавливаете 8d4 + 8 хитов, когда выпиваете это зелье. Зелье представляет собой красную жидкость, сверкающую при встряхивании."
+    },
+    {
+      "id": "Basic Poison",
+      "name": "Veleno Base (fiala)",
+      "description": "<p>Puoi usare il veleno in questa fiala per coprire un’arma tagliente o perforante o fino a tre pezzi di munizioni. Applicare il veleno necessita un’azione. Una creatura colpita da un’arma o munizione avvelenata deve superare un tiro salvezza su Costituzione con CD 10 o subire 1d4 danni da veleno. Una volta applicato, il veleno mantiene la sua efficacia per 1 minuto prima di seccarsi.</p>"
+    },
+    {
+      "id": "Basket",
+      "name": "Корзина",
+      "description": "Вместимость: 2 кубических фута/40 фунтов (20 килограмм)"
+    },
+    {
+      "id": "Battleaxe",
+      "name": "Боевой топор",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Bedroll",
+      "name": "Спальник",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Bell",
+      "name": "Колокольчик",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Blanket",
+      "name": "Одеяло",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Block and Tackle",
+      "name": "Блок и лебедка",
+      "description": "Набор блоков и тросов с крюками для подвешивания предметов. Блок и лебёдка позволяют вам поднять в четыре раза больше, чем обычно."
+    },
+    {
+      "id": "Potion of Supreme Healing",
+      "name": "Зелье превосходного лечения",
+      "description": "Вы восстанавливаете 10d4 + 20 хитов, когда выпиваете это зелье. Зелье представляет собой красную жидкость, сверкающую при встряхивании."
+    },
+    {
+      "id": "Blowgun",
+      "name": "Духовая трубка",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Blowgun Needle",
+      "name": "Духовая трубка",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Book",
+      "name": "Книга",
+      "description": "В книге могут быть стихи, документальные сведения, информация о чём-либо, диаграммы и заметки о гномьих приспособлениях, или что угодно другое, представленное текстом и картинками. <a href='https://tentaculus.ru/equipment/#q=spellbook'>Книга с заклинаниями</a> — другое дело."
+    },
+    {
+      "id": "Breastplate",
+      "name": "Кираса",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Brewer's Supplies",
+      "name": "Scorte da Mescitore",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p></div>"
+    },
+    {
+      "id": "Bucket",
+      "name": "Ведро",
+      "description": "Вместимость: 3 галлона (11 литров), 0,5 кубических футов"
+    },
+    {
+      "id": "Bullseye Lantern",
+      "name": "Lanterna a Lente Sporgente",
+      "description": "<div title=\"Page 152\"><div><div><p>Una lanterna a lente sporgente proietta luce intensa in un cono di 18 metri e luce fioca per ulteriori 18 metri. Una volta accesa, arde per 6 ore consumando 1 ampolla (0,5 litri} di olio.</p></div></div></div>"
+    },
+    {
+      "id": "Calligrapher's Supplies",
+      "name": "Scorte da Calligrafo",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p></div>"
+    },
+    {
+      "id": "Caltrops",
+      "name": "Калтропы (сумка 20 шт.)",
+      "description": "Вы можете действием рассыпать сумку калтропов по площади в 5 × 5 футов. Все существа, входящие в эту область, должны преуспеть в спасброске Ловкости со Сл 15, иначе они останавливаются и получают колющий урон 1. Пока это существо не восстановит как минимум 1 хит, его скорость ходьбы уменьшена на 10 футов. Существо, перемещающееся по этой области с уменьшенной вдвое скоростью, не обязано совершать спасбросок."
+    },
+    {
+      "id": "Candle",
+      "name": "Свеча",
+      "description": "В течение 1 часа свеча испускает яркий свет в пределах радиуса 5 футов и тусклый свет в пределах ещё 5 футов."
+    },
+    {
+      "id": "Carpenter's Tools",
+      "name": "Strumenti da Falegname",
+      "description": "<div title=\"Page 154\"><div><div><p>Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br>gli oggetti relativi a un singolo tipo di artigianato.</p><p>La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Cartographer's Tools",
+      "name": "Strumenti da Cartografo",
+      "description": "<div title=\"Page 154\"><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p></div>"
+    },
+    {
+      "id": "Chain (10 feet)",
+      "name": "Цепь (10 футов)",
+      "description": "У цепи 10 хитов. Её можно порвать успешной проверкой Силы со Сл 20."
+    },
+    {
+      "id": "Chain Mail",
+      "name": "Кольчужная броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Chain Shirt",
+      "name": "Кольчужная рубаха",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Chalk",
+      "name": "Мел (1 кусок)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Chest",
+      "name": "Сундук",
+      "description": "Вместимость: 12 кубических футов/300 фунтов (150 килограмм)"
+    },
+    {
+      "id": "Climber's Kit",
+      "name": "Комплект для лазания",
+      "description": "В набор для лазания входят шлямбуры, накладные подошвы, перчатки и страховочная привязь. Вы можете действием использовать набор для лазания, чтобы закрепиться на высоте; если вы делаете это, вы не можете упасть более чем на 25 футов от того места, где закрепились, но и не можете подняться выше 25 футов от этого места, не открепившись."
+    },
+    {
+      "id": "Club",
+      "name": "Дубинка",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Cobbler's Tools",
+      "name": "Strumenti da Calzolaio",
+      "description": "<div title=\"Page 154\"><div><div><p>Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce gli oggetti relativi a un singolo tipo di artigianato.</p><p>La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Common Clothes",
+      "name": "Abito, Comune",
+      "description": "<p>Abiti indossati dalla maggior parte delle persone comuni.</p>"
+    },
+    {
+      "id": "Component Pouch",
+      "name": "Мешочек с компонентами",
+      "description": "Мешочек с компонентами это маленький водонепроницаемый кожаный поясной кошель с отделениями для хранения материальных компонентов и других особых предметов, нужных для накладывания заклинаний, если только у этих компонентов не указана стоимость (смотрите описание заклинания)."
+    },
+    {
+      "id": "Cook's Utensils",
+      "name": "Utensili da Cuoco",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Crossbow Bolt",
+      "name": "Арбалетные болты (20)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Crossbow Bolt Case",
+      "name": "Custodia per Quadr. da Balestra",
+      "description": "<div title=\"Page 151\"><div><div><p>Questa custodia in legno può contenere fino a 20 quadrellida balestra.</p></div></div></div>"
+    },
+    {
+      "id": "Crowbar",
+      "name": "Ломик",
+      "description": "Использование ломика позволяет совершать проверки Силы с преимуществом, если рычаг должен помочь."
+    },
+    {
+      "id": "Crystal",
+      "name": "Кристалл",
+      "description": "Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний, как описано в главе 10."
+    },
+    {
+      "id": "Dagger",
+      "name": "Кинжал",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Dart",
+      "name": "Дротик",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Disguise Kit",
+      "name": "Trucchi per il Camuffamento",
+      "description": "<div title=\"Page 154\"><div><div><p>Questa borsa di cosmetici, tinture per capelli e piccoli accessori consente a chi la usa di alterare il proprio aspetto fisico.</p><p>La competenza in questi trucchi permette a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica che effettua per camuffare visivamente qualcuno.</p></div></div></div>"
+    },
+    {
+      "id": "Double-Bladed Scimitar",
+      "name": "Скимитар",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Drum",
+      "name": "Tamburo",
+      "description": "<div title=\"Page 154\"><div><div><p>Alcuni dei più comuni tipi di strumenti musicali sono indicati nella tabella come esempi. Un personaggio che possiede competenza in un determinato strumento musicale può aggiungere il proprio bonus di competenza alle prove di caratteristica effettuate per suonare con quello strumento. Un bardo può usare uno strumento musicale come focus da incantatore, come descritto nel capitolo 10. Ogni tipo di strumento musicale richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Dulcimer",
+      "name": "Dulcimer",
+      "description": "<div title=\"Page 154\"><div><div><p>Alcuni dei più comuni tipi di strumenti musicali sono indicati nella tabella come esempi. Un personaggio che possiede competenza in un determinato strumento musicale può aggiungere il proprio bonus di competenza alle prove di caratteristica effettuate per suonare con quello strumento. Un bardo può usare uno strumento musicale come focus da incantatore, come descritto nel capitolo 10. Ogni tipo di strumento musicale richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Fine Clothes",
+      "name": "Abito, Pregiato",
+      "description": "<p>Set di abiti progettati specificamente per essere costosi e ammirati.</p>"
+    },
+    {
+      "id": "Fishing Tackle",
+      "name": "Комплект для рыбалки",
+      "description": "В этот набор входит удилище, шёлковая леска, пробковый поплавок, стальные крючки, свинцовые грузила, приманки из ниток и мелкоячеистая сеть."
+    },
+    {
+      "id": "Flail",
+      "name": "Цеп",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Flask",
+      "name": "Алхимический огонь (фляжка)",
+      "description": "Эта вязкая и клейкая жидкость воспламеняется при контакте с воздухом. Вы можете действием метнуть фляжку на расстояние до 20 футов, разбив её от удара. Совершите дальнобойную атаку по существу или предмету, считая алхимический огонь импровизированным оружием. При попадании цель получает урон огнём 1к4 в начале каждого своего хода. Существо может окончить этот урон, потратив действие на тушение пламени, и совершив проверку Ловкости со Сл 10."
+    },
+    {
+      "id": "Flask of Holy Water",
+      "name": "Acqua Santa",
+      "description": "<div title=\"Page 151\"><div><div><p>Con un'azione, il personaggio può spruzzare il contenuto di questa ampolla su una creatura situata entro 1,5 metri da lui o lanciarla fino a 6 metri di distanza (l'ampolla si frantumerà all'impatto). In ogni caso, il personaggio effettua un attacco a distanza contro la creatura bersaglio, considerando l'acqua santa come un'arma improvvisata. Se il bersaglio è un immondo o un non morto, subisce 2d6 danni radiosi.</p><p>Un chierico o un paladino può creare l'acqua santa celebrando un rituale speciale. Per celebrare questo rituale è richiesta 1 ora di tempo e polvere d'argento per un valore di 25 mo; l'incantatore deve inoltre spendere uno slot incantesimo di 1° livello.</p></div></div></div>"
+    },
+    {
+      "id": "Flute",
+      "name": "Flauto",
+      "description": "<p><span style=\"color: #191813; font-size: 13px;\">Alcuni dei più comuni tipi di strumenti musicali sono indicati nella tabella come esempi. Un personaggio che possiede competenza in un determinato strumento musicale può aggiungere il proprio bonus di competenza alle prove di caratteristica effettuate per suonare con quello strumento. Un bardo può usare uno strumento musicale come focus da incantatore, come descritto nel capitolo 10. Ogni tipo di strumento musicale richiede una competenza separata.</span></p>"
+    },
+    {
+      "id": "Forgery Kit",
+      "name": "Kit da Falsario",
+      "description": "<div title=\"Page 8\"><div><div><p>Questa piccola scatola contiene diversi pezzi di carta e pergamena, penne e inchiostri, sigilli e ceralacca, foglie d’oro e d’argento, e altre risorse necessarie per creare dei falsi convincenti di documenti fisici. La competenza con questo kit ti permette di sommare il tuo bonus di competenza alle prove di caratteristica effettuate per falsificare un documento fisico.</p></div></div></div>"
+    },
+    {
+      "id": "Gaming Set",
+      "name": "Giochi",
+      "description": "<div title=\"Page 154\"><div><div><p>Questo strumento comprende un assortimento di pezzi da gioco, tra cui dadi e mazzi di carte (per giochi come Tre Draghi al Buio). Alcuni esempi comuni compaiono sulla tabella \"Strumenti\", ma esistono anche giochi di altro tipo. Se un personaggio ècompetente in un gioco, può aggiungere il suo bonus di competenza alle prove di caratteristica che effettua quando gioca una partita a quel gioco. Ogni tipo di gioco richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Glaive",
+      "name": "Глефа",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Glass Bottle",
+      "name": "Bottiglia di Vetro",
+      "description": "<p>Una bottiglia di vetro tiene 0,75 litri di liquidi</p>"
+    },
+    {
+      "id": "Glassblower's Tools",
+      "name": "Strumenti da Soffiatore",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Grappling Hook",
+      "name": "Крюк-кошка",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Greataxe",
+      "name": "Секира",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Greatclub",
+      "name": "Палица",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Greatsword",
+      "name": "Двуручный меч",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Halberd",
+      "name": "Алебарда",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Half Plate Armor",
+      "name": "Полулаты",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Hammer",
+      "name": "Молоток",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Hand Crossbow",
+      "name": "Balestra a Mano",
+      "description": "<p>Una balestra leggera progettata per essere tenuta in una mano o legata al polso per sparare dardi leggeri.</p><div title=\"Page 147\"><div><div><p><strong>Leggera.</strong> Un'arma leggera è piccola e facile da maneggiare, cosa che ne fa un'arma ideale da usare per combattere con due armi. Vedi le regole relative a combattere con due armi nel capitolo 9.</p><p><strong>Munizioni</strong>. Un personaggio può effettuare un attacco a distanza usando un'arma dotata della proprietà munizioni solo se possiede delle munizioni da lanciare. Ogni volta che attacca con l'arma, consuma una delle sue munizioni. Estrarre la munizione da una faretra, una custodia o un altro contenitore è considerato parte dell'attacco (il personaggio avrà bisogno di una mano libera per caricare un'arma a una mano). Alla fine della battaglia, il personaggio può recuperare metà delle munizioni consumate impiegando un minuto a setacciare il campo di battaglia.</p><p>Se il personaggio usa un'arma dotata della proprietà munizioni per effettuare un attacco in mischia, considera quell'arma come un'arma improvvisata (vedi \"Armi Improvvisate\", sotto). Una fionda deve essere caricata per infliggere danni quando viene usata in questo modo.</p></div></div></div>"
+    },
+    {
+      "id": "Handaxe",
+      "name": "Ручной топор",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Healer's Kit",
+      "name": "Комплект целителя",
+      "description": "Это кожаный кошель с бинтами, мазями и шинами. Набор годится для десяти использований. Вы можете действием потратить одно использование набора для стабилизации существа, у которого 0 хитов, не совершая проверку Мудрости (Медицина)."
+    },
+    {
+      "id": "Heavy Crossbow",
+      "name": "Balestra Pesante",
+      "description": "<p>Una grande balestra montata su un robusto blocco di legno che viene caricata con una manovella. Spara bulloni d'acciaio spessi con una micidiale accelerazione tale da perforare armature e carne.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Pesante.</strong>&nbsp;Le creature piccole subiscono svantaggio ai tiri per colpire con le armi pesanti. La taglia e la stazza di un'arma pesante sono eccessive affinché una creatura Piccola possa usarla con efficacia.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">A due mani.</strong> Questa arma richiede di essere impugnata a due mani quando il personaggio la usa per attaccare.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Munzloni</strong>. Un personaggio può effettuare un attacco a distanza usando un'arma dotata della proprietà munizioni solo se possiede delle munizioni da lanciare. Ogni volta che attacca con l'arma, consuma una delle sue munizioni. Estrarre la munizione da una faretra, una custodia o un altro contenitore è considerato parte dell'attacco (il personaggio avrà bisogno di una mano libera per caricare un'arma a una mano). Alla fine della battaglia, il personaggio può recuperare metà delle munizioni consumate impiegando un minuto a setacciare il campo di battaglia.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Se il personaggio usa un'arma dotata della proprietà munizioni per effettuare un attacco in mischia, considera quell'arma come un'arma improvvisata (vedi \"Armi Improvvisate\", sotto). Una fionda deve essere caricata per inflìggere danni quando viene usata in questo modo.</p>"
+    },
+    {
+      "id": "Hempen Rope (50ft)",
+      "name": "Corda di Canapa (15 mt)",
+      "description": "<p>La corda, fatta di canapa o seta, ha 2 punti ferita e può essere spezzata con un controllo su Forza con CD 17.</p>"
+    },
+    {
+      "id": "Herbalism Kit",
+      "name": "Borsa da Erborista",
+      "description": "<div title=\"Page 154\"><div><div><p>Questa borsa contiene vari strumenti come forbici, mortaio, pestello, sacchetti e fiale usate dagli erboristi per creare rimedi e pozioni. La competenza in questo oggetto consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata per identificare o applicare erbe. È inoltre richiesta competenza in questo oggetto per creare antitossine e pozioni di guarigione.</p></div></div></div>"
+    },
+    {
+      "id": "Hide Armor",
+      "name": "Броня из шкур",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Hooded Lantern",
+      "name": "Lanterna Schermabile",
+      "description": "<p>Una lanterna schermabile proietta luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri. Una volta accesa, arde per 6 ore consumando 1 ampolla (0,5 litri}di olio. Con un'azione, un personaggio può abbassare il cappuccio della lanterna, riducendo la luce proiettata a luce fioca in un raggio di 1,5 metri.</p>"
+    },
+    {
+      "id": "Horn",
+      "name": "Рог взрыва",
+      "description": "Вы можете действием произнести командное слово рога и подуть в него, испуская взрыв 30-футовым конусом, слышимый на расстоянии 600 футов. Все существа в конусе должны совершить спасбросок Телосложения со Сл 15. При провале существо получает урон звуком 5к6 и становится оглохшим на 1 минуту. При успехе существо получает половину урона и не становится оглохшим. Существа и предметы, изготовленные из стекла или кристаллов, спасбросок совершают с помехой и получают урон звуком 10к6, а не 5к6. <br>При каждом использовании магии рога существует 20-процентный шанс, что он взорвётся. Взрыв причиняет урон огнём 10к6 тому, кто в него дул, и уничтожает рог."
+    },
+    {
+      "id": "Hourglass",
+      "name": "Песочные часы",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Hunting Trap",
+      "name": "Охотничий капкан",
+      "description": "Если вы действием установите эту ловушку, она образует стальное кольцо с зазубренными краями, которая захлопывается, когда в её центр наступает существо. Капкан привязывается толстой цепью к неподвижному предмету, такому как дерево или <a href='https://tentaculus.ru/equipment/#q=spike'>колышек</a>, вбитый в землю. Существо, наступившее в центр, должно преуспеть в спасброске Ловкости со Сл 13, иначе оно получает колющий урон 1к4 и прекращает перемещение. Впоследствии, пока существо не высвободится из ловушки, его перемещения ограничены длиной цепи (обычно 1 метр). Любое существо может действием совершить проверку Силы со Сл 13, чтобы высвободить себя или другое существо, находящееся в пределах досягаемости. Каждая проваленная проверка причиняет пойманному существу колющий урон 1."
+    },
+    {
+      "id": "Ink Bottle",
+      "name": "Inchiostro (boccetta da 30 gr.)",
+      "description": "<p>Una piccola bottiglia di inchiostro per scrivere su pergamena.</p>"
+    },
+    {
+      "id": "Ink Pen",
+      "name": "Писчее перо",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Iron Pot",
+      "name": "Vaso di Ferro",
+      "description": "<p>Un vaso di ferro tiene 4 litri di liquidi.</p>"
+    },
+    {
+      "id": "Iron Spikes",
+      "name": "Пика",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Javelin",
+      "name": "Метательное копьё",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Jeweler's Tools",
+      "name": "Strumenti da Gioielliere",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Jug",
+      "name": "Кувшин или графин",
+      "description": "Вместимость: 1 галлон (3,75 литра)"
+    },
+    {
+      "id": "Ladder (10-foot)",
+      "name": "Лестница (10 футов)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Lamp",
+      "name": "Лампа",
+      "description": "Лампа испускает яркий свет в пределах 15 футов и тусклый свет в пределах ещё 30 футов. Зажжённая лампа горит 6 часов от одной <a href='https://tentaculus.ru/equipment/#q=oil'>фляги (1 пинта [0,5 литра]) масла</a>."
+    },
+    {
+      "id": "Lance",
+      "name": "Длинное копьё",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Leather Armor",
+      "name": "Кожанная броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Leatherworker's Tools",
+      "name": "Кожанная броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Light Crossbow",
+      "name": "Balestra Leggera",
+      "description": "<p>Una piccola balestra con un manico di legno e una corda tesa in grado di sparare un singolo dardo che pu&ograve; perforare anche armature pesanti a distanza ravvicinata.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Leggera.</strong>&nbsp;Un'arma leggera è piccola e facile da maneggiare, cosa che ne fa un'arma ideale da usare per combattere con due armi. Vedi le regole relative a combattere con due armi nel capitolo 9.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">A due mani.</strong>&nbsp;Questa arma richiede di essere impugnata a due mani quando il personaggio la usa per attaccare.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Munzloni</strong>. Un personaggio può effettuare un attacco a distanza usando un'arma dotata della proprietà munizioni solo se possiede delle munizioni da lanciare. Ogni volta che attacca con l'arma, consuma una delle sue munizioni. Estrarre la munizione da una faretra, una custodia o un altro contenitore è considerato parte dell'attacco (il personaggio avrà bisogno di una mano libera per caricare un'arma a una mano). Alla fine della battaglia, il personaggio può recuperare metà delle munizioni consumate impiegando un minuto a setacciare il campo di battaglia.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Se il personaggio usa un'arma dotata della proprietà munizioni per effettuare un attacco in mischia, considera quell'arma come un'arma improvvisata (vedi \"Armi Improvvisate\", sotto). Una fionda deve essere caricata per inflìggere danni quando viene usata in questo modo.</p>"
+    },
+    {
+      "id": "Light Hammer",
+      "name": "Лёгкий молот",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Lock",
+      "name": "Замóк",
+      "description": "Вместе с замком идёт и ключ. Без ключа существо, владеющее воровскими инструментами, может вскрыть замок успешной проверкой Ловкости со Сл 15. Мастер может решить, что есть более качественные замки, стоящие больше."
+    },
+    {
+      "id": "Longbow",
+      "name": "Длинный лук",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Longsword",
+      "name": "Длинный меч",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Lute",
+      "name": "Лютня Досс (Инструмент бардов)",
+      "description": "Инструмент бардов это прекрасный образец музыкального инструмента, во всём превосходящий обычные аналоги. Есть семь разновидностей таких инструментов, каждый назван в честь одной из легендарных коллегий бардов. В приведённом списке указаны заклинания, общие для всех инструментов, а также заклинания, специфичные для каждого инструмента, а также редкость этих инструментов. Существо, пытающееся играть на инструменте, не будучи настроенным на него, должно преуспеть в спасброске Мудрости со Сл 15, иначе получит урон психической энергией 2к4. <br>Вы можете действием сыграть на инструменте и наложить одно из его заклинаний. После того как инструмент использован для наложения заклинания, он не может повторно накладывать это заклинание до следующего рассвета. Заклинания используют вашу базовую характеристику и Сл спасбросков от ваших заклинаний. <br>Если вы использовали инструмент для накладывания заклинания, которое делает цель очарованной при провале спасброска, цель совершает этот спасбросок с помехой. Этот эффект применяется вне зависимости от того, использовали ли вы инструмент в качестве источника заклинания или в качестве заклинательной фокусировки.<br> Заклинания инструмента:  <a href='https://tentaculus.ru/spells/#q=Fly'>полёт</a>, <a href='https://tentaculus.ru/spells/#q=invisibility'>невидимость</a>, <a href='https://tentaculus.ru/spells/#q=levitate'>левитация,</a>, <a href='https://tentaculus.ru/spells/#q=protection_from_evil_and_good'>защита от добра и зла</a>, <a href='https://tentaculus.ru/spells/#q=Animal_friendship'>дружба с животными</a>, <a href='https://tentaculus.ru/spells/#q=protection_from_energy'>защита от энергии</a> (только огонь), <a href='https://tentaculus.ru/spells/#q=protection_from_poison'>защита от яда</a>"
+    },
+    {
+      "id": "Lyre",
+      "name": "Лира Кли (Инструмент бардов)",
+      "description": "Инструмент бардов это прекрасный образец музыкального инструмента, во всём превосходящий обычные аналоги. Есть семь разновидностей таких инструментов, каждый назван в честь одной из легендарных коллегий бардов. В приведённом списке указаны заклинания, общие для всех инструментов, а также заклинания, специфичные для каждого инструмента, а также редкость этих инструментов. Существо, пытающееся играть на инструменте, не будучи настроенным на него, должно преуспеть в спасброске Мудрости со Сл 15, иначе получит урон психической энергией 2к4. <br>Вы можете действием сыграть на инструменте и наложить одно из его заклинаний. После того как инструмент использован для наложения заклинания, он не может повторно накладывать это заклинание до следующего рассвета. Заклинания используют вашу базовую характеристику и Сл спасбросков от ваших заклинаний. <br>Если вы использовали инструмент для накладывания заклинания, которое делает цель очарованной при провале спасброска, цель совершает этот спасбросок с помехой. Этот эффект применяется вне зависимости от того, использовали ли вы инструмент в качестве источника заклинания или в качестве заклинательной фокусировки.<br>  Заклинания инструмента: <a href='https://tentaculus.ru/spells/#q=Fly'>полёт</a>, <a href='https://tentaculus.ru/spells/#q=invisibility'>невидимость</a>, <a href='https://tentaculus.ru/spells/#q=levitate'>левитация,</a>, <a href='https://tentaculus.ru/spells/#q=protection_from_evil_and_good'>защита от добра и зла</a>, <a href='https://tentaculus.ru/spells/#q=Stone_shape'>изменение формы камня,</a>, <a href='https://tentaculus.ru/spells/#q=wall_of_fire'><a href='https://tentaculus.ru/spells/#q=wall_of_fire'>огненная стена</a></a>, <a href='https://tentaculus.ru/spells/#q=wind_wall'>стена ветров</a>"
+    },
+    {
+      "id": "Mace",
+      "name": "Булава",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Magnifying Glass",
+      "name": "Увеличительное стекло",
+      "description": "Эта линза позволяет разглядывать маленькие предметы. Линзу также можно использовать для замены кремня и кресала. Разжигание огня увеличительным стеклом требует света, яркого как свет солнца, трута для розжига и примерно 5 минут. Увеличительное стекло позволяет совершать с преимуществом проверки характеристик, сделанных для оценки или исследования мелких и высокодетализированных предметов."
+    },
+    {
+      "id": "Manacles",
+      "name": "Кандалы",
+      "description": "Эти металлические оковы удерживают существ Маленького и Среднего размера. Для того чтобы сбежать из кандалов, требуется успешная проверка Ловкости со Сл 20. Для того чтобы их сломать, требуется проверка Силы со Сл 20. Каждый набор кандалов идёт с одним ключом. Без ключа существо, владеющее воровскими инструментами, может вскрыть замок кандалов успешной проверкой Ловкости со Сл 15. У кандалов 15 хитов"
+    },
+    {
+      "id": "Map or Scroll Case",
+      "name": "Scatola per Mappe o Pergamene",
+      "description": "<p>Questa custodia cilindrica in pelle può contenere fino a dieci fogli di carta arrotolati o cinque fogli di pergamena arrotolati.ent.</p>"
+    },
+    {
+      "id": "Mason's Tools",
+      "name": "Strumenti da Costruttore",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Maul",
+      "name": "Молот",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Merchant's Scale",
+      "name": "Bilancia da Mercante",
+      "description": "<div title=\"Page 5\"><div><div><p>Una bilancia da mercante include un piccolo bilanciere, un piatto, e un assortimento di pesi fino a 1 chilo. Con essa, puoi misurare il peso esatto di piccoli oggetti, come metalli preziosi o merci, per aiutarti a determinarne il valore.</p></div></div></div>"
+    },
+    {
+      "id": "Mess Kit",
+      "name": "Столовый набор",
+      "description": "В этой небольшой коробке находится чашка и простые столовые приборы. Коробка раскрывается, и одна сторона может использоваться как сковорода, а другая — как тарелка или неглубокая миска."
+    },
+    {
+      "id": "Miner's Pick",
+      "name": "Piccone da Minatore",
+      "description": "<p>È uno strumento con manico e con una testa dura attaccata perpendicolare.</p>"
+    },
+    {
+      "id": "Morningstar",
+      "name": "Моргенштерн",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Musical Instrument",
+      "name": "Strumento Musicale",
+      "description": "<div title=\"Page 9\"><div><div><p>Sulla tabella sono mostrati alcuni dei più comuni esempi di strumenti musicali. Se hai la competenza con uno specifico strumento musicale, puoi sommare il tuo bonus di competenza a qualsiasi prova di caratteristica effettuata per suonare musica con quello strumento. Ogni tipo di strumento musicale richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Navigator’s Tools",
+      "name": "Strumenti da Navigatore",
+      "description": "<div title=\"Page 154\"><div><div><p>Questa serie di strumenti viene usata per navigare in mare. La competenza negli strumenti da navigatore consente a un personaggio di tracciare la rotta di una nave e di seguire le carte nautiche.</p></div><div><p>Questi strumenti consentono inoltre a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata per evitare di smarrirsi in mare.</p></div></div></div>"
+    },
+    {
+      "id": "Net",
+      "name": "Сеть",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Oil Flask",
+      "name": "Olio (ampolla)",
+      "description": "<div title=\"Page 6\"><div><div><p>Di solito si compra in un’ampolla d’argilla che contiene 0,5 litri. Con un’azione, puoi spargere l’olio in questa ampolla su di una creatura entro 1,5 metri da te o lanciarla fino a 6 metri, fracassandola all’impatto. In entrambi i casi, effettua un tiro per colpire a distanza contro la creatura o l’oggetto, trattando l’olio come un’arma improvvisata. Se colpisci, il bersaglio è ricoperto d’olio. Se il bersaglio subisse qualsiasi entità di danno da fuoco prima che l’olio si asciughi (dopo 1 minuto), il bersaglio subisce altri 5 danni da fuoco dall’olio infiammato. Puoi anche versare un’ampolla d’olio sul pavimento per coprire un quadrato di 1,5 metri di lato, purché la superficie sia piana. Se infiammato, l’olio brucia per 2 round e infligge 5 danni da fuoco a qualsiasi creatura che entri nell’area o termini il suo turno dentro di essa. Una creatura può subire questo danno solo una volta per turno.</p></div></div></div>"
+    },
+    {
+      "id": "Oil of Etherealness",
+      "name": "Масло эфирности",
+      "description": "Крошечные капли этого серого масла очень быстро испаряются. Маслом можно обмазать одно существо <br>Среднего или меньшего размера, вместе с одеждой и переносимым им снаряжением (на каждую категорию размера выше Среднего необходим один дополнительный пузырёк масла). Нанесение масла занимает 10 минут. Обмазанное существо получает на 1 час эффект заклинания <a href='https://tentaculus.ru/spells/#q=etherealness'>эфирность</a>."
+    },
+    {
+      "id": "Oil of Sharpness",
+      "name": "Масло остроты",
+      "description": "Это прозрачное и густое масло сверкает от крошечных серебристых включений. Масло может покрыть одно рубящее или колющее оружие или до 5 рубящих или колющих боеприпасов. Нанесение масла занимает 1 минуту. В течение часа покрытые предметы считаются магическими и предоставляют бонус +3 к броскам атаки и урона."
+    },
+    {
+      "id": "Oil of Slipperiness",
+      "name": "Масло ускользания",
+      "description": "Эта липкая, чёрная мазь, хранящаяся в толстостенном и тяжёлом контейнере, очень текуча. Маслом можно обмазать одно существо Среднего или меньшего размера, вместе с одеждой и переносимым им снаряжением (на каждую категорию размера выше <br>Среднего необходим один дополнительный пузырёк масла). Нанесение масла занимает 10 минут. Обмазанное существо получает на 8 часов эффект заклинания <a href='https://tentaculus.ru/spells/#q=freedom_of_movements'>свобода перемещения</a>. <br>В качестве альтернативы, можно действием разлить масло по полу, покрыв площадь 10 × 10 футов. <br>Эффект будет такой же, как от заклинания <a href='https://tentaculus.ru/spells/#q=grease'>скольжение</a> длительностью 8 часов."
+    },
+    {
+      "id": "Padded Armor",
+      "name": "Стеганная броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Painter's Supplies",
+      "name": "Scorte da Pittore",
+      "description": "<div title=\"Page 8\"><div><div><p>Questi attrezzi speciali comprendono gli oggetti necessari a condurre un&rsquo;attività. La tabella mostra degli esempi degli attrezzi più comuni, ognuno dei quali fornisce oggetti legati a una singola attività. La competenza con un set di attrezzi da artigiano ti permette di sommare il tuo bonus di competenza a qualsiasi prova di caratteristica effettuata usando quegli attrezzi nella tua attività. Ogni tipo di attrezzi da artigiano richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Pan Flute",
+      "name": "Zufolo",
+      "description": "<div title=\"Page 9\"><div><div><p>Sulla tabella sono mostrati alcuni dei più comuni esempi di strumenti musicali. Se hai la competenza con uno specifico strumento musicale, puoi sommare il tuo bonus di competenza a qualsiasi prova di caratteristica effettuata per suonare musica con quello strumento. Ogni tipo di strumento musicale richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Paper",
+      "name": "Бумага (1 лист)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Parchment",
+      "name": "Пергамент (1 лист)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Perfume",
+      "name": "Духи́ (флакон)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Philter of Love",
+      "name": "Любовное зелье",
+      "description": "Вы становитесь на 1 час очарованы первым же существом, которое вы увидите в течение 10 минут после того, как выпили это зелье. Если существо принадлежит к биологическому виду и полу, которые привлекают вас в обычных условиях, то вы воспринимаете его как свою истинную любовь, пока очарованы им. <br>Жидкость представляет собой розовую, шипучую жидкость, с пузырьками в виде сердец."
+    },
+    {
+      "id": "Pike",
+      "name": "Пика",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Pitcher",
+      "name": "Кувшин или графин",
+      "description": "Вместимость: 1 галлон (3,75 литра)"
+    },
+    {
+      "id": "Piton",
+      "name": "Шлямбур",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Plate Armor",
+      "name": "Латы",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Poisoner’s Kit",
+      "name": "Sostanze da Avvelenatore",
+      "description": "<div title=\"Page 154\"><div><div><p>Una borsa dell'avvelenatore include le fiale, le sostanze chimiche e le altre attrezzature necessarie per fabbricare veleni. La competenza in questo strumento consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata per fabbricare o utilizzare veleni.</p></div></div></div>"
+    },
+    {
+      "id": "Pole",
+      "name": "Шест (10 футов)",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Portable Ram",
+      "name": "Ariete Portatile",
+      "description": "<p>Puoi usare un ariete portatile per abbattere le porte. Nel farlo, ottieni un bonus di +4 alle prove di Forza. Un altro personaggio può aiutarti con l’uso dell’ariete, dandoti vantaggio sulla prova.&nbsp;</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Potion of Acid Resistance",
+      "name": "Pozione di Resistenza all'Acido ",
+      "description": "<p><em>La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></p><div title=\"Page 30\"><div><div><p>Quando bevi questa pozione, per 1 ora ottieni resistenza a danni di tipo acido.&nbsp;</p></div></div></div><p>&nbsp;</p>"
+    },
+    {
+      "id": "Potion of Animal Friendship",
+      "name": "Зелье дружбы с животными",
+      "description": "После того как вы выпили это зелье, вы можете в течение одного часа неограниченно накладывать заклинание <a href='https://tentaculus.ru/spells/#q=animal_friendship'>дружба с животными</a> (Сл спасброска 13). <br>При взбалтывании этой мутной жидкости вы видите рыбью чешую, кошачьи когти, беличью шерсть и прочие фрагменты."
+    },
+    {
+      "id": "Potion of Clairvoyance",
+      "name": "Зелье ясновидения",
+      "description": "Выпив это зелье, вы получаете эффект заклинания <a href='https://tentaculus.ru/spells/#q=clairvoyance'>ясновидения</a>. В желтоватой жидкости зелья плавают глазные яблоки, но они исчезают, когда пузырёк открывают."
+    },
+    {
+      "id": "Potion of Climbing",
+      "name": "Зелье лазания",
+      "description": "Когда вы выпиваете это зелье, вы получаете на 1 час скорость лазания, равную вашей скорости ходьбы. В течение этого времени вы совершаете с преимуществом проверки Силы (Атлетика), совершённые, чтобы лезть. Зелье представляет собой трёхцветную жидкость. Коричневый, серебряный и серый слои структурой напоминают рисунок на камне и не смешиваются между собой, как бы вы ни трясли пузырёк."
+    },
+    {
+      "id": "Potion of Cloud Giant Strength",
+      "name": "Зелье силы облачного великана",
+      "description": "Когда вы выпиваете это зелье, значение вашей Силы станет равным 27 на один час. Зелье не оказывает на вас никакого эффекта в том случае, если значение вашей Силы уже равно этому значению или превосходит его. <br>В прозрачной жидкости этого зелья плавают обрезки ногтей великана соответствующего вида. "
+    },
+    {
+      "id": "Potion of Cold Resistance",
+      "name": "Pozione di Resistenza al Freddo",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Signika, 'Palatino Linotype', serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div title=\"Page 30\"><div><div><p>Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni del freddo.</p></div></div></div><p>&nbsp;</p>"
+    },
+    {
+      "id": "Potion of Diminution",
+      "name": "Зелье уменьшения",
+      "description": "Когда вы выпиваете это зелье, вы получаете на 1к4 часа эффект «уменьшение» заклинания <a href='https://tentaculus.ru/spells/#q=enlarge/reduce'>увеличение/ уменьшение</a> (концентрация не требуется). Маленький красный шарик в этой жидкости непрерывно сжимается до размера бусины и тут же расширяется, окрашивая прозрачную жидкость вокруг, после чего сжимается вновь. Тряска пузырька не прерывает этот процесс."
+    },
+    {
+      "id": "Potion of Fire Giant Strength",
+      "name": "Зелье силы огненного великана",
+      "description": "Когда вы выпиваете это зелье, значение вашей Силы станет равным 25 на один час. Зелье не оказывает на вас никакого эффекта в том случае, если значение вашей Силы уже равно этому значению или превосходит его.<br>В прозрачной жидкости этого зелья плавают обрезки ногтей великана соответствующего вида."
+    },
+    {
+      "id": "Potion of Fire Resistance",
+      "name": "Pozione di Resistenza al Fuoco",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Signika, 'Palatino Linotype', serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div title=\"Page 30\"><p>Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni del fuoco.</p></div><p>&nbsp;</p>"
+    },
+    {
+      "id": "Potion of Flying",
+      "name": "Зелье полёта",
+      "description": "Выпив это зелье, вы на 1 час получаете скорость полёта, равную вашей скорости ходьбы, и можете парить. Если вы находитесь в воздухе, когда зелье теряет силу, вы падаете, если не обладаете другими средствами, позволяющими оставаться в полёте. Прозрачная жидкость этого зелья парит у горлышка пузырька, и в ней плавают молочно-белые примеси."
+    },
+    {
+      "id": "Potion of Force Resistance",
+      "name": "Pozione di Resistenza alla Forza",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Signika, 'Palatino Linotype', serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div title=\"Page 30\"><p>Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni di forza.</p></div><p>&nbsp;</p>"
+    },
+    {
+      "id": "Potion of Frost Giant Strength",
+      "name": "Зелье силы ледяного великана",
+      "description": "Когда вы выпиваете это зелье, значение вашей Силы станет равным 23 на один час. Зелье не оказывает на вас никакого эффекта в том случае, если значение вашей Силы уже равно этому значению или превосходит его. <br>В прозрачной жидкости этого зелья плавают обрезки ногтей великана соответствующего вида. "
+    },
+    {
+      "id": "Potion of Gaseous Form",
+      "name": "Зелье газообразной формы",
+      "description": "Когда вы выпиваете это зелье, вы получаете эффект заклинания <a href='https://tentaculus.ru/spells/#q=gaseous_form'>газообразная форма</a> (концентрация не требуется) на 1 час, или пока вы бонусным действием не прервёте его. Пузырёк с этим зельем как будто содержит туман, перетекающий, словно вода."
+    },
+    {
+      "id": "Potion of Growth",
+      "name": "Зелье увеличения",
+      "description": "Когда вы выпиваете это зелье, вы получаете на 1к4 часа эффект «увеличение» заклинания <a href='https://tentaculus.ru/spells/#q=enlarge/reduce'>увеличение/ уменьшение</a> (концентрация не требуется). Маленький красный шарик в этой жидкости непрерывно сжимается до размера бусины и тут же расширяется, окрашивая прозрачную жидкость вокруг, после чего сжимается вновь. Тряска пузырька не прерывает этот процесс."
+    },
+    {
+      "id": "Potion of Heroism",
+      "name": "Зелье героизма",
+      "description": "После того, как вы выпили это зелье, вы на 1 час получаете 10 временных хитов. Кроме того, в течение этого часа вы находитесь под эффектом заклинания <a href='https://tentaculus.ru/spells/#q=bless'>благословление</a> (концентрация не требуется). Это синее зелье пузырится и парит, словно оно находится в состоянии закипания."
+    },
+    {
+      "id": "Potion of Hill Giant Strength",
+      "name": "Зелье силы холмового великана",
+      "description": "Когда вы выпиваете это зелье, значение вашей Силы станет равным 21 на один час. Зелье не оказывает на вас никакого эффекта в том случае, если значение вашей Силы уже равно этому значению или превосходит его.<br>В прозрачной жидкости этого зелья плавают обрезки ногтей великана соответствующего вида."
+    },
+    {
+      "id": "Potion of Invisibility",
+      "name": "Зелье невидимости",
+      "description": "Контейнер с этим зельем выглядит пустым, но на вес чувствуется, что он всё же содержит жидкость. Выпив её, вы становитесь невидимым на 1 час. Всё, что вы несёте и носите, становится невидимым вместе с вами. Эффект оканчивается преждевременно, если вы атакуете или наложите заклинание."
+    },
+    {
+      "id": "Potion of Lightning Resistance",
+      "name": "Pozione di Resistenza al Fulmine",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><p style=\"box-sizing: border-box; user-select: text;\">Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni da fulmine.</p></div><p>&nbsp;</p>"
+    },
+    {
+      "id": "Potion of Mind Reading",
+      "name": "Зелье чтения мыслей",
+      "description": "Когда вы выпиваете это зелье, вы получаете эффект заклинания <a href='https://tentaculus.ru/spells/#q=detect_thoughts'>обнаружение мыслей</a> (Сл спасброска 13). <br>На вид это густое, фиолетовое зелье, с плавающим в нём небольшим овальным облачком."
+    },
+    {
+      "id": "Potion of Necrotic Resistance",
+      "name": "Pozione di Resistenza alla Necrosi",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><p style=\"box-sizing: border-box; user-select: text;\">Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni di tipo necrotico.</p></div>"
+    },
+    {
+      "id": "Potion of Poison",
+      "name": "Зелье яда",
+      "description": "Эта смесь выглядит, пахнет и обладает таким же вкусом, что и зелье лечения или другое полезное зелье. <br>Однако, это самый настоящий яд, чья истинная природа скрыта магией иллюзий. Заклинание <a href='https://tentaculus.ru/spells/#q=identify'>опознания</a> раскрывает этот обман. <br>Если вы всё же выпьете это зелье, вы получаете урон ядом 3к6 и должны преуспеть в спасброске Телосложения со Сл 13, иначе станете отравленным. В начале каждого вашего хода, пока вы отравлены этим зельем, вы получаете урон ядом 3к6. В конце каждого своего хода вы можете повторять спасбросок. В случае успеха каждый урон ядом в последующих раундах будет уменьшен на 1к6. Яд прекращает действие, когда его урон станет равным нулю."
+    },
+    {
+      "id": "Potion of Poison Resistance",
+      "name": "Зелье яда",
+      "description": "Эта смесь выглядит, пахнет и обладает таким же вкусом, что и зелье лечения или другое полезное зелье. <br>Однако, это самый настоящий яд, чья истинная природа скрыта магией иллюзий. Заклинание <a href='https://tentaculus.ru/spells/#q=identify'>опознания</a> раскрывает этот обман. <br>Если вы всё же выпьете это зелье, вы получаете урон ядом 3к6 и должны преуспеть в спасброске Телосложения со Сл 13, иначе станете отравленным. В начале каждого вашего хода, пока вы отравлены этим зельем, вы получаете урон ядом 3к6. В конце каждого своего хода вы можете повторять спасбросок. В случае успеха каждый урон ядом в последующих раундах будет уменьшен на 1к6. Яд прекращает действие, когда его урон станет равным нулю."
+    },
+    {
+      "id": "Potion of Psychic Resistance",
+      "name": "Pozione di Resistenza Psichica ",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><p style=\"box-sizing: border-box; user-select: text;\">Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni di tipo psichico.</p></div><p>&nbsp;</p>"
+    },
+    {
+      "id": "Potion of Radiant Resistance",
+      "name": "Pozione di Resistenza Radiante",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><p style=\"box-sizing: border-box; user-select: text;\">Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni di tipo radiante.</p></div>"
+    },
+    {
+      "id": "Potion of Speed",
+      "name": "Зелье скорости",
+      "description": "Когда вы выпьете это зелье, вы получите на 1 минуту эффект заклинания <a href='https://tentaculus.ru/spells/#q=haste'>ускорение</a> (концентрация не требуется). В жёлтой жидкости этого зелья видны чёрные полоски, и она перемешивается сама собой."
+    },
+    {
+      "id": "Potion of Stone Giant Strength",
+      "name": "Зелье силы каменного великана",
+      "description": "Когда вы выпиваете это зелье, значение вашей Силы станет равным 23 на один час. Зелье не оказывает на вас никакого эффекта в том случае, если значение вашей Силы уже равно этому значению или превосходит его. <br>В прозрачной жидкости этого зелья плавают обрезки ногтей великана соответствующего вида. "
+    },
+    {
+      "id": "Potion of Storm Giant Strength",
+      "name": "Зелье силы грозового великана",
+      "description": "Когда вы выпиваете это зелье, значение вашей Силы стане равным 29 на один час. Зелье не оказывает на вас никакого эффекта в том случае, если значение вашей Силы уже равно этому значению или превосходит его.<br>В прозрачной жидкости этого зелья плавают обрезки ногтей великана соответствующего вида. "
+    },
+    {
+      "id": "Potion of Thunder Resistance",
+      "name": "Pozione di Resistenza al Tuono",
+      "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><div style=\"box-sizing: border-box; user-select: text;\"><div style=\"box-sizing: border-box; user-select: text;\"><em style=\"box-sizing: border-box; user-select: text;\">La pozione ha un colore indecifrabile e un odore leggermente disgustoso.</em></div></div></div><div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" title=\"Page 30\"><p style=\"box-sizing: border-box; user-select: text;\">Quando bevi questa pozione, per 1 ora ottieni resistenza ai danni di tipo tuono.</p></div>"
+    },
+    {
+      "id": "Potion of Water Breathing",
+      "name": "Зелье подводного дыхания",
+      "description": "Вы можете дышать под водой в течение 1 часа после того, как выпьете это зелье. В мутно-зелёной жидкости, пахнущей морем, плавают небольшие пузырьки, похожие на медуз."
+    },
+    {
+      "id": "Potter's Tools",
+      "name": "Strumenti da Vasaio",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.&nbsp;</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Pouch",
+      "name": "Кошель",
+      "description": "В кожаном или тканевом кошеле поместится 20 снарядов для пращи или 50 иголок для духовой трубки, а также другие вещи. Кошель с отделениями для хранения компонентов заклинаний называется <a href='https://tentaculus.ru/equipment/#q=component_pouch'>мешочком с компонентами</a>.<br>0,2 кубических фута/6 фунтов (3 килограмма)"
+    },
+    {
+      "id": "Quarterstaff",
+      "name": "Боевой посох",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Quiver",
+      "name": "Колчан",
+      "description": "В колчан помещается 20 стрел."
+    },
+    {
+      "id": "Rain Catcher",
+      "name": "Rain Catcher",
+      "description": "<p>A rain catcher is a simple contraption consisting of a 5-foot-square leather tarp and a wooden frame with legs. When the tarp is stretched across the wooden frame, it forms a basin that can catch 2 gallons of drinking water per inch of rainfall and hold up to 8 gallons. The tarp and wooden frame fold up for easy transport.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Rapier",
+      "name": "Рапира",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Rations",
+      "name": "Рационы (1 день)",
+      "description": "Рационы состоят из обезвоженной пищи, подходящей для путешествий, включая вяленое мясо, сухофрукты, галеты и орехи."
+    },
+    {
+      "id": "Ring Mail",
+      "name": "Колечная броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Rod",
+      "name": "Жезл",
+      "description": "Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний, как описано в главе 10."
+    },
+    {
+      "id": "Sack",
+      "name": "Мешок",
+      "description": "Вместимость: 1 кубический фут/30 фунтов (15 килограмм)"
+    },
+    {
+      "id": "Scale Mail",
+      "name": "Чешуйчатая броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Scimitar",
+      "name": "Скимитар",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Sealing Wax",
+      "name": "Сургуч",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Shawm",
+      "name": "Chiarina",
+      "description": "<div title=\"Page 9\"><div><div><p>Sulla tabella sono mostrati alcuni dei più comuni esempi di strumenti musicali. Se hai la competenza con uno specifico strumento musicale, puoi sommare il tuo bonus di competenza a qualsiasi prova di caratteristica effettuata per suonare musica con quello strumento. Ogni tipo di strumento musicale richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Shield",
+      "name": "Щит",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Shortbow",
+      "name": "Короткий лук",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Shortsword",
+      "name": "Короткий меч",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Shovel",
+      "name": "Лопата",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Sickle",
+      "name": "Серп",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Signal Whistle",
+      "name": "Сигнальный свисток",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Signet Ring",
+      "name": "Кольцо-печатка",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Silk Rope (50 feet)",
+      "name": "Corda di Seta (15 metri)",
+      "description": "<p>Una corda, che sia fatta di canapa o seta, ha 2 punti ferita e può essere spezzata superando una prova di Forza con CD 1.</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "Sledgehammer",
+      "name": "Молоток",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Sling",
+      "name": "Праща",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Sling Bullet",
+      "name": "Праща",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Soap",
+      "name": "Мыло",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Spear",
+      "name": "Копьё",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Spellbook",
+      "name": "Книга заклинаний",
+      "description": "Книги заклинаний очень важны для волшебников. Это переплетённые кожей тома, содержащие 100 пустых пергаментных страниц, на которых можно записывать заклинания."
+    },
+    {
+      "id": "Spiked Armor",
+      "name": "Пика",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Splint Armor",
+      "name": "Наборная броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Spyglass",
+      "name": "Подзорная труба",
+      "description": "Предметы, на которые смотрят в подзорную трубу, увеличиваются в два раза"
+    },
+    {
+      "id": "Staff",
+      "name": "Посох",
+      "description": "Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний, как описано в главе 10."
+    },
+    {
+      "id": "Steel Mirror",
+      "name": "Specchio Piccolo di Metallo",
+      "description": "<p>Specchio in acciaio.</p>"
+    },
+    {
+      "id": "Studded Leather Armor",
+      "name": "Кожанная броня",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Tankard",
+      "name": "Фляга или большая кружка",
+      "description": "Вместимость: 1 пинта (0,5 литра)"
+    },
+    {
+      "id": "Thieves’ Tools",
+      "name": "Arnesi da Scasso",
+      "description": "<div title=\"Page 154\"><div><div><p>Questo set di arnesi include una piccola lima, una serie di passepartout, uno specchietto montato su una maniglia di metallo, un paio di forbicine e un paio di pinze. La competenza in questo oggetto consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata pet disattivare trappole o scassinare serrature.</p></div></div></div>"
+    },
+    {
+      "id": "Tinderbox",
+      "name": "Трутница",
+      "description": "В этом небольшом контейнере находится кремень, кресало и трут (обычно это сухая тряпка, вымоченная в масле), используемые для разжигания огня. Использование его для разжигания факела — или чего-нибудь другого, легковоспламеняющегося — требует одного действия. Разжигание другого огня требует 1 минуты."
+    },
+    {
+      "id": "Tinker's Tools",
+      "name": "Strumenti da Inventore",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Torch",
+      "name": "Факел",
+      "description": "Факел горит 1 час, испуская яркий свет в пределах 20 футов и тусклый свет в пределах ещё 20 футов. Если вы совершаете рукопашную атаку горящим факелом и попадаете, он причиняет урон огнём 1."
+    },
+    {
+      "id": "Traveler's Clothes",
+      "name": "Abito da Viaggiatore",
+      "description": "<p>Una serie di abiti indossati dai viaggiatori.</p>"
+    },
+    {
+      "id": "Trident",
+      "name": "Трезубец",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Trinket",
+      "name": "Oggetto Insolito",
+      "description": "<p>PHB page 159</p>"
+    },
+    {
+      "id": "Two-Person Tent",
+      "name": "Tenda",
+      "description": "<div title=\"Page 153\"><div><div><p>Un semplice riparo portatile in tela, che può ospitare due persone.</p></div></div></div>"
+    },
+    {
+      "id": "Vial",
+      "name": "Флакон",
+      "description": "Вместимость: 4 унции (100 грамм)"
+    },
+    {
+      "id": "Viol",
+      "name": "Viola",
+      "description": "<div title=\"Page 154\"><div><div><p>Alcuni dei più comuni tipi di strumenti musicali sono indicati nella tabella come esempi. Un personaggio che possiede competenza in un determinato strumento musicale può aggiungere il proprio bonus di competenza alle prove di caratteristica effettuate per suonare con quello strumento. Un bardo può usare uno strumento musicale come focus da incantatore, come descritto nel capitolo 10. Ogni tipo di strumento musicale richiede una competenza separata.</p></div></div></div>"
+    },
+    {
+      "id": "Wand",
+      "name": "Волшебная палочка",
+      "description": "Магическая фокусировка это особый предмет — сфера, кристалл, жезл, особый посох, короткая деревянная палочка или похожий предмет — созданный для проведения тайных заклинаний. Волшебники, колдуны и чародеи могут использовать эти предметы в качестве фокусировки для заклинаний, как описано в главе 10."
+    },
+    {
+      "id": "War Pick",
+      "name": "Боевая кирка",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Warhammer",
+      "name": "Боевой молот",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Waterskin",
+      "name": "Бурдюк",
+      "description": "Вместимость: 4 пинты (2 литра)<br>(Вес указан для заполненного бурдюка)"
+    },
+    {
+      "id": "Weaver's Tools",
+      "name": "Strumenti da Tessitore",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Whetstone",
+      "name": "Точильный камень",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Whip",
+      "name": "Кнут",
+      "description": "Перевод отсутствует"
+    },
+    {
+      "id": "Woodcarver's Tools",
+      "name": "Strumenti da Intagliatore",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.</p>"
+    },
+    {
+      "id": "Smith's Tools",
+      "name": "Strumenti da Fabbro",
+      "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi strumenti speciali includono gli oggetti necessari per praticare un'arte o un mestiere. La tabella contiene alcuni esempi dei tipi di strumenti più ricorrenti, ognuno dei quali fornisce<br style=\"box-sizing: border-box; user-select: text;\">gli oggetti relativi a un singolo tipo di artigianato.</p><p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">La competenza in un set di strumenti da artigiano consente a un personaggio di aggiungere il proprio bonus di competenza a ogni prova di caratteristica effettuata usando gli strumenti del suo mestiere. Ogni tipo di strumenti da artigiano richiede una competenza separata.&nbsp;</p>"
+    },
+    {
+      "id": "Yklwa",
+      "name": "Yklwa",
+      "description": "<p>Un corto manico di legno sormontato da una lama d'acciaio o di pietra con un buon bilanciamento tra portata, flessibilità e potere di taglio in combattimento.</p><p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Lancio</strong><span style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 9pt; font-family: Arial; font-weight: bold; font-style: italic;\">.&nbsp;</span><span style=\"color: #191813; font-size: 13px;\">Se un'arma possiede la proprietà da lancio, il personaggio può lanciarla per effettuare un attacco a distanza. Se l'arma è un'arma da mischia, il personaggio applica al tiro per colpire e al tiro per i danni lo stesso modificatore di caratteristica che userebbe per un attacco in mischia effettuato con quell'arma. Per esempio, se lancia un'ascia, usa la sua Forza, ma se lancia un pugnale può usare la sua Forza o la sua Destrezza, dal momento che il pugnale possiede la proprietà accurata.</span></p>"
+    }
+  ]
+}
