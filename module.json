@@ -16,7 +16,7 @@
     "path": "ru.json"
   }],
     
-  "url": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it",
-  "manifest": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it/raw/master/it-IT/module.json",
-  "download": "https://gitlab.com/riccisi/foundryvtt-dnd5e-lang-it-it/-/jobs/artifacts/master/raw/dnd5e-it-IT.zip?job=build"
+  "url": "https://github.com/Alexanik/FoundryVTT-dnd5e-lang-ru-RU",
+  "manifest": "https://raw.githubusercontent.com/Alexanik/FoundryVTT-dnd5e-lang-ru-RU/master/module.json",
+  "download": "https://github.com/Alexanik/FoundryVTT-dnd5e-lang-ru-RU/archive/master.zip"
 }
