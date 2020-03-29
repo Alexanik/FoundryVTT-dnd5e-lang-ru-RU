@@ -173,17 +173,17 @@
     },
     {
       "id": "Bag of Tricks (Grey)",
-      "name": "Bag of Tricks (Grey)",
+      "name": "Сумка фокусов (Grey)",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">Wondrous item</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This ordinary bag, made from gray cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.</p>\n<table style=\"box-sizing: border-box; user-select: text; width: 119px; color: #191813; font-size: 13px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\"><strong>d8</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\"><strong>Creature</strong></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">1</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.WOdeacKCYVhgLDuN]{Weasel}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">2</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.q1YJIeIt6rK8fCKn]{Giant Rat}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">3</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.oQvORD924obyPdCc]{Badger}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">4</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.lZR4lhNmYSf89s4Q]{Boar}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">5</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.AijNdqMurWxDxUSl]{Panther}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">6</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.OSKoYxdiQ8jYqOGH]{Giant Badger}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">7</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.EYiQZ3rFL25fEJY5]{Dire Wolf}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">8</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.hQt3qIahnB1Odb40]{Giant Elk}</td>\n</tr>\n</tbody>\n</table>"
     },
     {
       "id": "Bag of Tricks (Rust)",
-      "name": "Bag of Tricks (Rust)",
+      "name": "Сумка фокусов (Rust)",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">Wondrous item</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This ordinary bag, made from rust-colored cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.</p>\n<table style=\"box-sizing: border-box; user-select: text; width: 119px; color: #191813; font-size: 13px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\"><strong>d8</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\"><strong>Creature</strong></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">1</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.pozQUPTnLZW8epox]{Rat}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">2</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.d0prpsGSAorDadec]{Owl}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">3</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastiff}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">4</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.y8sRU8Ks2lcrGsaf]{Goat}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">5</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.N3ahWNjmxk9Ro1aG]{Giant Goat}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">6</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.55z2VqYdUb8BWgyc]{Giant Boar}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">7</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.hjhERRzafCiFFVLA]{Lion}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 30.2431px;\">8</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 81.3542px;\">@Compendium[dnd5e.monsters.omcDpBoB69esCXeM]{Brown Bear}</td>\n</tr>\n</tbody>\n</table>"
     },
     {
       "id": "Bag of Tricks (Tan)",
-      "name": "Bag of Tricks (Tan)",
+      "name": "Сумка фокусов (Tan)",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">Wondrous item</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This ordinary bag, made from tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.</p>\n<table style=\"box-sizing: border-box; user-select: text; width: 119px; color: #191813; font-size: 13px; height: 135px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\"><strong>d8</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\"><strong>Creature</strong></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">1</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.MZYCPIVoBs918qGZ]{Jackal}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">2</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.K5cKmPoFkpuOotis]{Ape}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">3</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.JW8bXggOMBx1S6tF]{Baboon}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">4</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.SXXvwaLBNuzBymp3]{Axe Beak}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">5</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.D5WjGwKskeUT8HXa]{Black Bear}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">6</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.8VXxqeBvN54rPh81]{Giant Weasel}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">7</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.oBXgFDnwGehbpmKN]{Giant Hyena}</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 15px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 17.7778px; height: 15px;\">8</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 313.333px; height: 15px;\">@Compendium[dnd5e.monsters.FayqbnjBMszO6Pat]{Tiger}</td>\n</tr>\n</tbody>\n</table>"
     },
     {
@@ -213,17 +213,17 @@
     },
     {
       "id": "Battleaxe +1",
-      "name": "Battleaxe +1",
+      "name": "Боевой топор +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Battleaxe +2",
-      "name": "Battleaxe +2",
+      "name": "Боевой топор +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Battleaxe +3",
-      "name": "Battleaxe +3",
+      "name": "Боевой топор +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -313,22 +313,22 @@
     },
     {
       "id": "Blowgun +1",
-      "name": "Blowgun +1",
+      "name": "Духовая трубка +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Blowgun +2",
-      "name": "Blowgun +2",
+      "name": "Духовая трубка +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Blowgun +3",
-      "name": "Blowgun +3",
+      "name": "Духовая трубка +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Blowgun Needle",
-      "name": "Blowgun Needle",
+      "name": "Духовая трубка Needle",
       "description": "<p>This ammunition is designed to be fired through a blowgun using the force of the wielders lungs. These needles are frequently tipped with deadly or crippling venoms.</p>"
     },
     {
@@ -343,7 +343,7 @@
     },
     {
       "id": "Book of Lore",
-      "name": "Book of Lore",
+      "name": "Книга of Lore",
       "description": "<p>A book containing historical accounts, information pertaining to a particular field of lore, myth, or legend.</p>"
     },
     {
@@ -403,22 +403,22 @@
     },
     {
       "id": "Breastplate +1",
-      "name": "Breastplate +1",
+      "name": "Кираса +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Breastplate +2",
-      "name": "Breastplate +2",
+      "name": "Кираса +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Breastplate +3",
-      "name": "Breastplate +3",
+      "name": "Кираса +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Breastplate Armor of Resistance",
-      "name": "Breastplate Armor of Resistance",
+      "name": "Кираса Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -513,22 +513,22 @@
     },
     {
       "id": "Chain Mail +1",
-      "name": "Chain Mail +1",
+      "name": "Кольчужная броня +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Chain Mail +2",
-      "name": "Chain Mail +2",
+      "name": "Кольчужная броня +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Chain Mail +3",
-      "name": "Chain Mail +3",
+      "name": "Кольчужная броня +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Chain Mail Armor of Resistance",
-      "name": "Chain Mail Armor of Resistance",
+      "name": "Кольчужная броня Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -538,22 +538,22 @@
     },
     {
       "id": "Chain Shirt +1",
-      "name": "Chain Shirt +1",
+      "name": "Кольчужная рубаха +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Chain Shirt +2",
-      "name": "Chain Shirt +2",
+      "name": "Кольчужная рубаха +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Chain Shirt +3",
-      "name": "Chain Shirt +3",
+      "name": "Кольчужная рубаха +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Chain Shirt Armor of Resistance",
-      "name": "Chain Shirt Armor of Resistance",
+      "name": "Кольчужная рубаха Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px; height: 165px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\"><strong>d10</strong></td>\n<td style=\"width: 95.7986px; height: 15px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">1</td>\n<td style=\"width: 95.7986px; height: 15px;\">Acid</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">2</td>\n<td style=\"width: 95.7986px; height: 15px;\">Cold</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">3</td>\n<td style=\"width: 95.7986px; height: 15px;\">Fire</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">4</td>\n<td style=\"width: 95.7986px; height: 15px;\">Force</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">5</td>\n<td style=\"width: 95.7986px; height: 15px;\">Lightning</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">6</td>\n<td style=\"width: 95.7986px; height: 15px;\">Necrotic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">7</td>\n<td style=\"width: 95.7986px; height: 15px;\">Poison</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">8</td>\n<td style=\"width: 95.7986px; height: 15px;\">Psychic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">9</td>\n<td style=\"width: 95.7986px; height: 15px;\">Radiant</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">10</td>\n<td style=\"width: 95.7986px; height: 15px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -618,17 +618,17 @@
     },
     {
       "id": "Club +1",
-      "name": "Club +1",
+      "name": "Дубинка +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Club +2",
-      "name": "Club +2",
+      "name": "Дубинка +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Club +3",
-      "name": "Club +3",
+      "name": "Дубинка +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -728,17 +728,17 @@
     },
     {
       "id": "Dagger +1",
-      "name": "Dagger +1",
+      "name": "Кинжал +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Dagger +2",
-      "name": "Dagger +2",
+      "name": "Кинжал +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Dagger +3",
-      "name": "Dagger +3",
+      "name": "Кинжал +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -778,17 +778,17 @@
     },
     {
       "id": "Dart +1",
-      "name": "Dart +1",
+      "name": "Дротик +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Dart +2",
-      "name": "Dart +2",
+      "name": "Дротик +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Dart +3",
-      "name": "Dart +3",
+      "name": "Дротик +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -808,27 +808,27 @@
     },
     {
       "id": "Defender Greatsword",
-      "name": "Defender Greatsword",
+      "name": "Защитник Greatsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p>\n<p><em>**Foundry note: the sword's bonus to attack and damage rolls have been included; please remember to manually subtract should the user transfer any of the bonus to their AC.</em></p>"
     },
     {
       "id": "Defender Longsword",
-      "name": "Defender Longsword",
+      "name": "Защитник Longsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p>\n<p><em>**Foundry note: the sword's bonus to attack and damage rolls have been included; please remember to manually subtract should the user transfer any of the bonus to their AC.</em></p>"
     },
     {
       "id": "Defender Rapier",
-      "name": "Defender Rapier",
+      "name": "Защитник Rapier",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p>\n<p><em>**Foundry note: the sword's bonus to attack and damage rolls have been included; please remember to manually subtract should the user transfer any of the bonus to their AC.</em></p>"
     },
     {
       "id": "Defender Scimitar",
-      "name": "Defender Scimitar",
+      "name": "Защитник Scimitar",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p>\n<p><em>**Foundry note: the sword's bonus to attack and damage rolls have been included; please remember to manually subtract should the user transfer any of the bonus to their AC.</em></p>"
     },
     {
       "id": "Defender Shortsword",
-      "name": "Defender Shortsword",
+      "name": "Защитник Shortsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.</p>\n<p><em>**Foundry note: the sword's bonus to attack and damage rolls have been included; please remember to manually subtract should the user transfer any of the bonus to their AC.</em></p>"
     },
     {
@@ -858,27 +858,27 @@
     },
     {
       "id": "Dragon Slayer Greatsword",
-      "name": "Dragon Slayer Greatsword",
+      "name": "Убийца драконов Greatsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
     },
     {
       "id": "Dragon Slayer Longsword",
-      "name": "Dragon Slayer Longsword",
+      "name": "Убийца драконов Longsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
     },
     {
       "id": "Dragon Slayer Rapier",
-      "name": "Dragon Slayer Rapier",
+      "name": "Убийца драконов Rapier",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
     },
     {
       "id": "Dragon Slayer Scimitar",
-      "name": "Dragon Slayer Scimitar",
+      "name": "Убийца драконов Scimitar",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
     },
     {
       "id": "Dragon Slayer Shortsword",
-      "name": "Dragon Slayer Shortsword",
+      "name": "Убийца драконов Shortsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.</p>"
     },
     {
@@ -918,22 +918,22 @@
     },
     {
       "id": "Elemental Gem of Air",
-      "name": "Elemental Gem of Air",
+      "name": "Камень элементаля of Air",
       "description": "<p><em>Wondrous item</em></p>\n<p>This blue sapphire contains a mote of elemental energy. When you use an action to break the gem, an&nbsp;<span style=\"background-color: rgba(0, 0, 0, 0.05);\">@Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{Air Elemental}</span>is summoned as if you had cast the @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} spell, and the gem's magic is lost.</p>"
     },
     {
       "id": "Elemental Gem of Earth",
-      "name": "Elemental Gem of Earth",
+      "name": "Камень элементаля of Earth",
       "description": "<p><em>Wondrous item</em></p>\n<p>This yellow diamond contains a mote of elemental energy. When you use an action to break the gem, an <span style=\"background-color: rgba(0, 0, 0, 0.05);\">@Compendium[dnd5e.monsters.sApYLZj9PTZ40wJr]{Earth Elemental}</span><span style=\"background-color: rgba(0, 0, 0, 0.05);\">&nbsp;</span>is summoned as if you had cast the @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} spell, and the gem's magic is lost.</p>"
     },
     {
       "id": "Elemental Gem of Fire",
-      "name": "Elemental Gem of Fire",
+      "name": "Камень элементаля of Fire",
       "description": "<p><em>Wondrous item</em></p>\n<p>This red corundum contains a mote of elemental energy. When you use an action to break the gem, a <span style=\"background-color: rgba(0, 0, 0, 0.05);\">@Compendium[dnd5e.monsters.8SMQl75HLjhuSeau]{Fire Elemental} </span>is summoned as if you had cast the @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} spell, and the gem's magic is lost.</p>"
     },
     {
       "id": "Elemental Gem of Water",
-      "name": "Elemental Gem of Water",
+      "name": "Камень элементаля of Water",
       "description": "<p><em>Wondrous item</em></p>\n<p>This emerald contains a mote of elemental energy. When you use an action to break the gem, a <span style=\"background-color: rgba(0, 0, 0, 0.05);\">@Compendium[dnd5e.monsters.namJz755U1EhvEJa]{Water Elemental}</span><span style=\"background-color: rgba(0, 0, 0, 0.05);\">&nbsp;</span>is summoned as if you had cast the @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} spell, and the gem's magic is lost.</p>"
     },
     {
@@ -1068,42 +1068,42 @@
     },
     {
       "id": "Flail +1",
-      "name": "Flail +1",
+      "name": "Цеп +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Flail +2",
-      "name": "Flail +2",
+      "name": "Цеп +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Flail +3",
-      "name": "Flail +3",
+      "name": "Цеп +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Flame Tongue Greatsword",
-      "name": "Flame Tongue Greatsword",
+      "name": "Язык пламени Greatsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
     },
     {
       "id": "Flame Tongue Longsword",
-      "name": "Flame Tongue Longsword",
+      "name": "Язык пламени Longsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
     },
     {
       "id": "Flame Tongue Rapier",
-      "name": "Flame Tongue Rapier",
+      "name": "Язык пламени Rapier",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
     },
     {
       "id": "Flame Tongue Scimitar",
-      "name": "Flame Tongue Scimitar",
+      "name": "Язык пламени Scimitar",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
     },
     {
       "id": "Flame Tongue Shortsword",
-      "name": "Flame Tongue Shortsword",
+      "name": "Язык пламени Shortsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.</p>"
     },
     {
@@ -1128,27 +1128,27 @@
     },
     {
       "id": "Frost Brand Greatsword",
-      "name": "Frost Brand Greatsword",
+      "name": "Морозный клинок Greatsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
     },
     {
       "id": "Frost Brand Longsword",
-      "name": "Frost Brand Longsword",
+      "name": "Морозный клинок Longsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
     },
     {
       "id": "Frost Brand Rapier",
-      "name": "Frost Brand Rapier",
+      "name": "Морозный клинок Rapier",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
     },
     {
       "id": "Frost Brand Scimitar",
-      "name": "Frost Brand Scimitar",
+      "name": "Морозный клинок Scimitar",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
     },
     {
       "id": "Frost Brand Shortsword",
-      "name": "Frost Brand Shortsword",
+      "name": "Морозный клинок Shortsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.</p>\n<p>In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.</p>\n<p>When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.</p>"
     },
     {
@@ -1193,42 +1193,42 @@
     },
     {
       "id": "Giant Slayer Battleaxe",
-      "name": "Giant Slayer Battleaxe",
+      "name": "Убийца великанов Battleaxe",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
       "id": "Giant Slayer Greataxe",
-      "name": "Giant Slayer Greataxe",
+      "name": "Убийца великанов Greataxe",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
       "id": "Giant Slayer Greatsword",
-      "name": "Giant Slayer Greatsword",
+      "name": "Убийца великанов Greatsword",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
       "id": "Giant Slayer Handaxe",
-      "name": "Giant Slayer Handaxe",
+      "name": "Убийца великанов Handaxe",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
       "id": "Giant Slayer Longsword",
-      "name": "Giant Slayer Longsword",
+      "name": "Убийца великанов Longsword",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
       "id": "Giant Slayer Rapier",
-      "name": "Giant Slayer Rapier",
+      "name": "Убийца великанов Rapier",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
       "id": "Giant Slayer Scimitar",
-      "name": "Giant Slayer Scimitar",
+      "name": "Убийца великанов Scimitar",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
       "id": "Giant Slayer Shortsword",
-      "name": "Giant Slayer Shortsword",
+      "name": "Убийца великанов Shortsword",
       "description": "<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, \"giant\" refers to any creature with the giant type, including ettins and trolls.</p>"
     },
     {
@@ -1238,17 +1238,17 @@
     },
     {
       "id": "Glaive +1",
-      "name": "Glaive +1",
+      "name": "Глефа +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Glaive +2",
-      "name": "Glaive +2",
+      "name": "Глефа +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Glaive +3",
-      "name": "Glaive +3",
+      "name": "Глефа +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1293,17 +1293,17 @@
     },
     {
       "id": "Greataxe +1",
-      "name": "Greataxe +1",
+      "name": "Секира +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Greataxe +2",
-      "name": "Greataxe +2",
+      "name": "Секира +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Greataxe +3",
-      "name": "Greataxe +3",
+      "name": "Секира +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1313,17 +1313,17 @@
     },
     {
       "id": "Greatclub +1",
-      "name": "Greatclub +1",
+      "name": "Палица +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Greatclub +2",
-      "name": "Greatclub +2",
+      "name": "Палица +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Greatclub +3",
-      "name": "Greatclub +3",
+      "name": "Палица +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1333,32 +1333,32 @@
     },
     {
       "id": "Greatsword +1",
-      "name": "Greatsword +1",
+      "name": "Двуручный меч +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Greatsword +2",
-      "name": "Greatsword +2",
+      "name": "Двуручный меч +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Greatsword +3",
-      "name": "Greatsword +3",
+      "name": "Двуручный меч +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Greatsword of Life Stealing",
-      "name": "Greatsword of Life Stealing",
+      "name": "Двуручный меч of Life Stealing",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
     },
     {
       "id": "Greatsword of Sharpness",
-      "name": "Greatsword of Sharpness",
+      "name": "Двуручный меч of Sharpness",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.</p>\n<p>When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.</p>\n<p>In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.</p>"
     },
     {
       "id": "Greatsword of Wounding",
-      "name": "Greatsword of Wounding",
+      "name": "Двуручный меч of Wounding",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
     },
     {
@@ -1368,42 +1368,42 @@
     },
     {
       "id": "Halberd +1",
-      "name": "Halberd +1",
+      "name": "Алебарда +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Halberd +2",
-      "name": "Halberd +2",
+      "name": "Алебарда +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Halberd +3",
-      "name": "Halberd +3",
+      "name": "Алебарда +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Half Plate Armor",
-      "name": "Half Plate Armor",
+      "name": "Полулаты Armor",
       "description": "<p>Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.</p>"
     },
     {
       "id": "Half Plate Armor +1",
-      "name": "Half Plate Armor +1",
+      "name": "Полулаты Armor +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Half Plate Armor +2",
-      "name": "Half Plate Armor +2",
+      "name": "Полулаты Armor +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Half Plate Armor +3",
-      "name": "Half Plate Armor +3",
+      "name": "Полулаты Armor +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Half Plate Armor of Resistance",
-      "name": "Half Plate Armor of Resistance",
+      "name": "Полулаты Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px; height: 165px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\"><strong>d10</strong></td>\n<td style=\"width: 95.7986px; height: 15px;\"><strong>Damage</strong>&nbsp;<strong>Type</strong></td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">1</td>\n<td style=\"width: 95.7986px; height: 15px;\">Acid</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">2</td>\n<td style=\"width: 95.7986px; height: 15px;\">Cold</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">3</td>\n<td style=\"width: 95.7986px; height: 15px;\">Fire</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">4</td>\n<td style=\"width: 95.7986px; height: 15px;\">Force</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">5</td>\n<td style=\"width: 95.7986px; height: 15px;\">Lightning</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">6</td>\n<td style=\"width: 95.7986px; height: 15px;\">Necrotic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">7</td>\n<td style=\"width: 95.7986px; height: 15px;\">Poison</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">8</td>\n<td style=\"width: 95.7986px; height: 15px;\">Psychic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">9</td>\n<td style=\"width: 95.7986px; height: 15px;\">Radiant</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">10</td>\n<td style=\"width: 95.7986px; height: 15px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -1443,17 +1443,17 @@
     },
     {
       "id": "Handaxe +1",
-      "name": "Handaxe +1",
+      "name": "Ручной топор +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Handaxe +2",
-      "name": "Handaxe +2",
+      "name": "Ручной топор +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Handaxe +3",
-      "name": "Handaxe +3",
+      "name": "Ручной топор +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1528,52 +1528,52 @@
     },
     {
       "id": "Hide Armor",
-      "name": "Hide Armor",
+      "name": "Броня из шкур Armor",
       "description": "<p>This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.</p>"
     },
     {
       "id": "Hide Armor +1",
-      "name": "Hide Armor +1",
+      "name": "Броня из шкур Armor +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Hide Armor +2",
-      "name": "Hide Armor +2",
+      "name": "Броня из шкур Armor +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Hide Armor +3",
-      "name": "Hide Armor +3",
+      "name": "Броня из шкур Armor +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Hide Armor of Resistance",
-      "name": "Hide Armor of Resistance",
+      "name": "Броня из шкур Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px; height: 165px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\"><strong>d10</strong></td>\n<td style=\"width: 95.7986px; height: 15px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">1</td>\n<td style=\"width: 95.7986px; height: 15px;\">Acid</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">2</td>\n<td style=\"width: 95.7986px; height: 15px;\">Cold</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">3</td>\n<td style=\"width: 95.7986px; height: 15px;\">Fire</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">4</td>\n<td style=\"width: 95.7986px; height: 15px;\">Force</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">5</td>\n<td style=\"width: 95.7986px; height: 15px;\">Lightning</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">6</td>\n<td style=\"width: 95.7986px; height: 15px;\">Necrotic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">7</td>\n<td style=\"width: 95.7986px; height: 15px;\">Poison</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">8</td>\n<td style=\"width: 95.7986px; height: 15px;\">Psychic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">9</td>\n<td style=\"width: 95.7986px; height: 15px;\">Radiant</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">10</td>\n<td style=\"width: 95.7986px; height: 15px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
       "id": "Holy Avenger Greatsword",
-      "name": "Holy Avenger Greatsword",
+      "name": "Святой мститель Greatsword",
       "description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
     },
     {
       "id": "Holy Avenger Longsword",
-      "name": "Holy Avenger Longsword",
+      "name": "Святой мститель Longsword",
       "description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
     },
     {
       "id": "Holy Avenger Rapier",
-      "name": "Holy Avenger Rapier",
+      "name": "Святой мститель Rapier",
       "description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
     },
     {
       "id": "Holy Avenger Scimitar",
-      "name": "Holy Avenger Scimitar",
+      "name": "Святой мститель Scimitar",
       "description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
     },
     {
       "id": "Holy Avenger Shortsword",
-      "name": "Holy Avenger Shortsword",
+      "name": "Святой мститель Shortsword",
       "description": "<p><em>(Requires attunement by a paladin)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.</p>\n<p>While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.</p>"
     },
     {
@@ -1728,17 +1728,17 @@
     },
     {
       "id": "Javelin +1",
-      "name": "Javelin +1",
+      "name": "Метательное копьё +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Javelin +2",
-      "name": "Javelin +2",
+      "name": "Метательное копьё +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Javelin +3",
-      "name": "Javelin +3",
+      "name": "Метательное копьё +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1773,17 +1773,17 @@
     },
     {
       "id": "Lance +1",
-      "name": "Lance +1",
+      "name": "Длинное копьё +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
     },
     {
       "id": "Lance +2",
-      "name": "Lance +2",
+      "name": "Длинное копьё +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
     },
     {
       "id": "Lance +3",
-      "name": "Lance +3",
+      "name": "Длинное копьё +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
     },
     {
@@ -1793,27 +1793,27 @@
     },
     {
       "id": "Leather Armor",
-      "name": "Leather Armor",
+      "name": "Кожанная броня Armor",
       "description": "<p>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.</p>"
     },
     {
       "id": "Leather Armor +1",
-      "name": "Leather Armor +1",
+      "name": "Кожанная броня Armor +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Leather Armor +2",
-      "name": "Leather Armor +2",
+      "name": "Кожанная броня Armor +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Leather Armor +3",
-      "name": "Leather Armor +3",
+      "name": "Кожанная броня Armor +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Leather Armor of Resistance",
-      "name": "Leather Armor of Resistance",
+      "name": "Кожанная броня Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -1848,17 +1848,17 @@
     },
     {
       "id": "Light Hammer +1",
-      "name": "Light Hammer +1",
+      "name": "Лёгкий молот +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Light Hammer +2",
-      "name": "Light Hammer +2",
+      "name": "Лёгкий молот +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Light Hammer +3",
-      "name": "Light Hammer +3",
+      "name": "Лёгкий молот +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1873,17 +1873,17 @@
     },
     {
       "id": "Longbow +1",
-      "name": "Longbow +1",
+      "name": "Длинный лук +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Longbow +2",
-      "name": "Longbow +2",
+      "name": "Длинный лук +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Longbow +3",
-      "name": "Longbow +3",
+      "name": "Длинный лук +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1893,57 +1893,57 @@
     },
     {
       "id": "Longsword +1",
-      "name": "Longsword +1",
+      "name": "Длинный меч +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Longsword +2",
-      "name": "Longsword +2",
+      "name": "Длинный меч +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Longsword +3",
-      "name": "Longsword +3",
+      "name": "Длинный меч +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Longsword of Life Stealing",
-      "name": "Longsword of Life Stealing",
+      "name": "Длинный меч of Life Stealing",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
     },
     {
       "id": "Longsword of Sharpness",
-      "name": "Longsword of Sharpness",
+      "name": "Длинный меч of Sharpness",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.</p>\n<p>When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.</p>\n<p>In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.</p>"
     },
     {
       "id": "Longsword of Wounding",
-      "name": "Longsword of Wounding",
+      "name": "Длинный меч of Wounding",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
     },
     {
       "id": "Luck Blade Greatsword",
-      "name": "Luck Blade Greatsword",
+      "name": "Клинок удачи Greatsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>.&nbsp;If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
     },
     {
       "id": "Luck Blade Longsword",
-      "name": "Luck Blade Longsword",
+      "name": "Клинок удачи Longsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>.&nbsp;If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
     },
     {
       "id": "Luck Blade Rapier",
-      "name": "Luck Blade Rapier",
+      "name": "Клинок удачи Rapier",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>.&nbsp;If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
     },
     {
       "id": "Luck Blade Scimitar",
-      "name": "Luck Blade Scimitar",
+      "name": "Клинок удачи Scimitar",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>.&nbsp;If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
     },
     {
       "id": "Luck Blade Shortsword",
-      "name": "Luck Blade Shortsword",
+      "name": "Клинок удачи Shortsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.</p>\n<p><strong>Luck</strong>.&nbsp;If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.</p>\n<p><strong>Wish</strong>. The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.</p>"
     },
     {
@@ -1953,17 +1953,17 @@
     },
     {
       "id": "Mace +1",
-      "name": "Mace +1",
+      "name": "Булава +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Mace +2",
-      "name": "Mace +2",
+      "name": "Булава +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Mace +3",
-      "name": "Mace +3",
+      "name": "Булава +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -2038,17 +2038,17 @@
     },
     {
       "id": "Maul +1",
-      "name": "Maul +1",
+      "name": "Молот +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Maul +2",
-      "name": "Maul +2",
+      "name": "Молот +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Maul +3",
-      "name": "Maul +3",
+      "name": "Молот +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -2123,17 +2123,17 @@
     },
     {
       "id": "Morningstar +1",
-      "name": "Morningstar +1",
+      "name": "Моргенштерн +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Morningstar +2",
-      "name": "Morningstar +2",
+      "name": "Моргенштерн +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Morningstar +3",
-      "name": "Morningstar +3",
+      "name": "Моргенштерн +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -2218,42 +2218,42 @@
     },
     {
       "id": "Net +1",
-      "name": "Net +1",
+      "name": "Сеть +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack rolls made with this magic weapon.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>"
     },
     {
       "id": "Net +2",
-      "name": "Net +2",
+      "name": "Сеть +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack rolls made with this magic weapon.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>"
     },
     {
       "id": "Net +3",
-      "name": "Net +3",
+      "name": "Сеть +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack rolls made with this magic weapon.</p>\n<p><strong>Special.</strong> A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>"
     },
     {
       "id": "Nine Lives Stealer Greatsword",
-      "name": "Nine Lives Stealer Greatsword",
+      "name": "Вор девяти жизней Greatsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p>\n<p><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Foundry note: the 9 charges reflect a fully charged blade. Please adjust accordingly as required.</em></p>"
     },
     {
       "id": "Nine Lives Stealer Longsword",
-      "name": "Nine Lives Stealer Longsword",
+      "name": "Вор девяти жизней Longsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p>\n<p><em>Foundry note: the 9 charges reflect a fully charged blade. Please adjust accordingly as required.</em></p>"
     },
     {
       "id": "Nine Lives Stealer Rapier",
-      "name": "Nine Lives Stealer Rapier",
+      "name": "Вор девяти жизней Rapier",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p>\n<p><em>Foundry note: the 9 charges reflect a fully charged blade. Please adjust accordingly as required.</em></p>"
     },
     {
       "id": "Nine Lives Stealer Scimitar",
-      "name": "Nine Lives Stealer Scimitar",
+      "name": "Вор девяти жизней Scimitar",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p>\n<p><em>Foundry note: the 9 charges reflect a fully charged blade. Please adjust accordingly as required.</em></p>"
     },
     {
       "id": "Nine Lives Stealer Shortsword",
-      "name": "Nine Lives Stealer Shortsword",
+      "name": "Вор девяти жизней Shortsword",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +2 bonus to attack and damage rolls made with this magic weapon.</p>\n<p>The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.</p>\n<p><em>Foundry note: the 9 charges reflect a fully charged blade. Please adjust accordingly as required.</em></p>"
     },
     {
@@ -2293,27 +2293,27 @@
     },
     {
       "id": "Padded Armor",
-      "name": "Padded Armor",
+      "name": "Стеганная броня Armor",
       "description": "<p>Padded armor consists of quilted layers of cloth and batting. Padded armor offers a comparable level of protection as stiffened leather but is somewhat less encumbering to the wearer.</p>"
     },
     {
       "id": "Padded Armor +1",
-      "name": "Padded Armor +1",
+      "name": "Стеганная броня Armor +1",
       "description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Padded Armor +2",
-      "name": "Padded Armor +2",
+      "name": "Стеганная броня Armor +2",
       "description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Padded Armor +3",
-      "name": "Padded Armor +3",
+      "name": "Стеганная броня Armor +3",
       "description": "<p><em>This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p>You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Padded Armor of Resistance",
-      "name": "Padded Armor of Resistance",
+      "name": "Стеганная броня Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -2368,17 +2368,17 @@
     },
     {
       "id": "Pike +1",
-      "name": "Pike +1",
+      "name": "Пика +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Pike +2",
-      "name": "Pike +2",
+      "name": "Пика +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Pike +3",
-      "name": "Pike +3",
+      "name": "Пика +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -2403,22 +2403,22 @@
     },
     {
       "id": "Plate Armor",
-      "name": "Plate Armor",
+      "name": "Латы Armor",
       "description": "<p>Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.</p>"
     },
     {
       "id": "Plate Armor +1",
-      "name": "Plate Armor +1",
+      "name": "Латы Armor +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Plate Armor +2",
-      "name": "Plate Armor +2",
+      "name": "Латы Armor +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Plate Armor +3",
-      "name": "Plate Armor +3",
+      "name": "Латы Armor +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
@@ -2428,7 +2428,7 @@
     },
     {
       "id": "Plate Armor of Resistance",
-      "name": "Plate Armor of Resistance",
+      "name": "Латы Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -2618,7 +2618,7 @@
     },
     {
       "id": "Potion of Poison Resistance",
-      "name": "Potion of Poison Resistance",
+      "name": "Зелье яда Resistance",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Poison type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2693,17 +2693,17 @@
     },
     {
       "id": "Quarterstaff +1",
-      "name": "Quarterstaff +1",
+      "name": "Боевой посох +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Quarterstaff +2",
-      "name": "Quarterstaff +2",
+      "name": "Боевой посох +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Quarterstaff +3",
-      "name": "Quarterstaff +3",
+      "name": "Боевой посох +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -2723,27 +2723,27 @@
     },
     {
       "id": "Rapier +1",
-      "name": "Rapier +1",
+      "name": "Рапира +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Rapier +2",
-      "name": "Rapier +2",
+      "name": "Рапира +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Rapier +3",
-      "name": "Rapier +3",
+      "name": "Рапира +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Rapier of Life Stealing",
-      "name": "Rapier of Life Stealing",
+      "name": "Рапира of Life Stealing",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
     },
     {
       "id": "Rapier of Wounding",
-      "name": "Rapier of Wounding",
+      "name": "Рапира of Wounding",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
     },
     {
@@ -2768,22 +2768,22 @@
     },
     {
       "id": "Ring Mail +1",
-      "name": "Ring Mail +1",
+      "name": "Колечная броня +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Ring Mail +2",
-      "name": "Ring Mail +2",
+      "name": "Колечная броня +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Ring Mail +3",
-      "name": "Ring Mail +3",
+      "name": "Колечная броня +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Ring Mail Armor of Resistance",
-      "name": "Ring Mail Armor of Resistance",
+      "name": "Колечная броня Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px; height: 165px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\"><strong>d10</strong></td>\n<td style=\"width: 95.7986px; height: 15px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">1</td>\n<td style=\"width: 95.7986px; height: 15px;\">Acid</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">2</td>\n<td style=\"width: 95.7986px; height: 15px;\">Cold</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">3</td>\n<td style=\"width: 95.7986px; height: 15px;\">Fire</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">4</td>\n<td style=\"width: 95.7986px; height: 15px;\">Force</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">5</td>\n<td style=\"width: 95.7986px; height: 15px;\">Lightning</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">6</td>\n<td style=\"width: 95.7986px; height: 15px;\">Necrotic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">7</td>\n<td style=\"width: 95.7986px; height: 15px;\">Poison</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">8</td>\n<td style=\"width: 95.7986px; height: 15px;\">Psychic</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">9</td>\n<td style=\"width: 95.7986px; height: 15px;\">Radiant</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"width: 34.6875px; height: 15px;\">10</td>\n<td style=\"width: 95.7986px; height: 15px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -2993,7 +2993,7 @@
     },
     {
       "id": "Rod of Absorption",
-      "name": "Rod of Absorption",
+      "name": "Жезл of Absorption",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">(Requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell's energy not the spell itself - is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can't absorb more. If you are targeted by a spell that the rod can't store, the rod has no effect on that spell.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">If you are a spellcaster holding the rod, you can convert energy stored in it into spell slots to cast spells you have prepared or know. You can create spell slots only of a level equal to or lower than your own spell slots, up to a maximum of 5th level. You use the stored levels in place of your slots, but otherwise cast the spell as normal. For example, you can use 3 levels stored in the rod as a 3rd-level spell slot.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A newly found rod has 1d10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">**Foundry note: the rod currently has the maximum 10 charges for a newly found rod. Adjust as required.</p>"
     },
     {
@@ -3038,22 +3038,22 @@
     },
     {
       "id": "Scale Mail +1",
-      "name": "Scale Mail +1",
+      "name": "Чешуйчатая броня +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Scale Mail +2",
-      "name": "Scale Mail +2",
+      "name": "Чешуйчатая броня +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Scale Mail +3",
-      "name": "Scale Mail +3",
+      "name": "Чешуйчатая броня +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Scale Mail Armor of Resistance",
-      "name": "Scale Mail Armor of Resistance",
+      "name": "Чешуйчатая броня Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -3068,27 +3068,27 @@
     },
     {
       "id": "Scimitar +1",
-      "name": "Scimitar +1",
+      "name": "Скимитар +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Scimitar +2",
-      "name": "Scimitar +2",
+      "name": "Скимитар +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Scimitar +3",
-      "name": "Scimitar +3",
+      "name": "Скимитар +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Scimitar of Life Stealing",
-      "name": "Scimitar of Life Stealing",
+      "name": "Скимитар of Life Stealing",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
     },
     {
       "id": "Scimitar of Sharpness",
-      "name": "Scimitar of Sharpness",
+      "name": "Скимитар of Sharpness",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.</p>\n<p>When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.</p>\n<p>In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.</p>"
     },
     {
@@ -3098,7 +3098,7 @@
     },
     {
       "id": "Scimitar of Wounding",
-      "name": "Scimitar of Wounding",
+      "name": "Скимитар of Wounding",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
     },
     {
@@ -3113,17 +3113,17 @@
     },
     {
       "id": "Shield +1",
-      "name": "Shield +1",
+      "name": "Щит +1",
       "description": "<p>While holding this shield, you have a bonus to AC of +1. This bonus is in addition to the shield's normal bonus to AC.</p>"
     },
     {
       "id": "Shield +2",
-      "name": "Shield +2",
+      "name": "Щит +2",
       "description": "<p>While holding this shield, you have a bonus to AC of +2. This bonus is in addition to the shield's normal bonus to AC.</p>"
     },
     {
       "id": "Shield +3",
-      "name": "Shield +3",
+      "name": "Щит +3",
       "description": "<p>While holding this shield, you have a bonus to AC of +3. This bonus is in addition to the shield's normal bonus to AC.</p>"
     },
     {
@@ -3138,17 +3138,17 @@
     },
     {
       "id": "Shortbow +1",
-      "name": "Shortbow +1",
+      "name": "Короткий лук +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Shortbow +2",
-      "name": "Shortbow +2",
+      "name": "Короткий лук +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Shortbow +3",
-      "name": "Shortbow +3",
+      "name": "Короткий лук +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -3158,27 +3158,27 @@
     },
     {
       "id": "Shortsword +1",
-      "name": "Shortsword +1",
+      "name": "Короткий меч +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Shortsword +2",
-      "name": "Shortsword +2",
+      "name": "Короткий меч +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Shortsword +3",
-      "name": "Shortsword +3",
+      "name": "Короткий меч +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Shortsword of Life Stealing",
-      "name": "Shortsword of Life Stealing",
+      "name": "Короткий меч of Life Stealing",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 3d6 necrotic damage, provided that the target isn't a construct or an undead. You gain temporary hit points equal to the extra damage dealt.</p>"
     },
     {
       "id": "Shortsword of Wounding",
-      "name": "Shortsword of Wounding",
+      "name": "Короткий меч of Wounding",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.</p>\n<p>Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.</p>"
     },
     {
@@ -3193,17 +3193,17 @@
     },
     {
       "id": "Sickle +1",
-      "name": "Sickle +1",
+      "name": "Серп +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Sickle +2",
-      "name": "Sickle +2",
+      "name": "Серп +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Sickle +3",
-      "name": "Sickle +3",
+      "name": "Серп +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -3238,42 +3238,42 @@
     },
     {
       "id": "Sling +1",
-      "name": "Sling +1",
+      "name": "Праща +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Sling +2",
-      "name": "Sling +2",
+      "name": "Праща +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Sling +3",
-      "name": "Sling +3",
+      "name": "Праща +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Sling Bullet ",
-      "name": "Sling Bullet ",
+      "name": "Праща Bullet ",
       "description": "<p>A hardened pebble of stone, bone, or metal which can be flung at high velocity using a sling.</p>\n<p><em>**Foundry note: It will usually be impossible to buy one sling bullet because they are worth less than a copper piece (5 bullets = 1 cp).</em></p>"
     },
     {
       "id": "Sling Bullet +1",
-      "name": "Sling Bullet +1",
+      "name": "Праща Bullet +1",
       "description": "<p>A hardened pebble of stone, bone, or metal which can be flung at high velocity using a sling. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Sling Bullet +2",
-      "name": "Sling Bullet +2",
+      "name": "Праща Bullet +2",
       "description": "<p>A hardened pebble of stone, bone, or metal which can be flung at high velocity using a sling. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Sling Bullet +3",
-      "name": "Sling Bullet +3",
+      "name": "Праща Bullet +3",
       "description": "<p>A hardened pebble of stone, bone, or metal which can be flung at high velocity using a sling. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Sling Bullet of Slaying",
-      "name": "Sling Bullet of Slaying",
+      "name": "Праща Bullet of Slaying",
       "description": "<p>A Bullet of Slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both Bullets of Dragon Slaying and Bullets of Blue Dragon Slaying. If a creature belonging to the type, race, or group associated with a Bullet of Slaying takes damage from the bullet, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 bludgeoning damage on a failed save, or half as much extra damage on a successful one.</p>\n<p>Once a Bullet of Slaying deals its extra damage to a creature, it becomes a nonmagical bullet.</p>"
     },
     {
@@ -3308,17 +3308,17 @@
     },
     {
       "id": "Spear +1",
-      "name": "Spear +1",
+      "name": "Копьё +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Spear +2",
-      "name": "Spear +2",
+      "name": "Копьё +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Spear +3",
-      "name": "Spear +3",
+      "name": "Копьё +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -3368,7 +3368,7 @@
     },
     {
       "id": "Spell Scroll Cantrip Level",
-      "name": "Spell Scroll Cantrip Level",
+      "name": "Свиток заклинания (заговора) Level",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 10. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 13<br><strong>Attack Bonus</strong>: +5.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
@@ -3388,27 +3388,27 @@
     },
     {
       "id": "Splint Armor",
-      "name": "Splint Armor",
+      "name": "Наборная броня Armor",
       "description": "<p>This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.</p>"
     },
     {
       "id": "Splint Armor +1",
-      "name": "Splint Armor +1",
+      "name": "Наборная броня Armor +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Splint Armor +2",
-      "name": "Splint Armor +2",
+      "name": "Наборная броня Armor +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Splint Armor +3",
-      "name": "Splint Armor +3",
+      "name": "Наборная броня Armor +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Splint Armor of Resistance",
-      "name": "Splint Armor of Resistance",
+      "name": "Наборная броня Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -3508,27 +3508,27 @@
     },
     {
       "id": "Studded Leather Armor",
-      "name": "Studded Leather Armor",
+      "name": "Клепанная кожанная броня Armor",
       "description": "<p>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.</p>"
     },
     {
       "id": "Studded Leather Armor +1",
-      "name": "Studded Leather Armor +1",
+      "name": "Клепанная кожанная броня Armor +1",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Studded Leather Armor +2",
-      "name": "Studded Leather Armor +2",
+      "name": "Клепанная кожанная броня Armor +2",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Studded Leather Armor +3",
-      "name": "Studded Leather Armor +3",
+      "name": "Клепанная кожанная броня Armor +3",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">This armor has been embellished with powerful runes, crafted in sorcerous fires, blessed by a powerful being, or some other event has seen it bequeathed with enhanced protection for the wearer.</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">You have a bonus to AC while wearing this armor.</p>"
     },
     {
       "id": "Studded Leather Armor of Resistance",
-      "name": "Studded Leather Armor of Resistance",
+      "name": "Клепанная кожанная броня Armor of Resistance",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.</p>\n<table style=\"width: 138px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 35px;\"><strong>d10</strong></td>\n<td style=\"width: 96px;\"><strong>Damage</strong> <strong>Type</strong></td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">1</td>\n<td style=\"width: 96px;\">Acid</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">2</td>\n<td style=\"width: 96px;\">Cold</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">3</td>\n<td style=\"width: 96px;\">Fire</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">4</td>\n<td style=\"width: 96px;\">Force</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">5</td>\n<td style=\"width: 96px;\">Lightning</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">6</td>\n<td style=\"width: 96px;\">Necrotic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">7</td>\n<td style=\"width: 96px;\">Poison</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">8</td>\n<td style=\"width: 96px;\">Psychic</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">9</td>\n<td style=\"width: 96px;\">Radiant</td>\n</tr>\n<tr>\n<td style=\"width: 35px;\">10</td>\n<td style=\"width: 96px;\">Thunder</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
     },
     {
@@ -3608,17 +3608,17 @@
     },
     {
       "id": "Trident +1",
-      "name": "Trident +1",
+      "name": "Трезубец +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Trident +2",
-      "name": "Trident +2",
+      "name": "Трезубец +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Trident +3",
-      "name": "Trident +3",
+      "name": "Трезубец +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -3933,17 +3933,17 @@
     },
     {
       "id": "War Pick +1",
-      "name": "War Pick +1",
+      "name": "Боевая кирка +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "War Pick +2",
-      "name": "War Pick +2",
+      "name": "Боевая кирка +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "War Pick +3",
-      "name": "War Pick +3",
+      "name": "Боевая кирка +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -3953,17 +3953,17 @@
     },
     {
       "id": "Warhammer +1",
-      "name": "Warhammer +1",
+      "name": "Боевой молот +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Warhammer +2",
-      "name": "Warhammer +2",
+      "name": "Боевой молот +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Warhammer +3",
-      "name": "Warhammer +3",
+      "name": "Боевой молот +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -3993,17 +3993,17 @@
     },
     {
       "id": "Whip +1",
-      "name": "Whip +1",
+      "name": "Кнут +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Whip +2",
-      "name": "Whip +2",
+      "name": "Кнут +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Whip +3",
-      "name": "Whip +3",
+      "name": "Кнут +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
