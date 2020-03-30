@@ -13,52 +13,52 @@
     },
     {
       "id": "Adamantine Breastplate",
-      "name": "Adamantine Breastplate",
+      "name": "Алмазный Нагрудник",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Adamantine Chain Mail",
-      "name": "Adamantine Chain Mail",
+      "name": "Адамантиновой Кольчуги",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Adamantine Chain Shirt",
-      "name": "Adamantine Chain Shirt",
+      "name": "Адамантиновой Рубашка Цепь",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Adamantine Half Plate Armor",
-      "name": "Adamantine Half Plate Armor",
+      "name": "Адамантиновой Половина Латного Доспеха",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Adamantine Plate Armor",
-      "name": "Adamantine Plate Armor",
+      "name": "Адамантиновой Броней",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Adamantine Ring Mail",
-      "name": "Adamantine Ring Mail",
+      "name": "Несокрушимых Кольцо Почта",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Adamantine Scale Mail",
-      "name": "Adamantine Scale Mail",
+      "name": "Адамантиновой Кольчугу",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Adamantine Splint Armor",
-      "name": "Adamantine Splint Armor",
+      "name": "Тутор Адамантиновой Брони",
       "description": "<p>This armor is reinforced with adamantine, one of the hardest substances in existence.</p>\n<p>While you're wearing it, any critical hit against you becomes a normal hit.</p>"
     },
     {
       "id": "Alchemist's Fire",
-      "name": "Alchemist's Fire",
+      "name": "Огонь алхимика",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.</span></p>"
     },
     {
       "id": "Alchemist's supplies",
-      "name": "Alchemist's supplies",
+      "name": "Поставки алхимика",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in alchemy.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "id": "Alms Box",
-      "name": "Alms Box",
+      "name": "Коробка Милостыню",
       "description": "<p>A box with a money slot and detachable base mainly used by priests and the like to collect alms.</p>"
     },
     {
@@ -98,12 +98,12 @@
     },
     {
       "id": "Antitoxin",
-      "name": "Antitoxin",
+      "name": "Антитоксин",
       "description": "<p>A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.</p>"
     },
     {
       "id": "Apparatus of the Crab",
-      "name": "Apparatus of the Crab",
+      "name": "Аппарат краб",
       "description": "<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">Wondrous item</em></div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">&nbsp;</div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks &nbsp;a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.</div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">&nbsp;</div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">The Apparatus of the Crab is a Large object with the following statistics:</div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong>AC</strong>: 20<br style=\"box-sizing: border-box; user-select: text;\"><strong>Hit Points</strong>: 200<br style=\"box-sizing: border-box; user-select: text;\"><strong>Speed</strong>: 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)<br style=\"box-sizing: border-box; user-select: text;\"><strong>Damage Immunities</strong>: poison, psychic<br style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\">To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.<br style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\">The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the vehicle takes 2d6 bludgeoning damage per minute from pressure.<br style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\">A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as show in the Apparatus of the Crab Levers table.<br style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\">Apparatus of the Crab Levers table:</div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">&nbsp;</div>\n<div style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">\n<table style=\"box-sizing: border-box; user-select: text; width: 395.556px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\"><strong>Lever</strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\"><strong>Up</strong></td>\n<td style=\"box-sizing: border-box; user-select: text;\"><strong>Down</strong></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">1</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">Legs and tail extend, allowing the apparatus to walk and swim.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">Legs and tail retract, reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">2</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">Forward window shutter opens.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">Forward window shutter closes.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">3</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">Side window shutters open (two per side).</td>\n<td style=\"box-sizing: border-box; user-select: text;\">Side window shutters close (two per side).</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">4</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">Two claws extend from the front sides of the apparatus.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">The claws retract.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">5</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is Grappled (escape DC 15).</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">6</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">The apparatus walks or swims forward.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">The apparatus walks or swims backward.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">7</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">The apparatus turns 90 degrees left.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">The apparatus turns 90 degrees right.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">8</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">The light turns off.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">9</td>\n<td style=\"box-sizing: border-box; user-select: text; width: 160px;\">The apparatus sinks as much as 20 feet in liquid.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">The apparatus rises up to 20 feet in liquid.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 39px;\">10</td>\n<td style=\"box-sizing: border-box; user-select: text;\">The rear hatch unseals and opens.</td>\n<td style=\"box-sizing: border-box; user-select: text;\">The rear hatch closes and seals.</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n</div>"
     },
     {
@@ -118,17 +118,17 @@
     },
     {
       "id": "Arrow +1",
-      "name": "Arrow +1",
+      "name": "Стрелка +1",
       "description": "<p>Ammunition used for bows of all varieties.&nbsp; It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Arrow +2",
-      "name": "Arrow +2",
+      "name": "Стрелка +2",
       "description": "<p>Ammunition used for bows of all varieties.&nbsp; It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Arrow +3",
-      "name": "Arrow +3",
+      "name": "Стрелка +3",
       "description": "<p>Ammunition used for bows of all varieties.&nbsp; It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "id": "Arrows",
-      "name": "Arrows",
+      "name": "Стрелки",
       "description": "<p>Standard ammunition used for bows of all varieties. These mundane arrows are made of smooth wooden shafts with goose feather fletching and hammer metal bodkins.</p>"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "id": "Bag of Sand",
-      "name": "Bag of Sand",
+      "name": "Мешок с песком",
       "description": "<p>A small bag of sand used by the scholarly to dry freshly inked letters and correspondence quickly and safely for quick dispatch.</p>"
     },
     {
@@ -188,17 +188,17 @@
     },
     {
       "id": "Ball Bearings",
-      "name": "Ball Bearings",
+      "name": "Шаровые Подшипники",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">As an action, you can spill these 1,000 tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the saving throw.</span></p>"
     },
     {
       "id": "Barrel",
-      "name": "Barrel",
+      "name": "Баррель",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</span></p>"
     },
     {
       "id": "Basic Poison",
-      "name": "Basic Poison",
+      "name": "Основной Яд",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</span></p>"
     },
     {
@@ -278,17 +278,17 @@
     },
     {
       "id": "Berserker Battleaxe",
-      "name": "Berserker Battleaxe",
+      "name": "Берсерк Секира",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>\n<p><strong>Curse</strong>. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>\n<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target.</p>\n<p>If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>"
     },
     {
       "id": "Berserker Greataxe",
-      "name": "Berserker Greataxe",
+      "name": "Берсерк Топор",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>\n<p><strong>Curse</strong>. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>\n<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target.</p>\n<p>If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>"
     },
     {
       "id": "Berserker Handaxe",
-      "name": "Berserker Handaxe",
+      "name": "Берсерк Хондроксид",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>\n<p><strong>Curse</strong>. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>\n<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target.</p>\n<p>If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>"
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "id": "Block of Incense",
-      "name": "Block of Incense",
+      "name": "Блок ладана",
       "description": "<p>Frequently used by the rich and religious alike to scent the air for purposes of pleasure or ritual.</p>"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "id": "Bolt of Slaying",
-      "name": "Bolt of Slaying",
+      "name": "Болт убить",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">A Bolt of Slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both Bolts of Dragon Slaying and Bolts of Blue Dragon Slaying. If a creature belonging to the type, race, or group associated with a bolt of slaying takes damage from the bolt, the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.</span></p>\n<p><span style=\"color: #191813; font-size: 13px;\">Once a Bolt of Slaying deals its extra damage to a creature, it becomes a nonmagical bolt.</span></p>"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "id": "Boots of Springing and Striding",
-      "name": "Boots of Springing and Striding",
+      "name": "Сапоги стельности и прошагать",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow.</p>"
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "id": "Brass Horn of Valhalla",
-      "name": "Brass Horn of Valhalla",
+      "name": "Латунь Валгаллы Рог",
       "description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a <a class=\"entity-link\" draggable=\"true\" data-pack=\"dnd5e.monsters\" data-id=\"kz1t6xeXVwODpYb2\"> Berserker</a>. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.</p>\n<p>Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.</p>\n<table style=\"border-style: solid;\">\n<thead>\n<tr>\n<th style=\"width: 43.5764px;\">d100</th>\n<th style=\"width: 46.9097px;\">Horn Type</th>\n<th style=\"width: 72.4653px;\">Berserkers Summoned</th>\n<th style=\"width: 203.576px;\">Requirement</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 43.5764px;\">01-40</td>\n<td style=\"width: 46.9097px;\">Silver</td>\n<td style=\"width: 72.4653px;\">2d4 + 2</td>\n<td style=\"width: 203.576px;\">None</td>\n</tr>\n<tr>\n<td style=\"width: 43.5764px;\"><strong>41-75</strong></td>\n<td style=\"width: 46.9097px;\"><strong>Brass</strong></td>\n<td style=\"width: 72.4653px;\"><strong>3d4 + 3</strong></td>\n<td style=\"width: 203.576px;\"><strong>Proficiency with all simple weapons</strong></td>\n</tr>\n<tr>\n<td style=\"width: 43.5764px;\">76-90</td>\n<td style=\"width: 46.9097px;\">Bronze</td>\n<td style=\"width: 72.4653px;\">4d4 + 4</td>\n<td style=\"width: 203.576px;\">Proficiency with all medium armor</td>\n</tr>\n<tr>\n<td style=\"width: 43.5764px;\">91-00</td>\n<td style=\"width: 46.9097px;\">Iron</td>\n<td style=\"width: 72.4653px;\">5d4 + 5</td>\n<td style=\"width: 203.576px;\">Proficiency with all martial weapons</td>\n</tr>\n</tbody>\n</table>\n<p>If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.</p>"
     },
     {
@@ -423,12 +423,12 @@
     },
     {
       "id": "Brewer's Supplies",
-      "name": "Brewer's Supplies",
+      "name": "Поставки пивоваренного",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in brewing.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
       "id": "Bronze Horn of Valhalla",
-      "name": "Bronze Horn of Valhalla",
+      "name": "Бронзовый Валгаллы Рог",
       "description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a @Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.</p>\n<p>Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.</p>\n<table style=\"height: 147px; width: 375px;\">\n<thead>\n<tr style=\"height: 33px;\">\n<th style=\"width: 38.0208px; height: 33px;\">d100</th>\n<th style=\"width: 42.4653px; height: 33px;\">Horn Type</th>\n<th style=\"width: 69.1319px; height: 33px;\">Berserkers Summoned</th>\n<th style=\"width: 211.354px; height: 33px;\">Requirement</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"width: 38.0208px; height: 15px;\">01-40</td>\n<td style=\"width: 42.4653px; height: 15px;\">Silver</td>\n<td style=\"width: 69.1319px; height: 15px;\">2d4 + 2</td>\n<td style=\"width: 211.354px; height: 15px;\">None</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 38.0208px;\">41-75</td>\n<td style=\"width: 42.4653px;\">Brass</td>\n<td style=\"width: 69.1319px;\">3d4 + 3</td>\n<td style=\"width: 211.354px;\">Proficiency with all simple weapons</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 38.0208px; height: 33px;\"><strong>76-90</strong></td>\n<td style=\"width: 42.4653px; height: 33px;\"><strong>Bronze</strong></td>\n<td style=\"width: 69.1319px; height: 33px;\"><strong>4d4 + 4</strong></td>\n<td style=\"width: 211.354px; height: 33px;\"><strong>Proficiency with all medium armor</strong></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 38.0208px; height: 33px;\">91-00</td>\n<td style=\"width: 42.4653px; height: 33px;\">Iron</td>\n<td style=\"width: 69.1319px; height: 33px;\">5d4 + 5</td>\n<td style=\"width: 211.354px; height: 33px;\">Proficiency with all martial weapons</td>\n</tr>\n</tbody>\n</table>\n<p>If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.</p>"
     },
     {
@@ -448,17 +448,17 @@
     },
     {
       "id": "Bullseye Lantern",
-      "name": "Bullseye Lantern",
+      "name": "Яблочко Фонарь",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.</span></p>"
     },
     {
       "id": "Calligrapher's Supplies",
-      "name": "Calligrapher's Supplies",
+      "name": "Поставки каллиграфа",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in calligraphy.</p>\n<p>Proficiency with a set of artisan&rsquo;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&rsquo;s tools requires a separate proficiency.</p>"
     },
     {
       "id": "Caltrops",
-      "name": "Caltrops",
+      "name": "Чилимсы",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</span></p>"
     },
     {
@@ -478,7 +478,7 @@
     },
     {
       "id": "Carpenter's Tools",
-      "name": "Carpenter's Tools",
+      "name": "Плотницкие инструменты",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in carpentry.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -488,17 +488,17 @@
     },
     {
       "id": "Cartographer's Tools",
-      "name": "Cartographer's Tools",
+      "name": "Инструменты картографа",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in cartography.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
       "id": "Censor",
-      "name": "Censor",
+      "name": "Цензор",
       "description": "<p>Usually used in conjunction with blocks of incense to perfume the air.</p>"
     },
     {
       "id": "Censor of Controlling Air Elementals",
-      "name": "Censor of Controlling Air Elementals",
+      "name": "Цензор контроля воздушных Элементалей",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">Wondrous item</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">While incense is burning in this censer, you can use an action to speak the censer's command word and summon an @Compendium[dnd5e.monsters.banHjKDMCegbUwYE]{Air Elemental}, as if you had cast the @Compendium[dnd5e.spells.1LkZvINag7KqBmDR]{Conjure Elemental} spell. The censer can't be used this way again until the next dawn.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.</p>"
     },
     {
@@ -558,7 +558,7 @@
     },
     {
       "id": "Chalk",
-      "name": "Chalk",
+      "name": "Мел",
       "description": "<p>It is soft white porous sedimentary acarbonate rock, a form of limestone composed of the mineral calcite. Can be used to draw shapes.&nbsp;</p>"
     },
     {
@@ -633,12 +633,12 @@
     },
     {
       "id": "Cobbler's Tools",
-      "name": "Cobbler's Tools",
+      "name": "Инструменты сапожника",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in cobblery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
       "id": "Common Clothes",
-      "name": "Common Clothes",
+      "name": "Обычная Одежда",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">Clothes worn by most commoners.</span></p>"
     },
     {
@@ -648,37 +648,37 @@
     },
     {
       "id": "Cook's Utensils",
-      "name": "Cook's Utensils",
+      "name": "Посуда для повара",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in cookery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
       "id": "Costume Clothes",
-      "name": "Costume Clothes",
+      "name": "Костюм Одежда",
       "description": "<p>A complete costume usually used by performers and artists in all manner of entertainment halls or for those that simply refuse to get out of character.</p>"
     },
     {
       "id": "Crossbow Bolt",
-      "name": "Crossbow Bolt",
+      "name": "Арбалетный Болт",
       "description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip.</p>"
     },
     {
       "id": "Crossbow Bolt +1",
-      "name": "Crossbow Bolt +1",
+      "name": "Арбалетный Болт +1",
       "description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Crossbow Bolt +2",
-      "name": "Crossbow Bolt +2",
+      "name": "Арбалетный Болт +2",
       "description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Crossbow Bolt +3",
-      "name": "Crossbow Bolt +3",
+      "name": "Арбалетный Болт +3",
       "description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip. It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
     },
     {
       "id": "Crossbow Bolt Case",
-      "name": "Crossbow Bolt Case",
+      "name": "Корпус Арбалета",
       "description": "<p>This wooden case can hold up to twenty crossbow bolts.</p>"
     },
     {
@@ -748,27 +748,27 @@
     },
     {
       "id": "Dancing Greatsword",
-      "name": "Dancing Greatsword",
+      "name": "Танцы Двуручный Меч",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
     },
     {
       "id": "Dancing Longsword",
-      "name": "Dancing Longsword",
+      "name": "Танцующий Меч",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
     },
     {
       "id": "Dancing Rapier",
-      "name": "Dancing Rapier",
+      "name": "Танцы Рапира",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
     },
     {
       "id": "Dancing Scimitar",
-      "name": "Dancing Scimitar",
+      "name": "Танцы Ятаган",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
     },
     {
       "id": "Dancing Shortsword",
-      "name": "Dancing Shortsword",
+      "name": "Танцующий Клинок",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.</p>\n<p>While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.</p>\n<p>After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.</p>"
     },
     {
@@ -843,12 +843,12 @@
     },
     {
       "id": "Disguise Kit",
-      "name": "Disguise Kit",
+      "name": "Маскировочный Набор",
       "description": "<p>This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.</p>"
     },
     {
       "id": "Double-Bladed Scimitar",
-      "name": "Double-Bladed Scimitar",
+      "name": "Двойные Лезвия Ятагана",
       "description": "<p>An exotic weapon crafted as two large sweeping blades mounted on either end of a two-handed central hilt.</p>"
     },
     {
@@ -908,12 +908,12 @@
     },
     {
       "id": "Efficient Quiver",
-      "name": "Efficient Quiver",
+      "name": "Эффективное Колчан",
       "description": "<p><em>Wondrous item</em></p>\n<p>Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds.</p>\n<p>The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.</p>\n<p>You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.</p>"
     },
     {
       "id": "Eftreeti Bottle",
-      "name": "Eftreeti Bottle",
+      "name": "Eftreeti Бутылки",
       "description": "<p><em>Wondrous item</em></p>\n<p>This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your turn, the smoke disappears with a flash of harmless fire, and an @Compendium[dnd5e.monsters.LTomFUTBrkRi0Pj5]{Efreeti} appears in an unoccupied space within 30 feet of you.</p>\n<p>The first time the bottle is opened, the GM rolls to determine what happens.</p>\n<table style=\"height: 60px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 61.3542px;\"><strong>d100</strong></td>\n<td style=\"height: 15px; width: 311.354px;\"><strong>Effect</strong></td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 61.3542px;\">01-10</td>\n<td>The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 61.3542px;\">11-90</td>\n<td>The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.</td>\n</tr>\n<tr style=\"height: 15px;\">\n<td style=\"height: 15px; width: 61.3542px;\">91-00</td>\n<td style=\"height: 15px; width: 311.354px;\">The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.</td>\n</tr>\n</tbody>\n</table>"
     },
     {
@@ -968,92 +968,92 @@
     },
     {
       "id": "Feather Token Anchor",
-      "name": "Feather Token Anchor",
+      "name": "Перо Якорь Маркер",
       "description": "<p><em>Wondrous item</em></p>\n<p>This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.</p>\n<table style=\"width: 153px;\">\n<thead>\n<tr>\n<th style=\"width: 59.1319px;\">d100</th>\n<th style=\"width: 86.9097px;\">Feather Token</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 59.1319px;\">01-20</td>\n<td style=\"width: 86.9097px;\">Anchor</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">21-35</td>\n<td style=\"width: 86.9097px;\">Bird</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">36-50</td>\n<td style=\"width: 86.9097px;\">Fan</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">51-65</td>\n<td style=\"width: 86.9097px;\">Swan boat</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">66-90</td>\n<td style=\"width: 86.9097px;\">Tree</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">91-00</td>\n<td style=\"width: 86.9097px;\">Whip</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Anchor.</strong>&nbsp;You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.</p>"
     },
     {
       "id": "Feather Token Bird",
-      "name": "Feather Token Bird",
+      "name": "Перо Маркер Птица",
       "description": "<p><em>Wondrous item</em></p>\n<p>This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.</p>\n<table style=\"width: 153px;\">\n<thead>\n<tr>\n<th style=\"width: 59.1319px;\">d100</th>\n<th style=\"width: 86.9097px;\">Feather Token</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 59.1319px;\">01-20</td>\n<td style=\"width: 86.9097px;\">Anchor</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">21-35</td>\n<td style=\"width: 86.9097px;\">Bird</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">36-50</td>\n<td style=\"width: 86.9097px;\">Fan</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">51-65</td>\n<td style=\"width: 86.9097px;\">Swan boat</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">66-90</td>\n<td style=\"width: 86.9097px;\">Tree</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">91-00</td>\n<td style=\"width: 86.9097px;\">Whip</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Bird.</strong> You can use an action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a @Compendium[dnd5e.monsters.p980augbCIdpK9ZX]{Roc}, but it obeys your simple commands and can't attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.</p>\n<p><em>Foundry note: the 144 charges represent the 144 miles the bird can travel when being able to travel at maximum speed to enable accurate distance-tracking as required.</em></p>"
     },
     {
       "id": "Feather Token Fan",
-      "name": "Feather Token Fan",
+      "name": "Перо Вентилятор Маркер",
       "description": "<p><em>Wondrous item</em></p>\n<p>This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.</p>\n<table style=\"width: 153px;\">\n<thead>\n<tr>\n<th style=\"width: 59.1319px;\">d100</th>\n<th style=\"width: 86.9097px;\">Feather Token</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 59.1319px;\">01-20</td>\n<td style=\"width: 86.9097px;\">Anchor</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">21-35</td>\n<td style=\"width: 86.9097px;\">Bird</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">36-50</td>\n<td style=\"width: 86.9097px;\">Fan</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">51-65</td>\n<td style=\"width: 86.9097px;\">Swan boat</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">66-90</td>\n<td style=\"width: 86.9097px;\">Tree</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">91-00</td>\n<td style=\"width: 86.9097px;\">Whip</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Fan.</strong>&nbsp;If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.</p>"
     },
     {
       "id": "Feather Token Swan Boat",
-      "name": "Feather Token Swan Boat",
+      "name": "Перо Маркер Речном Трамвайчике",
       "description": "<p><em>Wondrous item</em></p>\n<p>This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.</p>\n<table style=\"width: 153px;\">\n<thead>\n<tr>\n<th style=\"width: 59.1319px;\">d100</th>\n<th style=\"width: 86.9097px;\">Feather Token</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 59.1319px;\">01-20</td>\n<td style=\"width: 86.9097px;\">Anchor</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">21-35</td>\n<td style=\"width: 86.9097px;\">Bird</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">36-50</td>\n<td style=\"width: 86.9097px;\">Fan</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">51-65</td>\n<td style=\"width: 86.9097px;\">Swan boat</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">66-90</td>\n<td style=\"width: 86.9097px;\">Tree</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">91-00</td>\n<td style=\"width: 86.9097px;\">Whip</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Swan Boat.</strong>&nbsp;You can use an action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot- wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action.</p>"
     },
     {
       "id": "Feather Token Tree",
-      "name": "Feather Token Tree",
+      "name": "Перо Дерево Маркер",
       "description": "<p><em>Wondrous item</em></p>\n<p>This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.</p>\n<table style=\"width: 153px;\">\n<thead>\n<tr>\n<th style=\"width: 59.1319px;\">d100</th>\n<th style=\"width: 86.9097px;\">Feather Token</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 59.1319px;\">01-20</td>\n<td style=\"width: 86.9097px;\">Anchor</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">21-35</td>\n<td style=\"width: 86.9097px;\">Bird</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">36-50</td>\n<td style=\"width: 86.9097px;\">Fan</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">51-65</td>\n<td style=\"width: 86.9097px;\">Swan boat</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">66-90</td>\n<td style=\"width: 86.9097px;\">Tree</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">91-00</td>\n<td style=\"width: 86.9097px;\">Whip</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Tree.</strong>&nbsp;You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius.</p>"
     },
     {
       "id": "Feather Token Whip",
-      "name": "Feather Token Whip",
+      "name": "Перо Маркер Хлыст",
       "description": "<p><em>Wondrous item</em></p>\n<p>This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The GM chooses the kind of token or determines it randomly.</p>\n<table style=\"width: 153px;\">\n<thead>\n<tr>\n<th style=\"width: 59.1319px;\">d100</th>\n<th style=\"width: 86.9097px;\">Feather Token</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 59.1319px;\">01-20</td>\n<td style=\"width: 86.9097px;\">Anchor</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">21-35</td>\n<td style=\"width: 86.9097px;\">Bird</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">36-50</td>\n<td style=\"width: 86.9097px;\">Fan</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">51-65</td>\n<td style=\"width: 86.9097px;\">Swan boat</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">66-90</td>\n<td style=\"width: 86.9097px;\">Tree</td>\n</tr>\n<tr>\n<td style=\"width: 59.1319px;\">91-00</td>\n<td style=\"width: 86.9097px;\">Whip</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Whip.</strong>&nbsp;You can use an action to throw the token to a point within 10 feet of you. The token disappears, and a floating whip takes its place. You can then use a bonus action to make a melee spell attack against a creature within 10 feet of the whip, with an attack bonus of +9. On a hit, the target takes 1d6 + 5 force damage.</p>\n<p>As a bonus action on your turn, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are incapacitated or die.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Bronze Griffon",
-      "name": "Figurine of Wondrous Power Bronze Griffon",
+      "name": "Статуэтка дивной бронза мощность Гриффон",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Bronze Griffon</strong>. This bronze statuette is of a griffon rampant. It can become a @Compendium[dnd5e.monsters.h052EIIUmRwJum65]{Griffon} for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Ebony Fly",
-      "name": "Figurine of Wondrous Power Ebony Fly",
+      "name": "Фигурка чудесной силой ебеня летать",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Ebony Fly</strong>. This ebony statuette is carved in the likeness of a horsefly. It can become a Giant Fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.</p>\n<h3 id=\"giant-fly\"><strong>Giant Fly</strong></h3>\n<p><em>Large beast, unaligned</em></p>\n<p><strong>Armor Class&nbsp;</strong>11<br><strong>Hit Points</strong>&nbsp;19 (3d10 + 3)<br><strong>Speed&nbsp;</strong>30 ft., fly 60 ft.</p>\n<table>\n<thead>\n<tr>\n<th align=\"center\">STR</th>\n<th align=\"center\">DEX</th>\n<th align=\"center\">CON</th>\n<th align=\"center\">INT</th>\n<th align=\"center\">WIS</th>\n<th align=\"center\">CHA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">14 (+2)</td>\n<td align=\"center\">13 (+1)</td>\n<td align=\"center\">13 (+1)</td>\n<td align=\"center\">2 (-4)</td>\n<td align=\"center\">10 (+0)</td>\n<td align=\"center\">3 (-4)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Senses&nbsp;</strong>darkvision 60 ft., passive Perception 10<br><strong>Languages&nbsp;</strong>--</p>"
     },
     {
       "id": "Figurine of Wondrous Power Golden Lions",
-      "name": "Figurine of Wondrous Power Golden Lions",
+      "name": "Статуэтка чудесной силой Золотые львы",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Golden Lions</strong>. These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a @Compendium[dnd5e.monsters.hjhERRzafCiFFVLA]{Lion} for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Ivory Goat of Terror",
-      "name": "Figurine of Wondrous Power Ivory Goat of Terror",
+      "name": "Статуэтка чудесной силой слоновой кости коз террора",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Ivory Goats</strong>.&nbsp;These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others.</p>\n<p>The Goat of Terror becomes a @Compendium[dnd5e.monsters.N3ahWNjmxk9Ro1aG]{Giant Goat} for up to 3 hours. The goat can't attack, but you can remove its horns and use them as weapons. One horn becomes a +1 lance, and the other becomes a +2 longsword. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form.</p>\n<p>In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a DC 15 Wisdom saving throw or be frightened of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat's aura for the next 24 hours.</p>\n<p>Once the figurine has been used, it can't be used again until 15 days have passed.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Ivory Goat of Travail",
-      "name": "Figurine of Wondrous Power Ivory Goat of Travail",
+      "name": "Фигурка чудодейственная сила кот козел родах",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Ivory Goats</strong>.&nbsp;These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others.</p>\n<p>The Goat of Travail&nbsp;becomes a @Compendium[dnd5e.monsters.N3ahWNjmxk9Ro1aG]{Giant Goat} for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Ivory Goat of Traveling",
-      "name": "Figurine of Wondrous Power Ivory Goat of Traveling",
+      "name": "Статуэтка чудесной силой слоновой кости коз путешествия",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Ivory Goats</strong>.&nbsp;These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others.</p>\n<p>The Goat of Traveling&nbsp;can become a Large goat with the same statistics as a @Compendium[dnd5e.monsters.rz8UTUnFT87BsAFR]{Riding Horse}. It has 24 charges, and each hour or portion thereof it spends in beast form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all its charges.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Marble Elephant",
-      "name": "Figurine of Wondrous Power Marble Elephant",
+      "name": "Фигурка чудодейственная сила мраморный слон",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Marble Elephant</strong>. This marble statuette is about 4 inches high and long. It can become an @Compendium[dnd5e.monsters.jLPhaBnMtAbB5dp1]{Elephant} for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Obsidian Steed",
-      "name": "Figurine of Wondrous Power Obsidian Steed",
+      "name": "Статуэтка дивной Обсидиан мощность конь",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Obsidian Steed</strong>. This polished obsidian horse can become a @Compendium[dnd5e.monsters.5SgVGhQBswgWRwsF]{Nightmare} for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.</p>\n<p>If you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Onyx Dog",
-      "name": "Figurine of Wondrous Power Onyx Dog",
+      "name": "Фигурка чудодейственная сила оникса собака",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Onyx Dog</strong>. This onyx statuette of a dog can become a @Compendium[dnd5e.monsters.YTpL2c3NO4sOn2UA]{Mastiff} for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has darkvision out to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Serpentine Owl",
-      "name": "Figurine of Wondrous Power Serpentine Owl",
+      "name": "Фигурка чудодейственная сила Сова серпантин",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Serpentine Owl</strong>. This serpentine statuette of an owl can become a @Compendium[dnd5e.monsters.TWe8OKEc59XXINGh]{Giant Owl} for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.</p>"
     },
     {
       "id": "Figurine of Wondrous Power Silver Raven",
-      "name": "Figurine of Wondrous Power Silver Raven",
+      "name": "Фигурка чудесный Серебряный Ворон",
       "description": "<p><em>Wondrous item</em></p>\n<p>A Figurine of Wondrous Power&nbsp;is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.</p>\n<p>The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.</p>\n<p>The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.</p>\n<p><strong>Serpentine Owl</strong>. This silver statuette of a raven can become a @Compendium[dnd5e.monsters.LPdX5YLlwci0NDZx]{Raven} for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the @Compendium[dnd5e.spells.X8w9EzYLGc4vQ1H2]{Animal Messenger} spell on it at will.</p>"
     },
     {
       "id": "Fine Clothes",
-      "name": "Fine Clothes",
+      "name": "Красивую Одежду",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">Set of clothes designed specifically to be expensive and show it.</span></p>"
     },
     {
@@ -1108,12 +1108,12 @@
     },
     {
       "id": "Flask",
-      "name": "Flask",
+      "name": "Фляга",
       "description": "<p>A flask holds 1 pint of liquid.</p>"
     },
     {
       "id": "Flask of Holy Water",
-      "name": "Flask of Holy Water",
+      "name": "Склянка со святой водой",
       "description": "<p>As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged Attack against a target creature, treating the holy water as an Improvised Weapon. If the target is a fiend or Undead, it takes 2d6 radiant damage. A Cleric or Paladin may create holy water by performing a Special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.</p>"
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "Forgery Kit",
-      "name": "Forgery Kit",
+      "name": "Набор Для Подделки Документов",
       "description": "<p>This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.</p>"
     },
     {
@@ -1153,27 +1153,27 @@
     },
     {
       "id": "Gaming Set",
-      "name": "Gaming Set",
+      "name": "Игровой Набор",
       "description": "<p>This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
     },
     {
       "id": "Gaming Set of Dice",
-      "name": "Gaming Set of Dice",
+      "name": "Игровой набор плашек",
       "description": "<p>This item encompasses a wide range of dice, both straight and weighted.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
     },
     {
       "id": "Gaming Set of Dragonchess",
-      "name": "Gaming Set of Dragonchess",
+      "name": "Игровой набор Dragonchess",
       "description": "<p>This item is a complete set of dragonchess pieces and board. The board can also be used for variations of draughts and checkers.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
     },
     {
       "id": "Gaming Set of Playing Cards",
-      "name": "Gaming Set of Playing Cards",
+      "name": "Игровой набор игральных карт",
       "description": "<p>This item encompasses a wide range of playing card types, both unmarked and marked.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
     },
     {
       "id": "Gaming Set of Three-Dragon Ante",
-      "name": "Gaming Set of Three-Dragon Ante",
+      "name": "Игровой набор три дракона Анте",
       "description": "<p>This item is a complete set of Three-Dragon Ante playing cards,&nbsp; unmarked or marked.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
     },
     {
@@ -1258,12 +1258,12 @@
     },
     {
       "id": "Glass Bottle",
-      "name": "Glass Bottle",
+      "name": "Стеклянная Бутылка",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">A bottle holds 1½ pints of liquid.</span></p>"
     },
     {
       "id": "Glassblower's Tools",
-      "name": "Glassblower's Tools",
+      "name": "Инструменты стеклодува",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in glassblowing.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -1418,22 +1418,22 @@
     },
     {
       "id": "Hand Crossbow",
-      "name": "Hand Crossbow",
+      "name": "Руки Арбалет",
       "description": "<p>A lightweight crossbow designed to be held in one hand or strapped to one's wrist to fire light bolts.</p>"
     },
     {
       "id": "Hand Crossbow +1",
-      "name": "Hand Crossbow +1",
+      "name": "Ручной Арбалет +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Hand Crossbow +2",
-      "name": "Hand Crossbow +2",
+      "name": "Ручной Арбалет +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Hand Crossbow +3",
-      "name": "Hand Crossbow +3",
+      "name": "Ручной Арбалет +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1458,7 +1458,7 @@
     },
     {
       "id": "Handy Haversack",
-      "name": "Handy Haversack",
+      "name": "Удобный Ранец",
       "description": "<p><em>Wondrous item</em></p>\n<p>This backpack has a central pouch and two side pouches, each of which is an extradimensional space. Each side pouch can hold up to 20 pounds of material, not exceeding a volume of 2 cubic feet. The large central pouch can hold up to 8 cubic feet or 80 pounds of material. The backpack always weighs 5 pounds, regardless of its contents.</p>\n<p>Placing an object in the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires you to use an action. When you reach into the haversack for a specific item, the item is always magically on top.</p>\n<p>The haversack has a few limitations. If it is overloaded, or if a sharp object pierces it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always turns up again somewhere. If the haversack is turned inside out, its contents spill forth, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed within the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.</p>\n<p>Placing the haversack inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.</p>"
     },
     {
@@ -1478,22 +1478,22 @@
     },
     {
       "id": "Heavy Crossbow",
-      "name": "Heavy Crossbow",
+      "name": "Тяжелый Арбалет",
       "description": "<p>A large crossbow mounted on a sturdy block of wood which is loaded using a hand crank and fires thick steel bolts with deadly acceleration that punches through armor and flesh.</p>"
     },
     {
       "id": "Heavy Crossbow +1",
-      "name": "Heavy Crossbow +1",
+      "name": "Тяжелый Арбалет +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Heavy Crossbow +2",
-      "name": "Heavy Crossbow +2",
+      "name": "Тяжелый Арбалет +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Heavy Crossbow +3",
-      "name": "Heavy Crossbow +3",
+      "name": "Тяжелый Арбалет +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -1518,12 +1518,12 @@
     },
     {
       "id": "Hempen Rope (50 ft.)",
-      "name": "Hempen Rope (50 ft.)",
+      "name": "Пеньковый канат (50 фут.)",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</span></p>"
     },
     {
       "id": "Herbalism Kit",
-      "name": "Herbalism Kit",
+      "name": "Травничество Комплект",
       "description": "<p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</p>"
     },
     {
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "Hooded Lantern",
-      "name": "Hooded Lantern",
+      "name": "С Капюшоном Фонарь",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.</span></p>"
     },
     {
@@ -1593,7 +1593,7 @@
     },
     {
       "id": "Horseshoes of the Zephyr",
-      "name": "Horseshoes of the Zephyr",
+      "name": "Подковы из зефира",
       "description": "<p><em>Wondrous item</em></p>\n<p>These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above non-solid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march.</p>"
     },
     {
@@ -1613,7 +1613,7 @@
     },
     {
       "id": "Ink Bottle",
-      "name": "Ink Bottle",
+      "name": "Бутылка Чернил",
       "description": "<p>A small bottle of ink for writing upon parchment.</p>"
     },
     {
@@ -1623,82 +1623,82 @@
     },
     {
       "id": "Instant Fortress",
-      "name": "Instant Fortress",
+      "name": "Мгновенный Крепость",
       "description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to place this 1-inch metal cube on the ground and speak its command word. The cube rapidly grows into a fortress that remains until you use an action to speak the command word that dismisses it, which works only if the fortress is empty.</p>\n<p>The fortress is a square tower, 20 feet on a side and 30 feet high, with arrow slits on all sides and a battlement atop it. Its interior is divided into two floors, with a ladder running along one wall to connect them. The ladder ends at a trapdoor leading to the roof. When activated, the tower has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the @Compendium[dnd5e.spells.1nhIxh0DsJsntCfj]{Knock} spell and similar magic, such as that of a @Compendium[dnd5e.items.vZdLYfHlLcZqQ8zc]{Chime of Opening}.</p>\n<p>Each creature in the area where the fortress appears must make a DC 15 Dexterity saving throw, taking 10d10 bludgeoning damage on a failed save, or half as much damage on a successful one. In either case, the creature is pushed to an unoccupied space outside but next to the fortress. Objects in the area that aren't being worn or carried take this damage and are pushed automatically.</p>\n<p>The tower is made of adamantine, and its magic prevents it from being tipped over. The roof, the door, and the walls each have 100 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a @Compendium[dnd5e.spells.3okM6Gn63zzEULkz]{Wish} spell can repair the fortress (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of Wish causes the roof, the door, or one wall to regain 50 hit points.</p>"
     },
     {
       "id": "Ioun Stone of Absorption",
-      "name": "Ioun Stone of Absorption",
+      "name": "Ioun камень поглощения",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Absorption</strong>.&nbsp;While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.</p>"
     },
     {
       "id": "Ioun Stone of Agility",
-      "name": "Ioun Stone of Agility",
+      "name": "Ioun камень ловкости",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Agility</strong>.&nbsp;Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Awareness",
-      "name": "Ioun Stone of Awareness",
+      "name": "Ioun камень осведомленности",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Awareness</strong>.&nbsp;You can't be surprised while this dark blue rhomboid orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Fortitude",
-      "name": "Ioun Stone of Fortitude",
+      "name": "Ioun камень Духа",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Fortitude</strong>.&nbsp;Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Greater Absorption",
-      "name": "Ioun Stone of Greater Absorption",
+      "name": "Ioun камень большего поглощения",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Greater Absorption</strong>.&nbsp;While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you.</p>\n<p>Once the stone has canceled 50 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.</p>"
     },
     {
       "id": "Ioun Stone of Insight",
-      "name": "Ioun Stone of Insight",
+      "name": "Ioun камень озарения",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Insight</strong>.&nbsp;Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Intellect",
-      "name": "Ioun Stone of Intellect",
+      "name": "Ioun камень интеллекта",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Intellect</strong>.&nbsp;Your Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Leadership",
-      "name": "Ioun Stone of Leadership",
+      "name": "Ioun камень руководство",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Leadership</strong>.&nbsp;Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Mastery",
-      "name": "Ioun Stone of Mastery",
+      "name": "Ioun камень мастерства",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Mastery</strong>.&nbsp;Your proficiency bonus increases by 1 while this pale green prism orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Protection",
-      "name": "Ioun Stone of Protection",
+      "name": "Ioun камень защиты",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Protection</strong>.&nbsp;You gain a +1 bonus to AC while this dusty rose prism orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Regeneration",
-      "name": "Ioun Stone of Regeneration",
+      "name": "Ioun камень регенерации",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Regeneration</strong>.&nbsp;You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point.</p>"
     },
     {
       "id": "Ioun Stone of Reserve",
-      "name": "Ioun Stone of Reserve",
+      "name": "Ioun камень заповедник",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Reserve</strong>.&nbsp;This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4 − 1 levels of stored spells chosen by the GM.</p>\n<p>Any creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.</p>\n<p>While this stone orbits your head, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the stone is no longer stored in it, freeing up space.</p>"
     },
     {
       "id": "Ioun Stone of Strength",
-      "name": "Ioun Stone of Strength",
+      "name": "Ioun Камень Силы",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Strength</strong>.&nbsp;Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head.</p>"
     },
     {
       "id": "Ioun Stone of Sustenance",
-      "name": "Ioun Stone of Sustenance",
+      "name": "Ioun камень прокормления",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">An Ioun Stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><strong style=\"box-sizing: border-box; user-select: text;\">Stone of Sustenance</strong>.&nbsp;You don't need to eat or drink while this clear spindle orbits your head.</p>"
     },
     {
       "id": "Iron Bands of Binding",
-      "name": "Iron Bands of Binding",
+      "name": "Железные узы привязки",
       "description": "<p><em>Wondrous item</em></p>\n<p>This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.</p>\n<p>Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is restrained until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.</p>\n<p>A creature, including the one restrained, can use an action to make a DC 20 Strength check to break the iron bands. On a success, the item is destroyed, and the restrained creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed.</p>\n<p>Once the bands are used, they can't be used again until the next dawn.</p>"
     },
     {
@@ -1708,17 +1708,17 @@
     },
     {
       "id": "Iron Horn of Valhalla",
-      "name": "Iron Horn of Valhalla",
+      "name": "Утюг Валгаллы Рог",
       "description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a @Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.</p>\n<p>Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.</p>\n<table style=\"height: 147px; width: 375px;\">\n<thead>\n<tr style=\"height: 33px;\">\n<th style=\"width: 38.0208px; height: 33px;\">d100</th>\n<th style=\"width: 42.4653px; height: 33px;\">Horn Type</th>\n<th style=\"width: 69.1319px; height: 33px;\">Berserkers Summoned</th>\n<th style=\"width: 211.354px; height: 33px;\">Requirement</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 15px;\">\n<td style=\"width: 38.0208px; height: 15px;\">01-40</td>\n<td style=\"width: 42.4653px; height: 15px;\">Silver</td>\n<td style=\"width: 69.1319px; height: 15px;\">2d4 + 2</td>\n<td style=\"width: 211.354px; height: 15px;\">None</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 38.0208px;\">41-75</td>\n<td style=\"width: 42.4653px;\">Brass</td>\n<td style=\"width: 69.1319px;\">3d4 + 3</td>\n<td style=\"width: 211.354px;\">Proficiency with all simple weapons</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td>76-90</td>\n<td>Bronze</td>\n<td>4d4 + 4</td>\n<td>Proficiency with all medium armor</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 38.0208px; height: 33px;\"><strong>91-00</strong></td>\n<td style=\"width: 42.4653px; height: 33px;\"><strong>Iron</strong></td>\n<td style=\"width: 69.1319px; height: 33px;\"><strong>5d4 + 5</strong></td>\n<td style=\"width: 211.354px; height: 33px;\"><strong>Proficiency with all martial weapons</strong></td>\n</tr>\n</tbody>\n</table>\n<p>If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.</p>"
     },
     {
       "id": "Iron Pot",
-      "name": "Iron Pot",
+      "name": "Железный Горшок",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">An iron pot holds 1 gallon of liquid.</span></p>"
     },
     {
       "id": "Iron Spike",
-      "name": "Iron Spike",
+      "name": "Железный Шип",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">A spike of 10 inches long made of iron. Can be improvised to block doors. Usually sold in bundles of 10.</span></p>"
     },
     {
@@ -1748,12 +1748,12 @@
     },
     {
       "id": "Jeweler's Tools",
-      "name": "Jeweler's Tools",
+      "name": "Инструменты ювелира",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in jewelry.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
       "id": "Jug",
-      "name": "Jug",
+      "name": "Жбан",
       "description": "<p>A pitcher holds 1 gallon of liquid.</p>"
     },
     {
@@ -1823,22 +1823,22 @@
     },
     {
       "id": "Light Crossbow",
-      "name": "Light Crossbow",
+      "name": "Легким Арбалетом",
       "description": "<p>A small crossbow with a wooden haft and a tense cord which is capable of firing a single bolt which can puncture even heavy armor at close range.</p>"
     },
     {
       "id": "Light Crossbow +1",
-      "name": "Light Crossbow +1",
+      "name": "Легкий Арбалет +1",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Light Crossbow +2",
-      "name": "Light Crossbow +2",
+      "name": "Легкий Арбалет +2",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
       "id": "Light Crossbow +3",
-      "name": "Light Crossbow +3",
+      "name": "Легкий Арбалет +3",
       "description": "<p><em>Whether through demonic blessing, celestial bequeathment, crazed experiment, or skillful craft, this weapon has been enhanced to bring more bloodshed by the bearer.</em></p>\n<p>You have a bonus to attack and damage rolls made with this magic weapon.</p>"
     },
     {
@@ -2018,17 +2018,17 @@
     },
     {
       "id": "Map or Scroll Case",
-      "name": "Map or Scroll Case",
+      "name": "Карте или футляр",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.</span></p>"
     },
     {
       "id": "Marvelous Pigments",
-      "name": "Marvelous Pigments",
+      "name": "Чудесные Пигменты",
       "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" data-content-chunk-id=\"e176bfeb-9aca-43ff-b13d-7889105accd9\"><em>Wondrous item</em></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" data-content-chunk-id=\"e176bfeb-9aca-43ff-b13d-7889105accd9\">Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on&nbsp;its image.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" data-content-chunk-id=\"cfbd6306-4089-4cfd-a6bc-d8bf18a04b5f\">Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features - such as a door, a pit, flowers, trees, cells, rooms, or weapons - that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" data-content-chunk-id=\"ed6cc42f-2af4-4492-9731-cd4184b9056a\">When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" data-content-chunk-id=\"575657bd-0095-438e-84be-ff342eb7d40d\">Nothing created by the pigments can have a value greater than 25 gp. If you paint an object of greater value (such as a diamond or a pile of gold), the object looks authentic, but close inspection reveals it is made from paste, bone, or some other worthless&nbsp;material.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\" data-content-chunk-id=\"6500c880-670a-47eb-b099-1014dcfdf74c\">If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.</p>"
     },
     {
       "id": "Mason's Tools",
-      "name": "Mason's Tools",
+      "name": "Инструменты каменщика",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in masonry.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -2058,7 +2058,7 @@
     },
     {
       "id": "Merchant's Scale",
-      "name": "Merchant's Scale",
+      "name": "Данные продавца",
       "description": "<p>A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.</p>"
     },
     {
@@ -2068,7 +2068,7 @@
     },
     {
       "id": "Miner's Pick",
-      "name": "Miner's Pick",
+      "name": "Шахтерскую Кирку",
       "description": "<p>It is a hand tool with a hard head atached perpendiocular to the handle.</p>"
     },
     {
@@ -2078,42 +2078,42 @@
     },
     {
       "id": "Mithral Breastplate",
-      "name": "Mithral Breastplate",
+      "name": "Мифриловых Доспех",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
       "id": "Mithral Chain Mail",
-      "name": "Mithral Chain Mail",
+      "name": "Мифриловых Кольчуг",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
       "id": "Mithral Chain Shirt",
-      "name": "Mithral Chain Shirt",
+      "name": "Мифриловых Рубашка Цепь",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
       "id": "Mithral Half Plate Armor",
-      "name": "Mithral Half Plate Armor",
+      "name": "Мифриловых Половина Латного Доспеха",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
       "id": "Mithral Plate Armor",
-      "name": "Mithral Plate Armor",
+      "name": "Мифриловых Латных Доспехов",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
       "id": "Mithral Ring Mail",
-      "name": "Mithral Ring Mail",
+      "name": "Мифриловых Кольца Почту",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
       "id": "Mithral Scale Mail",
-      "name": "Mithral Scale Mail",
+      "name": "Мифриловых Кольчугу",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
       "id": "Mithral Splint Armor",
-      "name": "Mithral Splint Armor",
+      "name": "Тутор Мифриловых Доспехов",
       "description": "<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>"
     },
     {
@@ -2138,67 +2138,67 @@
     },
     {
       "id": "Musical Instrument",
-      "name": "Musical Instrument",
+      "name": "Музыкальный Инструмент",
       "description": "<p>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</p>"
     },
     {
       "id": "Musical Instrument: Bagpipes",
-      "name": "Musical Instrument: Bagpipes",
+      "name": "Музыкальных Инструментов: Волынка",
       "description": "<p>A set of bagpipes to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Drum",
-      "name": "Musical Instrument: Drum",
+      "name": "Музыкальный Инструмент: Барабан",
       "description": "<p>A drum, of any variety, to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Dulcimer",
-      "name": "Musical Instrument: Dulcimer",
+      "name": "Музыкальные Инструменты: Цимбалы",
       "description": "<p>A dulcimer to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Flute",
-      "name": "Musical Instrument: Flute",
+      "name": "Музыкальный Инструмент: Флейта",
       "description": "<p>A lute to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Horn",
-      "name": "Musical Instrument: Horn",
+      "name": "Музыкальный Инструмент: Рог",
       "description": "<p>A horn, of any variety, to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Lute",
-      "name": "Musical Instrument: Lute",
+      "name": "Музыкальный Инструмент: Лютня",
       "description": "<p>A lute to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Lyre",
-      "name": "Musical Instrument: Lyre",
+      "name": "Музыкальных Инструментов: Лира",
       "description": "<p>A lyre to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Pan Flute",
-      "name": "Musical Instrument: Pan Flute",
+      "name": "Музыкальный Инструмент: Флейта Пана",
       "description": "<p>A set of panpipes to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Shawm",
-      "name": "Musical Instrument: Shawm",
+      "name": "Музыкальный Инструмент: Музыкальный Инструмент Типа Гобоя",
       "description": "<p>A shawm to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Musical Instrument: Viol",
-      "name": "Musical Instrument: Viol",
+      "name": "Музыкальный Инструмент: Виол",
       "description": "<p>A viol to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.&nbsp;</p>"
     },
     {
       "id": "Navigator’s Tools",
-      "name": "Navigator’s Tools",
+      "name": "Инструменты навигатора",
       "description": "<p>This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.</p>"
     },
     {
       "id": "Necklace of Adaption",
-      "name": "Necklace of Adaption",
+      "name": "Ожерелье адаптации",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as @Compendium[dnd5e.spells.LkvI11Uue774QBKZ]{Cloudkill} and @Compendium[dnd5e.spells.TwlD4PLcltv7Xh7j]{Stinking Cloud}&nbsp;effects, inhaled poisons, and the breath weapons of some dragons).</p>"
     },
     {
@@ -2263,7 +2263,7 @@
     },
     {
       "id": "Oil Flask",
-      "name": "Oil Flask",
+      "name": "Фляга Масла",
       "description": "<p>Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon.</p>\n<p>On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level.</p>\n<p>If lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.</p>"
     },
     {
@@ -2318,17 +2318,17 @@
     },
     {
       "id": "Painter's Supplies",
-      "name": "Painter's Supplies",
+      "name": "Принадлежности художника",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in painting.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
       "id": "Paper",
-      "name": "Paper",
+      "name": "Бумага",
       "description": "<p>A single sheet of paper.</p>"
     },
     {
       "id": "Parchment",
-      "name": "Parchment",
+      "name": "Пергамент",
       "description": "<p>A single sheet of heavier parchment paper.</p>"
     },
     {
@@ -2338,7 +2338,7 @@
     },
     {
       "id": "Perfume",
-      "name": "Perfume",
+      "name": "Духи",
       "description": "<p>A vial of aromatic perfume.</p>"
     },
     {
@@ -2393,7 +2393,7 @@
     },
     {
       "id": "Pitcher",
-      "name": "Pitcher",
+      "name": "Питчер",
       "description": "<p>A pitcher holds 1 gallon of liquid.</p>"
     },
     {
@@ -2433,12 +2433,12 @@
     },
     {
       "id": "Poisoner’s Kit",
-      "name": "Poisoner’s Kit",
+      "name": "Комплект отравителя по",
       "description": "<p>A poisoner’s kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.</p>"
     },
     {
       "id": "Pole",
-      "name": "Pole",
+      "name": "Полюс",
       "description": "<p>A ten-foot long pole of sturdy wood.</p>"
     },
     {
@@ -2448,12 +2448,12 @@
     },
     {
       "id": "Portable Ram",
-      "name": "Portable Ram",
+      "name": "Портативный ОЗУ",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.</span></p>"
     },
     {
       "id": "Potion of Acid Resistance",
-      "name": "Potion of Acid Resistance",
+      "name": "Зелье сопротивления кислоты",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Acidic type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2478,7 +2478,7 @@
     },
     {
       "id": "Potion of Cold Resistance",
-      "name": "Potion of Cold Resistance",
+      "name": "Зелье холодное сопротивление",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Cold type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2493,7 +2493,7 @@
     },
     {
       "id": "Potion of Fire Resistance",
-      "name": "Potion of Fire Resistance",
+      "name": "Зелье сопротивления огню",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Fire type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2503,7 +2503,7 @@
     },
     {
       "id": "Potion of Force Resistance",
-      "name": "Potion of Force Resistance",
+      "name": "Зелье силы сопротивления",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Force type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2578,12 +2578,12 @@
     },
     {
       "id": "Potion of Lightning Resistance",
-      "name": "Potion of Lightning Resistance",
+      "name": "Зелье сопротивление молнии",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Lightning type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Potion of Lightning Resistance",
-      "name": "Potion of Lightning Resistance",
+      "name": "Зелье сопротивление молнии",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Lightning type of damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2598,12 +2598,12 @@
     },
     {
       "id": "Potion of Necrotic Resistance",
-      "name": "Potion of Necrotic Resistance",
+      "name": "Зелье некротических сопротивление",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Necrotic type of damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Potion of Necrotic Resistance",
-      "name": "Potion of Necrotic Resistance",
+      "name": "Зелье некротических сопротивление",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Necrotic type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2623,12 +2623,12 @@
     },
     {
       "id": "Potion of Psychic Resistance",
-      "name": "Potion of Psychic Resistance",
+      "name": "Зелье психической устойчивости",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Psychic type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Potion of Radiant Resistance",
-      "name": "Potion of Radiant Resistance",
+      "name": "Зелье сияющей сопротивление",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Radiant type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2658,7 +2658,7 @@
     },
     {
       "id": "Potion of Thunder Resistance",
-      "name": "Potion of Thunder Resistance",
+      "name": "Зелье сопротивления Гром",
       "description": "<p><em>The potion is a plain indescriminate color and smells slightly foul.</em></p>\n<p>When you drink this potion, you gain resistance to Thunder type damage for 1 hour.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2668,7 +2668,7 @@
     },
     {
       "id": "Potter's Tools",
-      "name": "Potter's Tools",
+      "name": "Инструменты Поттера",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in pottery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -2678,12 +2678,12 @@
     },
     {
       "id": "Prayer Book",
-      "name": "Prayer Book",
+      "name": "Молитвенник",
       "description": "<p>A book containing prayers and incantations dedicated to a specific power for the faithful to follow.</p>"
     },
     {
       "id": "Prayer Wheel",
-      "name": "Prayer Wheel",
+      "name": "Молитвенное Колесо",
       "description": "<p>An aid for the faithful, this cylinder can be turned on a spindle made of metal, wood, bone, stone, leather, or coarse cotton as the user follows mantra or cantation carved or inlaid upon it.&nbsp;</p>"
     },
     {
@@ -2713,7 +2713,7 @@
     },
     {
       "id": "Rain Catcher",
-      "name": "Rain Catcher",
+      "name": "Дождь Ловец",
       "description": "<p>A rain catcher is a simple contraption consisting of a 5-foot-square leather tarp and a wooden frame with legs. When the tarp is stretched across the wooden frame, it forms a basin that can catch 2 gallons of drinking water per inch of rainfall and hold up to 8 gallons. The tarp and wooden frame fold up for easy transport.</p>\n<p>&nbsp;</p>"
     },
     {
@@ -2748,7 +2748,7 @@
     },
     {
       "id": "Rations",
-      "name": "Rations",
+      "name": "Пайков",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</span></p>"
     },
     {
@@ -2758,7 +2758,7 @@
     },
     {
       "id": "Restorative Ointment",
-      "name": "Restorative Ointment",
+      "name": "Общеукрепляющие Мазь",
       "description": "<p><em>Wondrous item</em></p>\n<p>This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.</p>\n<p>As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease.</p>\n<p><em>Foundry note: the 5 charges reflect the maximum number of doses possible.&nbsp;</em><em>Similarly, the guide price of 600 gp is calculated at 120 gp per dose. A</em><em>djust both as required.</em></p>"
     },
     {
@@ -2788,7 +2788,7 @@
     },
     {
       "id": "Ring of Acid Resistance",
-      "name": "Ring of Acid Resistance",
+      "name": "Кольцо сопротивления кислоты",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a pearl that shimmers when it catches the light.</em></p>\n<p>You have resistance to acid damage while wearing this ring.</p>"
     },
     {
@@ -2803,7 +2803,7 @@
     },
     {
       "id": "Ring of Cold Resistance",
-      "name": "Ring of Cold Resistance",
+      "name": "Кольцо холодное сопротивление",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a tourmaline&nbsp;</em><em>stone </em><em>that gleams when it catches the light.</em></p>\n<p>You have resistance to cold damage while wearing this ring.</p>"
     },
     {
@@ -2833,12 +2833,12 @@
     },
     {
       "id": "Ring of Fire Resistance",
-      "name": "Ring of Fire Resistance",
+      "name": "Кольцо сопротивления огню",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a garnet&nbsp;</em><em>stone </em><em>that seems to glow when it catches the light.</em></p>\n<p>You have resistance to fire damage while wearing this ring.</p>"
     },
     {
       "id": "Ring of Force Resistance",
-      "name": "Ring of Force Resistance",
+      "name": "Кольца сопротивления силы",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a sapphire&nbsp;</em><em>stone </em><em>that sparkles when it catches the light.</em></p>\n<p>You have resistance to force damage while wearing this ring.</p>"
     },
     {
@@ -2858,7 +2858,7 @@
     },
     {
       "id": "Ring of Lightning Resistance",
-      "name": "Ring of Lightning Resistance",
+      "name": "Кольцо сопротивления молнии",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a citrine&nbsp;</em><em>stone </em><em>that glints when it catches the light.</em></p>\n<p>You have resistance to lightning damage while wearing this ring.</p>"
     },
     {
@@ -2868,12 +2868,12 @@
     },
     {
       "id": "Ring of Necrotic Resistance",
-      "name": "Ring of Necrotic Resistance",
+      "name": "Кольцо некротических сопротивление",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a jet&nbsp;</em><em>stone </em><em>that seems to swallow any light that it catches.</em></p>\n<p>You have resistance to necrotic damage while wearing this ring.</p>"
     },
     {
       "id": "Ring of Poison Resistance",
-      "name": "Ring of Poison Resistance",
+      "name": "Кольцо яда сопротивление",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with an amethyst stone that glitters when it catches the light.</em></p>\n<p>You have resistance to poison damage while wearing this ring.</p>"
     },
     {
@@ -2883,12 +2883,12 @@
     },
     {
       "id": "Ring of Psychic Resistance",
-      "name": "Ring of Psychic Resistance",
+      "name": "Кольцо психической устойчивости",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a jade stone that gleams when it catches the light.</em></p>\n<p>You have resistance to psychic damage while wearing this ring.</p>"
     },
     {
       "id": "Ring of Radiant Resistance",
-      "name": "Ring of Radiant Resistance",
+      "name": "Кольцо Лучистого сопротивление",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a topaz stone that shimmers when it catches the light.</em></p>\n<p>You have resistance to radiant damage while wearing this ring.</p>"
     },
     {
@@ -2928,7 +2928,7 @@
     },
     {
       "id": "Ring of Thunder Resistance",
-      "name": "Ring of Thunder Resistance",
+      "name": "Кольцо сопротивлением грома",
       "description": "<p><em>(Requires attunement)</em></p>\n<p><em>This ring has been inlaid with a spinel stone that gleams when it catches the light.</em></p>\n<p>You have resistance to thunder damage while wearing this ring.</p>"
     },
     {
@@ -3218,17 +3218,17 @@
     },
     {
       "id": "Silk Rope (50 ft.)",
-      "name": "Silk Rope (50 ft.)",
+      "name": "Шелковая веревка (50 футов).",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</span></p>"
     },
     {
       "id": "Silver Horn of Valhalla",
-      "name": "Silver Horn of Valhalla",
+      "name": "Серебро Валгаллы Рог",
       "description": "<p><em>Wondrous item</em></p>\n<p>You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a @Compendium[dnd5e.monsters.kz1t6xeXVwODpYb2]{Berserker}. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.</p>\n<p>Four types of Horn of Valhalla are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.</p>\n<table>\n<thead>\n<tr>\n<th style=\"width: 43.5764px;\">d100</th>\n<th style=\"width: 46.9097px;\">Horn Type</th>\n<th style=\"width: 72.4653px;\">Berserkers Summoned</th>\n<th style=\"width: 203.576px;\">Requirement</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 43.5764px;\"><strong>01-40</strong></td>\n<td style=\"width: 46.9097px;\"><strong>Silver</strong></td>\n<td style=\"width: 72.4653px;\"><strong>2d4 + 2</strong></td>\n<td style=\"width: 203.576px;\"><strong>None</strong></td>\n</tr>\n<tr>\n<td style=\"width: 43.5764px;\">41-75</td>\n<td style=\"width: 46.9097px;\">Brass</td>\n<td style=\"width: 72.4653px;\">3d4 + 3</td>\n<td style=\"width: 203.576px;\">Proficiency with all simple weapons</td>\n</tr>\n<tr>\n<td style=\"width: 43.5764px;\">76-90</td>\n<td style=\"width: 46.9097px;\">Bronze</td>\n<td style=\"width: 72.4653px;\">4d4 + 4</td>\n<td style=\"width: 203.576px;\">Proficiency with all medium armor</td>\n</tr>\n<tr>\n<td style=\"width: 43.5764px;\">91-00</td>\n<td style=\"width: 46.9097px;\">Iron</td>\n<td style=\"width: 72.4653px;\">5d4 + 5</td>\n<td style=\"width: 203.576px;\">Proficiency with all martial weapons</td>\n</tr>\n</tbody>\n</table>\n<p>If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.</p>"
     },
     {
       "id": "Sledgehammer",
-      "name": "Sledgehammer",
+      "name": "Кувалда",
       "description": "<p>A tool with a large, flat, often metal head, attached to a long handle.&nbsp;</p>"
     },
     {
@@ -3283,12 +3283,12 @@
     },
     {
       "id": "Small Knife",
-      "name": "Small Knife",
+      "name": "Маленький Нож",
       "description": "<p>A blunt knife used by the scholarly to open letters and correspondence.</p>"
     },
     {
       "id": "Smith's Tools",
-      "name": "Smith's Tools",
+      "name": "Инструменты Смита",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in smithing.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -3323,47 +3323,47 @@
     },
     {
       "id": "Spell Scroll 1st Level",
-      "name": "Spell Scroll 1st Level",
+      "name": "Заклинание 1-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 11. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 13<br><strong>Attack Bonus</strong>: +5.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 2nd Level",
-      "name": "Spell Scroll 2nd Level",
+      "name": "Заклинание 2-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 12. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 13<br><strong>Attack Bonus</strong>: +5.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 3rd Level",
-      "name": "Spell Scroll 3rd Level",
+      "name": "Заклинание 3-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 13. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 15<br><strong>Attack bonus</strong>: +7.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 4th Level",
-      "name": "Spell Scroll 4th Level",
+      "name": "Заклинание 4-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 14. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 15<br><strong>Attack bonus</strong>: +7.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 5th Level",
-      "name": "Spell Scroll 5th Level",
+      "name": "Заклинание 5-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 15. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 17<br><strong>Attack bonus</strong>: +9.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 6th Level",
-      "name": "Spell Scroll 6th Level",
+      "name": "Заклинание 6-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 16. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 17<br /><strong>Attack bonus</strong>: +9.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 7th Level",
-      "name": "Spell Scroll 7th Level",
+      "name": "Заклинание 7-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 17. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 18<br><strong>Attack bonus</strong>: +10.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 8th Level",
-      "name": "Spell Scroll 8th Level",
+      "name": "Заклинание 8-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 18. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 18<br><strong>Attack bonus</strong>: +10.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
       "id": "Spell Scroll 9th Level",
-      "name": "Spell Scroll 9th Level",
+      "name": "Заклинание 9-го уровня свиток",
       "description": "<p>A&nbsp;spell scroll&nbsp;bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.</p>\n<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC is 19. On a failed check, the spell disappears from the scroll with no other effect.</p>\n<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>\n<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity.</p>\n<p><strong>Save DC</strong>: 19<br><strong>Attack bonus</strong>: +11.</p>\n<p>A wizard spell on a&nbsp;spell scroll&nbsp;can be copied just as spells in spellbooks can be copied. When a spell is copied from a&nbsp;spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the&nbsp;spell scroll&nbsp;is destroyed.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
     },
     {
@@ -3488,12 +3488,12 @@
     },
     {
       "id": "Steel Mirror",
-      "name": "Steel Mirror",
+      "name": "Стальное Зеркало",
       "description": "<p>A mirror made of steel.</p>"
     },
     {
       "id": "Stick of Incense",
-      "name": "Stick of Incense",
+      "name": "Палочка ладана",
       "description": "<p>When blocks of incense cannot be used or a cheaper alternative is required, people often use these to perfume the air, whether for pleasurable or religious purposes.</p>"
     },
     {
@@ -3553,12 +3553,12 @@
     },
     {
       "id": "Tankard",
-      "name": "Tankard",
+      "name": "Танкард",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">It is a form of drinkware consisting of a large, roughly cynlindrical, drinking cup with a single handle.</span></p>"
     },
     {
       "id": "Thieves’ Tools",
-      "name": "Thieves’ Tools",
+      "name": "Инструменты Воровского",
       "description": "<p>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.</p>"
     },
     {
@@ -3568,7 +3568,7 @@
     },
     {
       "id": "Tinker's Tools",
-      "name": "Tinker's Tools",
+      "name": "Инструменты Тинкер",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in tinkering.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -3598,7 +3598,7 @@
     },
     {
       "id": "Traveler's Clothes",
-      "name": "Traveler's Clothes",
+      "name": "Одежда путешественника",
       "description": "<p><span style=\"color: #191813; font-size: 13px;\">A set of clothes worn by travellers.</span></p>"
     },
     {
@@ -3628,12 +3628,12 @@
     },
     {
       "id": "Trinket",
-      "name": "Trinket",
+      "name": "Побрякушки",
       "description": "<p>A placeholder for the non-SRD items introduced on pg. 159, with the d100 table on 160-161.</p>"
     },
     {
       "id": "Two-Person Tent",
-      "name": "Two-Person Tent",
+      "name": "Двух-Местная Палатка",
       "description": "<p>A simple and portable canvas shelter, a tent sleeps two.</p>"
     },
     {
@@ -3643,7 +3643,7 @@
     },
     {
       "id": "Vestments",
-      "name": "Vestments",
+      "name": "Облачение",
       "description": "<p>Simple or ostentacious wear, often used by priests and other religious figures for use in rituals and ceremonies.</p>"
     },
     {
@@ -3653,197 +3653,197 @@
     },
     {
       "id": "Vicious Battleaxe",
-      "name": "Vicious Battleaxe",
+      "name": "Порочный Секира",
       "description": "<p>A stout crescent blade mounted on a thick shaft wrapped in a sturdy grip. This axe is large enough to be wielded with two hands and is&nbsp;adorned with spikes upon the back-side of the blade and the top of the shaft.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Blowgun",
-      "name": "Vicious Blowgun",
+      "name": "Порочный Распылитель",
       "description": "<p>A primitive, but deadly, weapon favored by tribes and guerrila fighters. The darts fired from this gun can puncture and deliver lethal doses of venom.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Club",
-      "name": "Vicious Club",
+      "name": "Порочный Клуб",
       "description": "<p>A stout knob of wood forms a simple, but effective, cudgel. These weapons are used to bludgeon foes, bruising flesh and breaking bones.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Dagger",
-      "name": "Vicious Dagger",
+      "name": "Порочный Кинжал",
       "description": "<p>A short metal blade mounted to a small hilt and crossguard. The dagger makes an effective side armament for hardened warriors or a hidden blade for assassins and thieves.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Dart",
-      "name": "Vicious Dart",
+      "name": "Злобный Дарт",
       "description": "<p>A small thrown implement crafted with a short wooden shaft and crossed feathres with a sharp wooden or metal tip. Darts can be thrown with sufficient force to puncture the skin.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Flail",
-      "name": "Vicious Flail",
+      "name": "Порочный Цеп",
       "description": "<p>A set of chain-linked spiked balls lashed to a stout wooden shaft. The flail deals devastating damage when whirled in a deadly arc.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Glaive",
-      "name": "Vicious Glaive",
+      "name": "Порочный Глефа",
       "description": "<p>A crescent blade is mounted on the end of a tall metal shaft. This polearm provies the ability to attack with deadly efficiency from greater range than typical melee weapons.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Greataxe",
-      "name": "Vicious Greataxe",
+      "name": "Заколдованный Двуручный Молот",
       "description": "<p>This enormous axe features two twin crescent blades mounted on either side of a tall spiked shaft. Designed to be wielded with two hands and cleave foes in twain.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Greatclub",
-      "name": "Vicious Greatclub",
+      "name": "Порочный Greatclub",
       "description": "<p>A larger variant of the simple club, a hefty wooden shaft with an enormous knot of wood upon the end deals crippling bludgeoning damage to unfortunate foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Greatsword",
-      "name": "Vicious Greatsword",
+      "name": "Порочный Двуручный Меч",
       "description": "<p>A mighty two-handed blade is over four feet long an almost five inches wide. This weapon requires extensive martial training but those proficient in its use are formidable warriors.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Halberd",
-      "name": "Vicious Halberd",
+      "name": "Порочный Алебардой",
       "description": "<p>A spear-tipped metal shaft accompanied by a crescent blade, the halberd is a strong defensive weapon which allows a warrior to fend off foes using the reach of the shaft to attack from safe distance.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Hand Crossbow",
-      "name": "Vicious Hand Crossbow",
+      "name": "Жестокой Рукой Арбалет",
       "description": "<p>A lightweight crossbow designed to be held in one hand or strapped to one's wrist to fire light bolts.</p>"
     },
     {
       "id": "Vicious Handaxe",
-      "name": "Vicious Handaxe",
+      "name": "Порочный Хондроксид",
       "description": "<p>This one-handed axe is light and balanced for throwing while remaining useful in hand combat.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Heavy Crossbow",
-      "name": "Vicious Heavy Crossbow",
+      "name": "Злобный Тяжелый Арбалет",
       "description": "<p>A large crossbow mounted on a sturdy block of wood which is loaded using a hand crank and fires thick steel bolts with deadly acceleration that punches through armor and flesh.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Javelin",
-      "name": "Vicious Javelin",
+      "name": "Порочный Джавелин",
       "description": "<p>This light and flexible spear is designed for throwing, but is versatile enough to be used in melee combat as well.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Lance",
-      "name": "Vicious Lance",
+      "name": "Порочный Лэнс",
       "description": "<p>A shining steel tip to puncture the hardiest of foe's defences, driven in by the force of a galloping steed. Although best suited for mounted combat, the lance can be brought to lethal effect on foot in the right hands.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>\n<p><strong>Special</strong>. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.</p>"
     },
     {
       "id": "Vicious Light Crossbow",
-      "name": "Vicious Light Crossbow",
+      "name": "Порочный Свет Арбалет",
       "description": "<p>A small crossbow with a wooden haft and a tense cord which is capable of firing a single bolt which can puncture even heavy armor at close range.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Light Hammer",
-      "name": "Vicious Light Hammer",
+      "name": "Порочный Свет Молоток",
       "description": "<p>This sturdy hammer is small enough to be nimbly wielded or used in combination with another weapon.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Longbow",
-      "name": "Vicious Longbow",
+      "name": "Злобные Лучники",
       "description": "<p>A thick shaft of laminated wood is bowed by a taut string capable of launching deadly arrows at long distances.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Longsword",
-      "name": "Vicious Longsword",
+      "name": "Порочный Меч",
       "description": "<p>A lengthy stright blade designed for slashing foes, the longsword is a highly versatile weapon that may also be wielded with two hands for more punishing strikes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Mace",
-      "name": "Vicious Mace",
+      "name": "Порочный Палицу",
       "description": "<p>A heavy bludgeoning weapon mounted to the end of a metal club. The head features spikes and blades designed to puncture armor and shatter the bones below.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Maul",
-      "name": "Vicious Maul",
+      "name": "Злобный Маул",
       "description": "<p>This heavy two-handed mace crushes metal and bone with thunderous force.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Morningstar",
-      "name": "Vicious Morningstar",
+      "name": "Порочный Морнингстар",
       "description": "<p>A viciously spiked metal orb mounted upon the end of a stout haft makes for a deadly weapon which can puncture armor and flesh alike.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Pike",
-      "name": "Vicious Pike",
+      "name": "Злобная Щука",
       "description": "<p>A sturdy blade mounted upon the end of a long metal haft. Designed as a defensive weapon with considerable reach to both fend off and menace foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Quarterstaff",
-      "name": "Vicious Quarterstaff",
+      "name": "Злобная Дубина",
       "description": "<p>A thick shaft of wood wrapped with a sturdy grip makes a highly functional weapon in addition to a stout walking stick.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Rapier",
-      "name": "Vicious Rapier",
+      "name": "Злобная Рапира",
       "description": "<p>A thin tensile metal blade, light in weight but long in reach designed for quick darting attacks to target weak points in enemy defenses with lightning swiftness.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Scimitar",
-      "name": "Vicious Scimitar",
+      "name": "Порочный Ятаган",
       "description": "<p>This curved blade is wide near the wrapped handle but arcs and tapers towards a gleaming tip.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Shortbow",
-      "name": "Vicious Shortbow",
+      "name": "Порочный Шоршбрау",
       "description": "<p>This two handed bow is somewhat smaller than the traditional longbow variant, making it well suited for rapid attacks while on the move or mounted from horseback.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Shortsword",
-      "name": "Vicious Shortsword",
+      "name": "Порочный Клинок",
       "description": "<p>A medium sized blade with a firm crossguard and a leather-wrapped handle. A versatile weapon which makes up in versatility what it lacks in reach.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Sickle",
-      "name": "Vicious Sickle",
+      "name": "Порочный Молот",
       "description": "<p>A crescent hooked blade mounted atop a short haft, light enough to be wielded in one hand for treshing crops or foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Sling",
-      "name": "Vicious Sling",
+      "name": "Порочный Слинг",
       "description": "<p>A flexible lash of leather affixed to a wooden handle which is capable of flinging rocks or metal bullets with deadly velocity.</p>\n<p><span style=\"color: #191813; font-size: 13px;\">When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</span></p>"
     },
     {
       "id": "Vicious Spear",
-      "name": "Vicious Spear",
+      "name": "Порочный Копье",
       "description": "<p>A gleaming steel point mouted atop a stout wooden haft, the spear may be wielded in one hand or two and can puncture through the heaviest armor with deadly force.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Trident",
-      "name": "Vicious Trident",
+      "name": "Заколдованный Трезубец",
       "description": "<p>A multi-pronged spear designed to impale a target in multiple locations, pinning them in place. Often used in combination with a net to entrap and harass foes.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious War Pick",
-      "name": "Vicious War Pick",
+      "name": "Порочный Войну Забрать",
       "description": "<p>A brutal curved spike mounted on the back of a sturdy haft - designed for puncturing armor with deadly force.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Warhammer",
-      "name": "Vicious Warhammer",
+      "name": "Порочный Вархаммер",
       "description": "<p>A heavy metal hammer capable of being wielded with a single hand with a shield or in two hands to deliver crushing concussive blows.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vicious Whip",
-      "name": "Vicious Whip",
+      "name": "Порочный Кнут",
       "description": "<p>A tensile lash made of leather, cord, or chain which can lash out at nearby enemies, dealing lacerations and harrying them from a distance.</p>\n<p>When you roll a 20 on your attack roll with this magic weapon, your critical hit deals an extra 2d6 damage of the weapon's type.</p>"
     },
     {
       "id": "Vorpal Greatsword",
-      "name": "Vorpal Greatsword",
+      "name": "Двуручный Меч Ворпал",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p>\n<p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.</p>"
     },
     {
       "id": "Vorpal Longsword",
-      "name": "Vorpal Longsword",
+      "name": "Меч Ворпал",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p>\n<p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.</p>"
     },
     {
       "id": "Vorpal Scimitar",
-      "name": "Vorpal Scimitar",
+      "name": "Ворпал Ятаган",
       "description": "<p><em>(Requires attunement)</em></p>\n<p>You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.</p>\n<p>When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.</p>"
     },
     {
@@ -3973,7 +3973,7 @@
     },
     {
       "id": "Weaver's Tools",
-      "name": "Weaver's Tools",
+      "name": "Инструменты Вивера",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in weaving.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
@@ -4013,17 +4013,17 @@
     },
     {
       "id": "Winged Boots",
-      "name": "Winged Boots",
+      "name": "Крылатые Сапоги",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While you wear these boots, you have a flying speed equal to your walking speed. You can use the boots to fly for up to 4 hours, all at once or in several shorter flights, each one using a minimum of 1 minute from the duration. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.</p>\n<p>The boots regain 2 hours of flying capability for every 12 hours they aren't in use.</p>"
     },
     {
       "id": "Wings of Flying",
-      "name": "Wings of Flying",
+      "name": "Крылья летающие",
       "description": "<p><em>Wondrous item, (requires attunement)</em></p>\n<p>While wearing this cloak, you can use an action to speak its command word. This turns the cloak into a pair of bat wings or bird wings on your back for 1 hour or until you repeat the command word as an action. The wings give you a flying speed of 60 feet. When they disappear, you can't use them again for 1d12 hours.</p>"
     },
     {
       "id": "Woodcarver's Tools",
-      "name": "Woodcarver's Tools",
+      "name": "Инструменты резчика по дереву",
       "description": "<p>These special tools include the items needed to pursue a craft or trade in woodcarving.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
     },
     {
