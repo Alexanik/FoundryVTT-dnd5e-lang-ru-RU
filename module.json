@@ -2,7 +2,7 @@
   "name": "FoundryVTT-dnd5e-ru",
   "title": "DnD5e Russian Translation",
   "description": "Add Russian language to dnd5e system for FoundryVTT.",
-  "version": "0.13",
+  "version": "0.14",
   "minimumCoreVersion" : "0.4.5",
   "author": "ariakas81, Simone, Ultra164",
   "esmodules": ["babele-register.js"],
