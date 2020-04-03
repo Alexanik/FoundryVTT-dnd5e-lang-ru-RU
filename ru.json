@@ -153,7 +153,7 @@
 
   "DND5E.HealingTemp": "Лечение (Временное)",
 
-  "DND5E.Initiative": "Инициатива",
+  "DND5E.Initiative": "Иници.",
 
   "DND5E.ItemContainerCapacity": "Грузоподъемность",
   "DND5E.ItemContainerCapacityItems": "Предметы",
@@ -225,13 +225,13 @@
   "DND5E.SkillSte": "Скрытность",
   "DND5E.SkillSur": "Выживание",
 
-  "DND5E.SpellAdd": "",
+  "DND5E.SpellAdd": " ",
   "DND5E.SpellNone": "Ничего",
   "DND5E.SpellCantrip": "Колдовать",
   "DND5E.SpellLevel": "Уровень",
   "DND5E.SpellSchool": "Школа",
   "DND5E.SpellTarget": "Цель",
-  "DND5E.SpellUsage": "Использует",
+  "DND5E.SpellUsage": "Требует",
 
   "DND5E.SpellLevel0": "Колдовать",
   "DND5E.SpellLevel1": "1 уровень",
@@ -304,7 +304,7 @@
   "DND5E.WeaponPropertiesVer": "Универсальное",
 
   "DND5E.Action": "Действие",
-  "DND5E.Add": "",
+  "DND5E.Add": " ",
   "DND5E.Attack": "Атака",
   "DND5E.Attributes": "Хар-ки",
   "DND5E.Attuned": "Настройка",
@@ -321,20 +321,20 @@
   "DND5E.Description": "Описание",
   "DND5E.Details": "Детали",
   "DND5E.Equipped": "Экипированно",
-  "DND5E.Exhaustion": "Истощение",
+  "DND5E.Exhaustion": "Истощ.",
   "DND5E.Health": "Хиты",
   "DND5E.Healing": "Лечение",
   "DND5E.HealthFormula": "Формула лечения",
   "DND5E.Inventory": "Инвентарь",
-  "DND5E.Inspiration": "Вдохновение",
+  "DND5E.Inspiration": "Вдох.",
   "DND5E.Features": "Умения",
   "DND5E.LairAct": "Lair Action",
   "DND5E.Languages": "Языки",
   "DND5E.LegAct": "Леген. дей.",
   "DND5E.LegRes": "Леген. сопр.",
   "DND5E.None": "Ничего",
-  "DND5E.RestS": "К. Отд.",
-  "DND5E.RestL": "Д. Отд.",
+  "DND5E.RestS": "К. О.",
+  "DND5E.RestL": "Д. О.",
   "DND5E.ResourcePrimary": "Рес. 1",
   "DND5E.ResourceSecondary": "Рес. 2",
   "DND5E.ResourceTertiary": "Рес. 3",
@@ -347,7 +347,7 @@
   "DND5E.Spellbook": "Заклинания",
   "DND5E.SpecialTraits": "Особенные черты",
   "DND5E.Unequipped": "Не экипировано",
-  "DND5E.Usage": "Использует",
+  "DND5E.Usage": "Требует",
   "DND5E.Uses": "Кол-во",
   "DND5E.Versatile": "Универсальное",
   "DND5E.Proficiency": "Владение",
@@ -355,7 +355,7 @@
 
 
 
-  "DND5E.HitDice": "Кости хитов",
+  "DND5E.HitDice": "К. хит.",
   "DND5E.HitDiceUsed": "Использовать кость хитов",
   "DND5E.DIALOG.SHORTREST.Prompt": "Совершить короткий отдых? На коротком отдыхе вы можете потратить оставшиеся Кости Хитов и восстановить первичные или вторичные ресурсы.",
   "DND5E.DIALOG.SHORTREST.Select": "Выберите кость для броска",

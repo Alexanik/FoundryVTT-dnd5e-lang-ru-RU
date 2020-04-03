@@ -3,63 +3,63 @@
 	"entries": [
 		{
 			"id": "Barbarian",
-			"name": "Barbarian",
-			"description": "<p>An unarmoured warrior of great strength fueled, either by rage or their bond with nature.</p>"
+			"name": "Варвар",
+			"description": "<p>Бездоспешный воин обладающий невероятной силой, питаемой ярость или связью с природой.</p>"
 		},
 		{
 			"id": "Bard",
-			"name": "Bard",
-			"description": "<p>A story teller or performer that weaves the threads of magic into their songs and dance.</p>"
+			"name": "Бард",
+			"description": "<p>Рассказчик историй вплетающий магические нити в свои песни и танцы.</p>"
 		},
 		{
 			"id": "Cleric",
-			"name": "Cleric",
-			"description": "<p>A chosen champion blessed with strength and magic by their deity, capable of inflicting and curing injuries.</p>"
+			"name": "Жрец",
+			"description": "<p>Избраник благословленный силой и магией своего божества, способен как наносить так и лечить раны.</p>"
 		},
 		{
 			"id": "Druid",
-			"name": "Druid",
-			"description": "<p>A magician who wields powers born of nature and the elements, often taking the form of the animals they seek to protect.</p>"
+			"name": "Друид",
+			"description": "<p>Маг обладающий силами дарованными природой или стихией, способен принимать форму животных которых стремится защищать.</p>"
 		},
 		{
 			"id": "Fighter",
-			"name": "Fighter",
-			"description": "<p>Trained in a variety of marital combat, capable of dealing devastating blows and weathering the same.</p>"
+			"name": "Воин",
+			"description": "<p>Воин владеющий многими боевыми способностями, наносит сокрушительные удары и способен пережить любой урон.</p>"
 		},
 		{
 			"id": "Monk",
-			"name": "Monk",
-			"description": "<p>Warrior trained in the use of their body as a weapon, capable of harnessing the ki to devastating effect.</p>"
+			"name": "Монах",
+			"description": "<p>Боец использующий свое тело в качестве оружия, обладает энергией Ци для усиления своих способностей.</p>"
 		},
 		{
 			"id": "Paladin",
-			"name": "Paladin",
-			"description": "<p>A warrior sworn to duty by the oath they swore either to themselves or the god they serve.</p>"
+			"name": "Паладин",
+			"description": "<p>Воин давший присягу себе либо богу которому он служит.</p>"
 		},
 		{
 			"id": "Ranger",
-			"name": "Ranger",
-			"description": "<p>A combatant trained in the use of martial weapons and magic, relying on their knowledge of their surroundings they fight in remote areas.</p>"
+			"name": "Рейнджер",
+			"description": "<p>Обученый использованию боевого оружия и магии, сражается в отдаленных районах пологаясь на свои знания об окружающей среде.</p>"
 		},
 		{
 			"id": "Rogue",
-			"name": "Rogue",
-			"description": "<p>Trained in shadowy skills such as assassination and infiltration, capable of delivering killing blows from the shadows.</p>"
+			"name": "Плут",
+			"description": "<p>Обучен действовать скрытно, способен наносить смертельные удары из тени и незаметно проникать в закрытые локации.</p>"
 		},
 		{
 			"id": "Sorcerer",
-			"name": "Sorcerer",
-			"description": "<p>A magic wielder who drawers their power either from their ancestry or the wild magic around them.</p>"
+			"name": "Чародей",
+			"description": "<p>Маг черпающий свою силу из древней драконьей родословной или переполненый невероятной дикой магией требующей высвобождения.</p>"
 		},
 		{
 			"id": "Warlock",
-			"name": "Warlock",
-			"description": "<p>Once a mortal, they are now capable of wielding great power gifted to them by a greater power in exchange for their service.</p>"
+			"name": "Колдун",
+			"description": "<p>Когда то простой смертный, но теперь он обладает великой силой, подаренной ему в обмен на служение кому то могущественному.</p>"
 		},
 		{
 			"id": "Wizard",
-			"name": "Wizard",
-			"description": "<p>A magic wielder who drawers their power from study and understanding of the arcane, capable of creation and destruction in equal measure.</p>"
+			"name": "Волшебник",
+			"description": "<p>Маг который изучает и понимает магию, знает как направить плетения магии как на созидание, так и на разрушение.</p>"
 		}
 	]
 }
