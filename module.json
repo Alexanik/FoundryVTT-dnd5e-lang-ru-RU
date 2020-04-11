@@ -7,7 +7,7 @@
   "author": "Ultra164, ariakas81, Simone",
   "esmodules": ["babele-register.js"],
   "scripts": [],
-  "styles": [],
+  "styles": ["./ru.css"],
   "packs": [],
     
   "languages": [{
