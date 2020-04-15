@@ -39,7 +39,7 @@
     {
       "id": "Aura of Devotion",
       "name": "Аура Преданности",
-      "description": "p>Начиная с 7 уровня вы и дружественные вам существа в пределах 10 фт. от вас не могут быть очарованы, пока вы находитесь в сознании. На 18 уровне радиус ауры увеличивается до 30 фт.</p>"
+      "description": "<p>Начиная с 7 уровня вы и дружественные вам существа в пределах 10 фт. от вас не могут быть очарованы, пока вы находитесь в сознании. На 18 уровне радиус ауры увеличивается до 30 фт.</p>"
     },
     {
       "id": "Aura of Protection",
@@ -48,8 +48,8 @@
     },
     {
       "id": "Bardic Inpiraton",
-      "name": "Бардовская Inpiraton (Bardic Inpiraton)",
-      "description": "<p>You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.&nbsp;</p><p>You can use this feature a number of times equal to your Charisma modifier (a minimum of once).</p><p>You regain any expended uses when you finish a long rest.&nbsp;</p><p>Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.</p>"
+      "name": "Вдохновение Барда",
+      "description": "<p>Своими словами или музыкой вы можете вдохновлять других. Для этого вы должны бонусным действием выбрать одно существо, отличное от вас, в пределах 60 фт., которое может вас слышать. Это существо получает кость бардовского вдохновения — d6.</p><p>В течение следующих 10 минут это существо может один раз бросить эту кость и добавить результат к проверке характеристики, броску атаки или спасброску, который оно совершает. Существо может принять решение о броске кости вдохновения уже после броска к20, но должно сделать это прежде, чем Мастер объявит результат броска. Как только кость бардовского вдохновения брошена, она исчезает. Существо может иметь только одну такую кость одновременно.</p><p>Вы можете использовать это умение количество раз, равное модификатору вашей Харизмы, но как минимум один раз. Потраченные использования этого умения восстанавливаются после продолжительного отдыха.</p><p>Ваша кость бардовского вдохновения изменяется с ростом вашего уровня в этом классе. Она становится d8 на 5 уровне, d10 на 10 уровне и d12 на 15 уровне.</p>"
     },
     {
       "id": "Beast Spells",
@@ -173,8 +173,8 @@
     },
     {
       "id": "Divine Sense",
-      "name": "Божественное Чувство (Divine Sense)",
-      "description": "<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the&nbsp;hallow&nbsp;spell.&nbsp;</p><p>You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</p>"
+      "name": "Божественное Чувство",
+      "description": "<p>Присутствие сильного зла воспринимается вашими чувствами как неприятный запах, а могущественное добро звучит как небесная музыка в ваших ушах. Вы можете действием открыть своё сознание для обнаружения таких сил. Вы до конца своего следующего хода знаете местоположение всех исчадий, небожителей и нежити в пределах 60 фт., не имеющих полного укрытия. Вы знаете тип (исчадие, небожитель, нежить) любого существа, чьё присутствие вы чувствуете, но не можете определить, кто это конкретно (например, вампир Граф Страд фон Зарович). В этом же радиусе вы также обнаруживаете присутствие мест и предметов, которые были освящены или осквернены, например, заклинанием святилище.</p><p>Вы можете использовать это умение количество раз, равное 1 + модификатор Харизмы. Когда вы заканчиваете продолжительный отдых, вы восстанавливаете все потраченные использования.</p>"
     },
     {
       "id": "Divine Smite",
@@ -184,7 +184,7 @@
     {
       "id": "Divine Strike",
       "name": "Божественный Удар",
-      "description": "<p>На 8 уровне вы получаете способность наполнять удары своего оружия божественной энергией. Один раз в каждый свой ход, когда вы попадаете по существу атакой оружием, вы можете причинить цели дополнительный урон огнём, холодом или электричеством (на ваш выбор) 1d8. Когда вы достигаете 14 уровня, дополнительный урон возрастает до 2d8.</p>"
+      "description": "<p>На 8 уровне вы получаете способность наполнять удары своего оружия божественной энергией Один раз в каждый свой ход, когда вы попадает по существу атакой оружием, вы можете причинить цели дополнительный урон излучением 1d8. Когда вы достигаете 14 уровня, дополнительный урон возрастает до 2d8.</p>"
     },
     {
       "id": "Draconic Presence",
@@ -273,7 +273,7 @@
     },
     {
       "id": "Favored Enemey",
-      "name": "Благоприятствует Игре (Favored Enemey)",
+      "name": "(Favored Enemey) Благоприятствует Игре",
       "description": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.&nbsp;</p><p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.&nbsp;</p><p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.&nbsp;</p><p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.&nbsp;</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p>"
     },
     {
@@ -293,38 +293,38 @@
     },
     {
       "id": "Fighting Style: Archery",
-      "name": "Боевой Стиль: Стрельба Из Лука (Fighting Style: Archery)",
-      "description": "<p>You gain a +2 bonus to attack rolls you make with ranged weapons</p>"
+      "name": "Стрельба",
+      "description": "<p>Вы получаете бонус +2 к броску атаки, когда атакуете дальнобойным оружием.</p>"
     },
     {
       "id": "Fighting Style: Defense",
-      "name": "Стиль Боя: Оборона (Fighting Style: Defense)",
-      "description": "<p>While you are wearing armor, you gain a +1 bonus to AC</p>"
+      "name": "Оборона",
+      "description": "<p>Пока вы носите доспехи, вы получаете бонус +1 к КД.</p>"
     },
     {
       "id": "Fighting Style: Dueling",
-      "name": "Стиль Боя: Дуэли (Fighting Style: Dueling)",
-      "description": "<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>"
+      "name": "Дуэлянт",
+      "description": "<p>Пока вы держите рукопашное оружие в одной руке, и не используете другого оружия, вы получаете бонус +2 к броскам урона этим оружием.</p>"
     },
     {
       "id": "Fighting Style: Great Weapon Fighting",
-      "name": "Боевой Стиль: Великое Оружие Борьбы (Fighting Style: Great Weapon Fighting)",
-      "description": "<p>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</p>"
+      "name": "Сражение Большим Оружием",
+      "description": "<p>Если у вас выпало «1» или «2» на кости урона оружия при атаке, которую вы совершали рукопашным оружием, удерживая его двумя руками, то вы можете перебросить эту кость, и должны использовать новый результат, даже если снова выпало «1» или «2». Чтобы воспользоваться этим преимуществом, ваше оружие должно иметь свойство «двуручное» или «универсальное».</p>"
     },
     {
       "id": "Fighting Style: Protection",
-      "name": "Стиль Боя: Защита (Fighting Style: Protection)",
-      "description": "<p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>"
+      "name": "Защита",
+      "description": "<p>Если существо, которое вы видите, атакует не вас, а другое существо, находящееся в пределах 5 фт. от вас, вы можете реакцией создать помеху его броску атаки. Для этого вы должны использовать щит.</p>"
     },
     {
       "id": "Fighting Style: Two Weapon Fighting",
-      "name": "Боевой Стиль: Два Боевых Оружия (Fighting Style: Two Weapon Fighting)",
+      "name": "(Fighting Style: Two Weapon Fighting) Боевой Стиль: Два Боевых Оружия",
       "description": "<p>When you engage in two-weapon fighting, you can add your ability modifier.</p>"
     },
     {
       "id": "Foe Slayer",
-      "name": "Враг Убийца (Foe Slayer)",
-      "description": "<p>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.</p>"
+      "name": "Убийца Врагов",
+      "description": "<p>На 20 уровне вы становитесь беспрецедентным охотником на своих врагов. Один раз в каждом своём ходу вы можете добавить модификатор Мудрости к броску атаки или урона по существу из списка ваших избранных врагов. Вы можете использовать это умение до или после броска, но до того, как эффекты броска вступят в силу.</p>"
     },
     {
       "id": "Font of Inspiration",
@@ -343,8 +343,8 @@
     },
     {
       "id": "Grappler",
-      "name": "Единоборец (Grappler)",
-      "description": "<p><em>Prerequisite: Strength 13 or higher </em></p>\n<p>You've developed the skills necessary to hold your own in close-quarters grappling.</p>\n<p>You gain the following benefits:</p>\n<ul>\n<li>You have advantage on attack rolls against a creature you are grappling.</li>\n<li>You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.</li>\n</ul>"
+      "name": "Борец",
+      "description": "<p><em>Требование: Сила 13 и выше </em></p>\\n<p>Вы развили навыки, нужные для тесного захвата противников.</p>\\n<p>Вы получаете следующие преимущества:</p>\\n<ul>\\n<li>Вы совершаете с преимуществом броски атаки по существу, которое держите в захвате.</li>\\n<li>Вы можете действием попытаться скрутить захваченное вами существо. Для этого совершите\r\nещё одну проверку захвата. В случае успеха и вы и это существо становитесь опутанными до окончания захвата</li>\\n</ul>\"   "
     },
     {
       "id": "Hide in Plain Sight",
@@ -358,8 +358,8 @@
     },
     {
       "id": "Hunter's Prey: Colossus Slayer",
-      "name": "Охотника добычей: Колосс убийца (Hunter's Prey: Colossus Slayer)",
-      "description": "<p>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. You can deal this extra damage only once per turn.&nbsp;</p>"
+      "name": "Добыча Охотника: Сокрушитель Орд",
+      "description": "<p><strong>Сокрушитель орд. </strong>Один раз в каждый свой ход, когда вы совершаете атаку оружием, вы можете совершить ещё одну атаку тем же оружием по другому существу, находящемуся в пределах 5 фт. от первичной цели, и находящемуся в пределах досягаемости вашего оружия.\r\n</p></p>"
     },
     {
       "id": "Hunter's Prey: Giant Killer",
@@ -368,8 +368,8 @@
     },
     {
       "id": "Hunter's Prey: Horde Breaker",
-      "name": "Добыча Охотника: Убийца Колоссов",
-      "description": "<p><strong>Убийца колоссов. </strong>Ваше упорство может повергнуть самых мощных врагов. Если вы попадаете по существу атакой оружием, это существо получает дополнительный урон 1d8, если его хиты уже ниже максимума. Вы можете причинить этот дополнительный урон только один раз в ход.</p>"
+      "name": "(Hunter's Prey: Horde Breaker) Охотника добычей: выключатель Орда",
+      "description": "<p>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p>"
     },
     {
       "id": "Hurl Through Hell",
@@ -403,162 +403,162 @@
     },
     {
       "id": "Invocation: Agonizing Blast",
-      "name": "Ссылка: Мучительный Взрыв (Invocation: Agonizing Blast)",
-      "description": "<p>When you cast eldritch blast, add your Charisma modifier to the damage it deals on a hit.</p>"
+      "name": "Возвание: Мучительный Взрыв",
+      "description": "<p><strong>Требование:</strong> заговор мистический заряд </p><p>Когда вы накладываете мистический заряд, добавьте модификатор Харизмы к урону, причиняемому при попадании.</p>"
     },
     {
       "id": "Invocation: Armor of Shadows",
-      "name": "Ссылка: броня теней (Invocation: Armor of Shadows)",
-      "description": "<p>You can cast&nbsp;mage armor&nbsp;on yourself at will, without expending a spell slot or material components.</p>"
+      "name": "Возвание: Доспех Теней",
+      "description": "<p>Вы можете неограниченно накладывать на себя заклинание доспехи мага, не тратя ячейки заклинаний и материальные компоненты.</p>"
     },
     {
       "id": "Invocation: Ascendant Step",
-      "name": "Ссылка: Асцендент Шаг (Invocation: Ascendant Step)",
-      "description": "<p>You can cast levitate on yourself at will, without expending a spell slot or material components.</p>"
+      "name": "Возвание: Восходящий Шаг",
+      "description": "<p><strong>Требование: </strong>9 уровень</p><p>Вы можете неограниченно накладывать на себя заклинание левитация, не тратя ячейки заклинаний и материальные компоненты.</p>"
     },
     {
       "id": "Invocation: Beast Speech",
-      "name": "Ссылка: Речь Зверь (Invocation: Beast Speech)",
-      "description": "<p>You can cast&nbsp;speak with animals&nbsp;at will, without expending a spell slot.</p>"
+      "name": "Возвание: Животная Речь",
+      "description": "<p>Вы можете неограниченно накладывать заклинание разговор с животными, не тратя ячейки заклинаний.</p>"
     },
     {
       "id": "Invocation: Beguiling Infulence",
-      "name": "Ссылка: Начинка Infulence (Invocation: Beguiling Infulence)",
+      "name": "(Invocation: Beguiling Infulence) Ссылка: Начинка Infulence",
       "description": "<p>You gain proficiency in the Deception and Persuasion skills.</p>"
     },
     {
       "id": "Invocation: Bewtching Whispers",
-      "name": "Ссылка: Bewtching Шепчет (Invocation: Bewtching Whispers)",
+      "name": "(Invocation: Bewtching Whispers) Ссылка: Bewtching Шепчет",
       "description": "<p>You can cast&nbsp;compulsion&nbsp;once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
     },
     {
       "id": "Invocation: Book of Ancient Secrets",
-      "name": "Ссылка: книга Древние Секреты (Invocation: Book of Ancient Secrets)",
-      "description": "<p>You can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list (the two needn't be from the same list). The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag.</p><p>On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</p>"
+      "name": "Возвание: Книга Древних Секретов",
+      "description": "<p><strong>Требование:</strong> умение Договор гримуара</p><p>Теперь вы можете вписывать магические ритуалы в свою Книгу Теней. Выберите два заклинания 1 уровня с ключевым словом «ритуал» из списков заклинаний любых классов. Эти заклинания появляются в книге и не учитываются в общем количестве заклинаний, которые вы можете знать. Держа Книгу Теней в руке, вы можете творить выбранные заклинания как ритуалы. Вы не можете творить заклинания иначе как ритуалом, если вы не узнали их иным способом. Вы также можете творить известные заклинания колдуна как ритуалы, если у них есть ключевое слово «ритуал».</p><p>Во время приключений вы можете добавлять другие ритуальные заклинания в свою Книгу Теней. Когда вы найдёте такое заклинание, вы можете добавить его в книгу, если уровень заклинания не превышает половину вашего уровня колдуна (округляя в большую сторону) и если вы можете потратить время на переписывание заклинания. За каждый уровень заклинания время переписывания занимает 2 часа и стоит 50 золотых монет, которые должны быть потрачены на редкие чернила, необходимые для записи.</p>"
     },
     {
       "id": "Invocation: Chains of Carceri",
-      "name": "Ссылка: цепи Карчери (Invocation: Chains of Carceri)",
-      "description": "<p>You can cast&nbsp;hold monster&nbsp;at will—targeting a celestial, fiend, or elemental - without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.</p>"
+      "name": "Возвание: Цепи Карцери",
+      "description": "<p><strong>Требование:</strong> 15 уровень, умение Договор цепи</p><p>Вы можете неограниченно накладывать заклинание удержание чудовища, если цель — исчадие, небожитель или элементаль. При этом вы не тратите ячейки заклинаний и материальные компоненты. Вы должны закончить продолжительный отдых, прежде чем снова сможете использовать это заклинание против этого же существа.</p>\r\n"
     },
     {
       "id": "Invocation: Devil's Sight",
-      "name": "Вызов: взгляд Дьявола (Invocation: Devil's Sight)",
-      "description": "<p>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>"
+      "name": "Возвание: Дьявольский Взгляд",
+      "description": "<p>Вы можете нормально видеть в темноте, как магической, так и немагической, на расстоянии 120 фт.</p>"
     },
     {
       "id": "Invocation: Dreadful Word",
-      "name": "Ссылка: Страшное Слово (Invocation: Dreadful Word)",
-      "description": "<p>You can cast&nbsp;confusion&nbsp;once using a warlock spell slot. You can't do so again until you finish a long rest</p>"
+      "name": "Возвание: Ужасающее Слово",
+      "description": "<p><strong>Требование: </strong>7 уровень</p><p>Вы можете один раз сотворить заклинание смятение, используя ячейку заклинаний колдуна. Вы не можете сделать это повторно, пока не окончите продолжительный отдых.</p>"
     },
     {
       "id": "Invocation: Eldritch Sight",
-      "name": "Ссылка: Жуткое Зрелище (Invocation: Eldritch Sight)",
-      "description": "<p>You can cast&nbsp;detect magic&nbsp;at will, without expending a spell slot.</p>"
+      "name": "Возвание: Таинственный Взгляд",
+      "description": "<p>Вы можете неограниченно накладывать заклинание обнаружение магии, не тратя ячейки заклинаний.</p>"
     },
     {
       "id": "Invocation: Eldritch Spear",
-      "name": "Ссылка: Элдрич Копье (Invocation: Eldritch Spear)",
-      "description": "<p>When you cast&nbsp;eldritch blast, its range is 300 feet.</p>"
+      "name": "Возвание: Мистическое Копьё",
+      "description": "<p>Требование: заговор мистический заряд</p><p>Когда вы накладываете мистический заряд, его дистанция равна 300 футам.</p>"
     },
     {
       "id": "Invocation: Eyes of the Rune Keeper",
-      "name": "Ссылка: глаза Хранитель рун (Invocation: Eyes of the Rune Keeper)",
+      "name": "(Invocation: Eyes of the Rune Keeper) Ссылка: глаза Хранитель рун",
       "description": "<p>You can read all writing.</p>"
     },
     {
       "id": "Invocation: Fiendish Vigor",
-      "name": "Ссылка: Дьявольской Силой (Invocation: Fiendish Vigor)",
-      "description": "<p>You can cast&nbsp;false life&nbsp;on yourself at will as a 1st-level spell, without expending a spell slot or material components.</p>"
+      "name": "Возвание: Мощь Исчадия",
+      "description": "<p>Вы можете неограниченно накладывать на себя заклинание псевдожизнь как заклинание 1 уровня, не тратя ячейки заклинаний и материальные компоненты.</p>"
     },
     {
       "id": "Invocation: Gaze of Two Minds",
-      "name": "Вызов: взгляд двух головах (Invocation: Gaze of Two Minds)",
-      "description": "<p>You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.</p>"
+      "name": "Возвание: Взор Двух Умов",
+      "description": "<p>Вы можете действием коснуться согласного гуманоида и до конца своего следующего хода воспринимать всё его чувствами. Пока существо находится на том же плане существования, что и вы, вы можете в последующие ходы действием продлевать эту связь до конца своего следующего хода. При восприятии чувствами другого существа, вы получаете все преимущества от особых чувств, которыми обладает это существо, а сами при этом слепы и глухи.</p>"
     },
     {
       "id": "Invocation: Life Drinker",
-      "name": "Ссылка: Пьющий Жизни (Invocation: Life Drinker)",
+      "name": "(Invocation: Life Drinker) Ссылка: Пьющий Жизни",
       "description": "<p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).</p>"
     },
     {
       "id": "Invocation: Mask of Many Faces",
-      "name": "Ссылка: Маска многолика (Invocation: Mask of Many Faces)",
-      "description": "<p>You can cast&nbsp;disguise self&nbsp;at will, without expending a spell slot.</p>"
+      "name": "Возвание: Маска Многих Лиц",
+      "description": "<p>Вы можете неограниченно накладывать заклинание маскировка, не тратя ячейки заклинаний.</p>"
     },
     {
       "id": "Invocation: Master of Myriad Forms",
-      "name": "Ссылка: мастер мириады форм (Invocation: Master of Myriad Forms)",
-      "description": "<p>You can cast&nbsp;alter self&nbsp;at will, without expending a spell slot.</p>"
+      "name": "Возвание: Мастер Бесчисленных Обликов",
+      "description": "<p><strong>Требование:</strong> 15 уровень</p><p>Вы можете неограниченно накладывать заклинание смена обличья, не тратя ячейки заклинаний.</p>"
     },
     {
       "id": "Invocation: Minions of Chaos",
-      "name": "Ссылка: Миньоны Хаоса (Invocation: Minions of Chaos)",
-      "description": "<p>You can cast&nbsp;conjure elemental&nbsp;once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Возвание: Слуги Хаоса",
+      "description": "<p><strong>Требование: </strong>9 уровень</p><p>Вы можете один раз сотворить заклинание призыв элементаля, используя ячейку заклинаний колдуна. Вы не можете сделать это повторно, пока не окончите продолжительный отдых.</p>"
     },
     {
       "id": "Invocation: Mire the Mind",
-      "name": "Ссылка: в мире Разума (Invocation: Mire the Mind)",
-      "description": "<p>You can cast&nbsp;slow&nbsp;once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Возвание: Трясина Разума",
+      "description": "<p><strong>Требование: </strong>5 уровень</p><p>Вы можете один раз сотворить заклинание замедление, используя ячейку заклинаний колдуна. Вы не можете сделать это повторно, пока не окончите продолжительный отдых.</p>"
     },
     {
       "id": "Invocation: Misty Visions",
-      "name": "Ссылка: Туманные Видения (Invocation: Misty Visions)",
-      "description": "<p>You can cast&nbsp;silent image&nbsp;at will, without expending a spell slot or material components.</p>"
+      "name": "Возвание: Туманные Видения",
+      "description": "<p>Вы можете неограниченно накладывать заклинание безмолвный образ, не тратя ячейки заклинаний и материальные компоненты.</p>"
     },
     {
       "id": "Invocation: One With Shadows",
-      "name": "Вызова: Один С Тенями (Invocation: One With Shadows)",
-      "description": "<p>When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.</p>"
+      "name": "Возвание: Один Среди Теней",
+      "description": "<p><strong>Требование:</strong> 5 уровень</p><p>Когда вы находитесь в области тусклого света или в темноте, вы можете действием стать невидимым, пока вы не переместитесь или не используете действие или реакцию.</p>"
     },
     {
       "id": "Invocation: Otherwordly Leap",
-      "name": "Ссылка: Потусторонней Прыжок (Invocation: Otherwordly Leap)",
+      "name": "(Invocation: Otherwordly Leap) Ссылка: Потусторонней Прыжок",
       "description": "<p>You can cast jump on yourself at will, without expending a spell slot or material components.</p>"
     },
     {
       "id": "Invocation: Repelling Blast",
-      "name": "Ссылка: Отталкивает Взрыв (Invocation: Repelling Blast)",
-      "description": "<p>When you hit a creature with eldritch blast, you can push the creature up to 10 feet away from you in a straight line.</p>"
+      "name": "Возвание: Отталкивающий Заряд",
+      "description": "<p><strong>Требование: </strong>заговор мистический заряд</p><p>Если вы попадаете по существу мистическим зарядом, вы можете толкнуть его на 10 фт. прочь от себя по прямой линии.</p>"
     },
     {
       "id": "Invocation: Sculptor of Flesh",
-      "name": "Ссылка: скульптор плоти (Invocation: Sculptor of Flesh)",
-      "description": "<p>You can cast&nbsp;polymorph&nbsp;once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Возвание: Скульптор Плоти",
+      "description": "<p><strong>Требование: </strong>7 уровень</p><p>Вы можете один раз сотворить заклинание превращение, используя ячейку заклинаний колдуна. Вы не можете сделать это повторно, пока не окончите продолжительный отдых.</p>"
     },
     {
       "id": "Invocation: Thief of Five Fates",
-      "name": "Ссылка: вор пять судеб (Invocation: Thief of Five Fates)",
-      "description": "<p>You can cast&nbsp;bane&nbsp;once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Возвание: Вор Пяти Судеб",
+      "description": "<p>Вы можете один раз сотворить заклинание порча, используя ячейку заклинаний колдуна. Вы не можете сделать это повторно, пока не окончите продолжительный отдых.</p>"
     },
     {
       "id": "Invocation: Thirsting Blade",
-      "name": "Вызов: Жажда Лезвие (Invocation: Thirsting Blade)",
-      "description": "<p>You can attack with your pact weapon twice, instead of once, whenever you take the Attack action on your turn.</p>"
+      "name": "Возвание: Жаждущий Клинок",
+      "description": "<p><strong>Требование:</strong> 5 уровень, умение Договор клинка</p><p>Вы можете атаковать своим оружием договора два раза вместо одного, когда в свой ход используете действие Атака.</p>"
     },
     {
       "id": "Invocation: Visions of Distant Realms",
-      "name": "Ссылка: видения далеких миров (Invocation: Visions of Distant Realms)",
-      "description": "<p>You can cast arcane eye at will, without expending a spell slot.</p>"
+      "name": "Возвание: Видения Далёких Королевств",
+      "description": "<p><strong>Требование: </strong>15 уровень</p><p>Вы можете неограниченно накладывать заклинание магический глаз, не тратя ячейки заклинаний.</p>"
     },
     {
       "id": "Invocation: Voice of the Chain Master",
-      "name": "Ссылка: Голос сети Мастер (Invocation: Voice of the Chain Master)",
+      "name": "(Invocation: Voice of the Chain Master) Ссылка: Голос сети Мастер",
       "description": "<p>Pact of the Chain feature You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</p>"
     },
     {
       "id": "Invocation: Whispers of the Grave",
-      "name": "Ссылка: шепот из могилы (Invocation: Whispers of the Grave)",
+      "name": "(Invocation: Whispers of the Grave) Ссылка: шепот из могилы",
       "description": "<p>You can cast&nbsp;speak with dead&nbsp;at will, without expending a spell slot.</p>"
     },
     {
       "id": "Invocation: Witch Sight",
-      "name": "Вызов: Взгляд Ведьмы (Invocation: Witch Sight)",
-      "description": "<p>You can see the true form of any shapechanger or creature concealed by illusion or transmutation magic while the creature is within 30 feet of you and within line of sight.</p>"
+      "name": "Возвание: Ведьмачий Взор",
+      "description": "<p><strong>Требование: </strong>15 уровень</p><p>Вы можете видеть истинный облик всех перевёртышей и существ, скрытых магией школы Иллюзия или Преобразование, и находящихся в вашей линии обзора, и при этом в пределах 30 фт. от вас.</p>"
     },
     {
       "id": "Invocations: Sign of Ill Omen",
-      "name": "Вызовы: знак дурное предзнаменование (Invocations: Sign of Ill Omen)",
+      "name": "(Invocations: Sign of Ill Omen) Вызовы: знак дурное предзнаменование",
       "description": "<p>You can cast&nbsp;bestow&nbsp;curse once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
     },
     {
@@ -568,62 +568,62 @@
     },
     {
       "id": "Ki",
-      "name": "Ки (Ki)",
-      "description": "<hr><p>Starting at 2nd level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.&nbsp;</p><p>You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.&nbsp;</p><p>When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.&nbsp;Some of your ki features require your target to make a saving throw to resist the feature’s effects. The saving throw DC is calculated as follows:</p><p><em>Ki save DC = 8 + your proficiency bonus + your Wisdom modifier</em></p>"
+      "name": "Ци",
+      "description": "<p>Начиная со 2 уровня ваши тренировки позволяют вам управлять мистической энергией ци. Ваш доступ к этой энергии выражается количеством очков ци. Ваш уровень монаха определяет это количество, согласно колонке «очки ци». Вы можете использовать эти очки чтобы активировать различные умения ци. Вначале вам известны следующие три умения: Поступь ветра, Терпеливая оборона и Шквал ударов. С повышением уровня в этом классе вы выучите новые умения ци.</p><p>Все потраченные очки ци восполняются по окончании короткого или продолжительного отдыха. Вы должны потратить как минимум 30 минут на медитацию для их восстановления. Некоторые из ваших умений ци требуют от цели спасброска, позволяющего избежать эффекта. Сл такого спасброска определяется следующим образом:</p><p><strong>Сл спасброска ци</strong> = 8 + бонус мастерства + модификатор Мудрости</p>"
     },
     {
       "id": "Ki-Empowered Strikes",
-      "name": "Ки-Уполномоченный Ударов (Ki-Empowered Strikes)",
-      "description": "<p>Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.</p>"
+      "name": "Энергетические Удары",
+      "description": "<p>Начиная с 6 уровня ваши безоружные удары считаются магическими при определении преодоления сопротивления и иммунитета к немагическим атакам и урону.</p>"
     },
     {
       "id": "Ki: Diamond Soul",
-      "name": "Ки: Алмазная Душа (Ki: Diamond Soul)",
-      "description": "<p>Beginning at 14th level, your mastery of ki grants you proficiency in all saving throws. Additionally, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and take the second result.</p>"
+      "name": "Алмазная Душа",
+      "description": "<p>Начиная с 14 уровня ваше мастерство ци предоставляет вам владение всеми спасбросками. Кроме того, если вы провалили спасбросок, вы можете повторить его, потратив 1 очко ци, и должны использовать второй результат.</p>"
     },
     {
       "id": "Ki: Empty Body",
-      "name": "Ки: Пустое Тело (Ki: Empty Body)",
-      "description": "<p>Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.</p><p>Additionally, you can spend 8 ki points to cast the&nbsp;astral projection&nbsp;spell, without needing material components. When you do so, you can’t take any other creatures with you.</p>"
+      "name": "Пустое Тело",
+      "description": "<p>Начиная с 18 уровня вы можете действием потратить 4 очка ци, чтобы стать невидимым на 1 минуту. В течение этого времени вы получаете сопротивление всем видам урона кроме урона силовым полем.</p><p>Кроме того, вы можете потратить 8 очков ци, чтобы использовать заклинание проекция в астрал без применения материальных компонентов. Вы не можете перемещать кого-либо вместе с собой.</p>"
     },
     {
       "id": "Ki: Flurry of Blows",
-      "name": "Ки: шквал ударов (Ki: Flurry of Blows)",
-      "description": "<p>Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two unarmed strikes as a bonus action.</p>"
+      "name": "Шквал Ударов",
+      "description": "<p>Сразу же после того, как вы в свой ход совершили действие Атака, вы можете потратить 1 очко ци, чтобы совершить бонусным действием две безоружные атаки.</p>"
     },
     {
       "id": "Ki: Patient Defense",
-      "name": "Ки: Защита Пациента (Ki: Patient Defense)",
-      "description": "<p>You can spend 1 ki point to take the Dodge action as a bonus action on your turn.</p>"
+      "name": "Терпеливая Оборона",
+      "description": "<p>Вы тратите 1 очко ци в свой ход, чтобы совершить бонусным действием Уклонение.</p>"
     },
     {
       "id": "Ki: Quivering Palm",
-      "name": "Ки: Дрожащие Ладони (Ki: Quivering Palm)",
-      "description": "<p>At 17th level, you gain the ability to set up lethal vibrations in someone’s body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage.</p><p>You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</p>"
+      "name": "Дрожащая Ладонь",
+      "description": "<p>На 17 уровне вы получаете возможность создавать смертельные колебания в чужом теле. Если вы попадёте по существу безоружным ударом, вы можете потратить 3 очка ци, чтобы создать неуловимые колебания в его теле, которые длятся в течение количества суток, равного вашему уровню монаха. Колебания безвредны, пока вы не остановите их действием. Для того чтобы остановить их, цель должна находится на одном плане существования с вами. При этом существо должно совершить спасбросок Телосложения. В случае успеха цель получает урон некротической энергией 10d10, а в случае провала её хиты опускаются до 0. Вы можете держать одновременно только одно существо под действием Дрожащей ладони. Вы можете решить закончить колебания без вреда, не тратя действие.</p>"
     },
     {
       "id": "Ki: Step of the Wind",
-      "name": "Ки: шаг ветра (Ki: Step of the Wind)",
-      "description": "<p>You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.</p>"
+      "name": "Поступь Ветра",
+      "description": "<p>Вы можете потратить 1 очко ци в свой ход, чтобы совершить бонусным действием Отход или Рывок. В этот ход дальность ваших прыжков удваивается.</p>"
     },
     {
       "id": "Ki: Stunning Strike",
-      "name": "Ки: Потрясающий Удар (Ki: Stunning Strike)",
-      "description": "<p>Starting at 5th level, you can interfere with the flow of ki in an opponent’s body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.</p>"
+      "name": "Ошеломляющий Удар",
+      "description": "<p>Начиная с 5 уровня вы можете взаимодействовать с энергией ци, текущей в теле вашего противника. Если вы попали по другому существу атакой рукопашным оружием, вы можете потратить 1 очко ци, чтобы нанести ошеломляющий удар. Цель должна преуспеть в спасброске Телосложения, иначе она станет ошеломлённой до конца вашего следующего хода.</p>"
     },
     {
       "id": "Land's Stride",
-      "name": "Земли Страйд (Land's Stride)",
-      "description": "<p>Starting at 6th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.&nbsp;</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.</p>"
+      "name": "Тропами Земли",
+      "description": "<p>Начиная с 8 уровня перемещение по немагической труднопроходимой местности не стоит вам никакого дополнительного перемещения. Вы также можете проходить через немагические растения без замедления, и не получая от них урона, даже если у них есть шипы, колючки или аналогичная опасность.</p><p>Кроме того, вы совершаете с преимуществом спасброски от растений, которые были магическим образом созданы или управляются магией, препятствуя движению, например, созданных заклинанием опутывание.</p>"
     },
     {
       "id": "Land's Stride",
-      "name": "Земли Страйд (Land's Stride)",
-      "description": "<p>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.&nbsp;</p><p>In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.</p>"
+      "name": "Тропами Земли",
+      "description": "<p>Начиная с 8 уровня перемещение по немагической труднопроходимой местности не стоит вам никакого дополнительного перемещения. Вы также можете проходить через немагические растения без замедления, и не получая от них урона, даже если у них есть шипы, колючки или аналогичная опасность.</p><p>Кроме того, вы совершаете с преимуществом спасброски от растений, которые были магическим образом созданы или управляются магией, препятствуя движению, например, созданных заклинанием опутывание.</p>"
     },
     {
       "id": "Lay on Hands",
-      "name": "Возложение рук (Lay on Hands)",
+      "name": "(Lay on Hands) Возложение рук",
       "description": "<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.&nbsp;</p><p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p><p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p><p>This feature has no effect on undead and constructs.</p>"
     },
     {
@@ -633,8 +633,8 @@
     },
     {
       "id": "Martial Arts",
-      "name": "Боевые Искусства (Martial Arts)",
-      "description": "<p>At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property. You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p><ul><li><p>You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.</p></li><li><p>You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.</p></li><li><p>When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.</p></li></ul><p>Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama). Whatever name you use for a monk weapon, you can use the game statistics provided for the weapon.</p>"
+      "name": "Боевые Искусства",
+      "description": "<p>На 1 уровне ваше знание боевых искусств позволяет вам эффективно использовать в бою безоружные удары и оружие монахов — короткие мечи, а также любое простое оружие, не имеющее свойств «двуручное» и «тяжёлое».</p><p>Если вы безоружны или используете только монашеское оружие, и не носите ни доспехов, ни щита, вы получаете следующие преимущества:</p><ul><li>Вы можете использовать Ловкость вместо Силы для бросков атак и урона ваших безоружных ударов и атак монашеским оружием.<br></li><li>Вы можете использовать d4 вместо обычной кости урона ваших безоружных ударов или атак монашеским оружием. Эта кость увеличивается с вашим уровнем, как показано в колонке «боевые искусства».<br></li><li>Если в свой ход вы используете действие Атака для безоружной атаки, или атаки монашеским оружием, вы можете совершить ещё одну безоружную атаку бонусным действием. Например, если вы совершили действие Атака и атаковали боевым посохом, вы можете совершить бонусным действием безоружную атаку, при условии, что в этом ходу вы ещё не совершали бонусное действие.<br></li></ul><p>Некоторые монастыри используют особые виды монашеского оружия. Например, вы можете использовать дубинку в виде двух деревянных брусков, соединённых короткой цепью (такое оружие называется нунчаками), или серп с более коротким и прямым лезвием (называется камой). Как бы ни называлось ваше монашеское оружие, вы используете характеристики, соответствующие этому оружию.</p>"
     },
     {
       "id": "Metamagic",
@@ -643,38 +643,38 @@
     },
     {
       "id": "Metamagic: Careful Spell",
-      "name": "Метамагия: Careful Spell",
-      "description": "<p>На 3 уровне вы получаете способность подстраивать заклинания под свои нужды. Вы выбираете два варианта метамагии из перечисленных ниже. На 10 и 17 уровне вы получаете ещё по одному варианту.</p><p>При сотворении заклинания может быть использован только один метамагический вариант, если в его описании не указано обратное.</p>"
+      "name": "Метамагия: Аккуратное Заклинание",
+      "description": "<p>Когда вы накладываете заклинание, которое вынуждает других существ совершить спасбросок, вы можете защитить некоторых из них от магического воздействия. Для этого вы тратите 1 единицу чародейства и выбираете существ в количестве, равном вашему модификатору Харизмы (минимум одно существо). Указанные существа автоматически преуспевают в спасброске от данного заклинания.</p>"
     },
     {
       "id": "Metamagic: Distant Spell",
-      "name": "Метамагия: Distant Spell",
-      "description": "<p>На 3 уровне вы получаете способность подстраивать заклинания под свои нужды. Вы выбираете два варианта метамагии из перечисленных ниже. На 10 и 17 уровне вы получаете ещё по одному варианту.</p><p>При сотворении заклинания может быть использован только один метамагический вариант, если в его описании не указано обратное.</p>"
+      "name": "Метамагия: Далёкое Заклинание",
+      "description": "<p>При накладывании заклинания, дистанция которого 5 фт. и более, вы можете потратить 1 единицу чародейства, чтобы удвоить это расстояние.</p><p>При накладывании заклинания с дистанцией «прикосновение», вы можете потратить 1 единицу чародейства, чтобы увеличить это расстояние до 30 фт.</p>"
     },
     {
       "id": "Metamagic: Empowered Spell",
-      "name": "Метамагия: Empowered Spell",
-      "description": "<p>На 3 уровне вы получаете способность подстраивать заклинания под свои нужды. Вы выбираете два варианта метамагии из перечисленных ниже. На 10 и 17 уровне вы получаете ещё по одному варианту.</p><p>При сотворении заклинания может быть использован только один метамагический вариант, если в его описании не указано обратное.</p>"
+      "name": "Метамагия: Непреодолимое Заклинание",
+      "description": "<p>Когда вы накладываете заклинание, которое вынуждает существо совершить спасбросок для защиты от его эффектов, вы можете потратить 3 единицы чародейства, чтобы одна из целей заклинания совершила первый спасбросок от этого заклинания с помехой.</p>"
     },
     {
       "id": "Metamagic: Extended Spell",
-      "name": "Метамагия: Extended Spell",
-      "description": "<p>На 3 уровне вы получаете способность подстраивать заклинания под свои нужды. Вы выбираете два варианта метамагии из перечисленных ниже. На 10 и 17 уровне вы получаете ещё по одному варианту.</p><p>При сотворении заклинания может быть использован только один метамагический вариант, если в его описании не указано обратное.</p>"
+      "name": "Метамагия: Неуловимое Заклинание",
+      "description": "<p>Во время использования заклинания вы можете потратить 1 единицу чародейства, чтоб сотворить его без вербальных и соматических компонентов.</p>"
     },
     {
       "id": "Metamagic: Heightened Spell",
-      "name": "Метамагия: Heightened Spell",
-      "description": "<p>На 3 уровне вы получаете способность подстраивать заклинания под свои нужды. Вы выбираете два варианта метамагии из перечисленных ниже. На 10 и 17 уровне вы получаете ещё по одному варианту.</p><p>При сотворении заклинания может быть использован только один метамагический вариант, если в его описании не указано обратное.</p>"
+      "name": "Метамагия: Продлённое Заклинание",
+      "description": "<p>При накладывании заклинания с длительностью 1 минута или более, вы можете потратить 1 единицу чародейства, чтобы удвоить это время, вплоть до максимального в 24часа.</p>\r\n"
     },
     {
       "id": "Metamagic: Subtle Spell",
-      "name": "Метамагия: Subtle Spell",
-      "description": "<p>На 3 уровне вы получаете способность подстраивать заклинания под свои нужды. Вы выбираете два варианта метамагии из перечисленных ниже. На 10 и 17 уровне вы получаете ещё по одному варианту.</p><p>При сотворении заклинания может быть использован только один метамагический вариант, если в его описании не указано обратное.</p>"
+      "name": "Метамагия: Усиленное Заклинание",
+      "description": "<p>При совершении броска урона от заклинания вы можете потратить 1 единицу чародейства, чтобы перебросить несколько костей урона (количество равно вашему модификатору Харизмы, минимум одна). Вы должны использовать новое выпавшее значение.</p><p>Вы можете воспользоваться вариантом «усиленное заклинание» даже если вы уже использовали другой вариант метамагии для этого заклинания.</p>"
     },
     {
       "id": "Metamagic: Twinned Spell",
-      "name": "Метамагия: Twinned Spell",
-      "description": "<p>На 3 уровне вы получаете способность подстраивать заклинания под свои нужды. Вы выбираете два варианта метамагии из перечисленных ниже. На 10 и 17 уровне вы получаете ещё по одному варианту.</p><p>При сотворении заклинания может быть использован только один метамагический вариант, если в его описании не указано обратное.</p>"
+      "name": "Метамагия: Ускоренное Заклинание",
+      "description": "<p>Если вы используете заклинание со временем накладывания «1 действие», вы можете потратить 2 единицы чародейства, чтобы сотворить это заклинание бонусным действием.</p>"
     },
     {
       "id": "Mindless Rage",
@@ -703,18 +703,18 @@
     },
     {
       "id": "Nature's Sanctuary",
-      "name": "Природный заповедник (Nature's Sanctuary)",
-      "description": "<p>When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you.</p><p>When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours.</p><p>The creature is aware of this effect before it makes its attack against you.</p>"
+      "name": "Покровительство Природ",
+      "description": "<p>Когда вы достигаете 14 уровня, природные создания начинают чувствовать вашу тесную связь с естественным миром и остерегаются нападать. Когда зверь или растение атакует вас, это существо должно совершить спасбросок Мудрости против Сл спасброска заклинания друида. В случае провала существо должно выбрать иную цель, или же его атака автоматически промахивается. В случае успеха существо получает иммунитет к данному эффекту на 24 часа.</p><p>Существо осознаёт этот эффект ещё до попытки атаковать вас. </p>"
     },
     {
       "id": "Nature's Ward",
-      "name": "Природы Уорд (Nature's Ward)",
-      "description": "<p>When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease.</p>"
+      "name": "Подопечный природы",
+      "description": "<p>С 10 уровня вы не можете быть очарованным или напуганным феями и элементалями. Вы также получаете иммунитет к болезням и ядам.</p>"
     },
     {
       "id": "Oath of Devotion Spells",
-      "name": "Клятва заклинания преданность (Oath of Devotion Spells)",
-      "description": "<table><thead><tr><th style=\"text-align: center;\"><p><strong>Paladin Level</strong></p></th><th style=\"text-align: center;\"><p><strong>Spells</strong></p></th></tr></thead><tbody><tr><td style=\"text-align: center;\"><p><strong>3rd</strong></p></td><td style=\"text-align: left;\"><p>protection from evil and good, sanctuary</p></td></tr><tr><td style=\"text-align: center;\"><p><strong>5th</strong></p></td><td style=\"text-align: left;\"><p>lesser restoration, zone of truth</p></td></tr><tr><td style=\"text-align: center;\"><p><strong>9th</strong></p></td><td style=\"text-align: left;\"><p>beacon of hope, dispel magic</p></td></tr><tr><td style=\"text-align: center;\"><p><strong>13th</strong></p></td><td style=\"text-align: left;\"><p>freedom of movement, guardian of faith</p></td></tr><tr><td style=\"text-align: center;\"><p><strong>17th</strong></p></td><td style=\"text-align: left;\"><p>commune, flame strike</p></td></tr></tbody></table>"
+      "name": "Oath of Devotion Spells",
+      "description": "<table> <tbody><tr class=\"table_header\"> <td>Уровень паладина</td> <td>Заклинания</td> </tr> <tr> <td>3</td> <td><a href=\"/spells/99-protection_from_evil_and_good/\" target=\"_blank\"><strong>защита от зла и добра</strong></a>, <a href=\"/spells/354-sanctuary/\" target=\"_blank\"><strong>убежище</strong></a></td> </tr> <tr> <td>5</td>\r\n <td><a href=\"/spells/155-lesser_restoration/\" target=\"_blank\"><strong>малое восстановление</strong></a>, <a href=\"/spells/192-zone_of_truth/\" target=\"_blank\"><strong>область истины</strong></a></td> </tr> <tr> <td>9</td> <td><a href=\"/spells/158-beacon_of_hope/\" target=\"_blank\"><strong>маяк надежды</strong></a>, <a href=\"/spells/301-dispel_magic/\" target=\"_blank\"><strong>рассеивание магии</strong></a></td> </tr> <tr> <td>13</td> <td><a href=\"/spells/308-freedom_of_movement/\" target=\"_blank\"><strong>свобода перемещения</strong></a>, <a href=\"/spells/340-guardian_of_faith/\" target=\"_blank\"><strong>страж веры</strong></a></td> </tr> <tr> <td>17</td> <td><a href=\"/spells/181-flame_strike/\" target=\"_blank\"><strong>небесный огонь</strong></a>, <a href=\"/spells/198-commune/\" target=\"_blank\"><strong>общение</strong></a></td> </tr></tbody></table>"
     },
     {
       "id": "Open Hand Technique",
@@ -723,8 +723,8 @@
     },
     {
       "id": "Otherworldly Pact",
-      "name": "Потусторонние Пакт (Otherworldly Pact)",
-      "description": "<p>At 1st level, you have struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One, each of which is detailed at the end of the class description. Your choice grants you features at 1st level and again at 6th, 10th, and 14th level.</p>"
+      "name": "Потусторонний Покровитель",
+      "description": "<p>На 1 уровне вы заключаете сделку с потусторонним существом на ваш выбор: Архифея, Исчадие или Великий Древний. Подробности смотрите в конце описания класса. Ваш выбор определит умения, предоставляемые на 1, 6, 10 и 14 уровнях.</p>"
     },
     {
       "id": "Overchannel",
@@ -818,8 +818,8 @@
     },
     {
       "id": "Roguish Archtype",
-      "name": "Вороватой Archtype (Roguish Archtype)",
-      "description": "<p>At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.</p>"
+      "name": "Архетипы плута",
+      "description": "<p>На 3 уровне вы выбираете архетип, который отображает ваши плутовские способности: вор, убийца или мистический ловкач. Подробности находятся в конце описания класса. Выбранный вами архетип предоставляет умения на 9, 13 и 17 уровнях.</p>"
     },
     {
       "id": "Sacred Oath",
@@ -838,8 +838,8 @@
     },
     {
       "id": "Second-Story Work",
-      "name": "Второй-История Работы (Second-Story Work)",
-      "description": "<p>When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.</p><p>In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.</p>"
+      "name": "Форточник",
+      "description": "<p>Когда вы выбираете этот архетип на 3 уровне, вы получаете возможность лазать быстрее, чем обычно; лазание больше не стоит вам дополнительного движения.</p><p>Кроме того, когда вы совершаете прыжок с разбега, расстояние, которое вы преодолеваете, увеличивается на число фт., равное вашему модификатору Ловкости.</p>"
     },
     {
       "id": "Signature Spells",
@@ -863,13 +863,13 @@
     },
     {
       "id": "Song of Rest",
-      "name": "Песня покоя (Song of Rest)",
-      "description": "<p>Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest.</p><p>If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.&nbsp;</p><p>The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.</p>"
+      "name": "Песнь Отдыха",
+      "description": "<p>Начиная со 2 уровня вы с помощью успокаивающей музыки или речей можете помочь своим раненым союзникам восстановить их силы во время короткого отдыха. Если вы, или любые союзные существа, способные слышать ваше исполнение, восстанавливаете хиты в конце короткого отдыха, каждый из вас восстанавливает дополнительно 1d6 хитов. Для того, чтобы восстановить дополнительные хиты, существо должно потратить в конце короткого отдыха как минимум одну Кость Хитов.</p><p>Количество дополнительно восстанавливаемых хитов растёт с вашим уровнем в этом классе: 1d8 на 9 уровне, 1d10 на 13 уровне и 1d12 на 17 уровне.</p>"
     },
     {
       "id": "Sorcerous Origins",
-      "name": "Происхождение Колдовской (Sorcerous Origins)",
-      "description": "<p>Different sorcerers claim different origins for their innate magic. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild magic.</p>"
+      "name": "Происхождение Чародея",
+      "description": "<p>Выберите источник, из которого ваш персонаж черпает свою силу. Это может быть Наследие драконьей крови или Дикая магия. Оба источника раскрыты в конце описания класса.\r\n</p><p>Ваш выбор предоставляет вам умения на 1, 6, 14 и 18 уровнях.</p>"
     },
     {
       "id": "Sorcerous Restoration",
@@ -878,8 +878,8 @@
     },
     {
       "id": "Spell Book",
-      "name": "Книга Заклинаний (Spell Book)",
-      "description": "<p>The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.&nbsp;</p><p><strong>Copying a Spell into the Book</strong></p><p>When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it. Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.&nbsp;For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.&nbsp;</p><p><strong>Replacing the Book</strong>&nbsp;</p><p>You can copy a spell from your own spellbook into another book - for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.&nbsp;</p><p>If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.&nbsp;The Book's Appearance.&nbsp;Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.</p>"
+      "name": "Книга Заклинаний",
+      "description": "<p>На 1 уровне у вас есть книга заклинаний, содержащая шесть заклинаний волшебника 1 уровня по вашему выбору. Заговоры в ней не хранятся.</p><br><div class=\"additionalInfo\"><h3 class=\"smallSectionTitle\">ВАША КНИГА ЗАКЛИНАНИЙ</h3><p>Заклинания, которые вы добавляете в свою книгу заклинаний, получая уровни, отражают исследования, которые вы проводите, а также интеллектуальные прорывы в изучении природы вселенной, сделанные вами. Вы также можете найти другие заклинания во время прик лючений. Вы можете обнаружить заклинание, записанное на свитке в сундуке злого волшебника, или, например, в пыльном фолианте в древней библиотеке.</p><p><strong>Копирование заклинания в книгу.</strong> Если вы находите заклинание волшебника 1 или более высокого уровня, вы можете добавить его в свою книгу заклинаний, если оно имеет такой уровень, заклинания которого вы можете подготавливать, и у вас имеется свободное время для его расшифровки и копирования.</p><p>Копирование заклинания в вашу книгу включает воспроизведение основной формы заклинания, а также расшифровку уникальной системы обозначений, используемой волшебником, который записал его. Вы должны подобрать нужные жесты и звуки, после чего записываете его в свою книгу заклинаний, используя собственные обозначения.</p><p>За каждый уровень заклинания процесс занимает 2 часа и стоит 50 золотых монет. Стоимость представляет собой материальные компоненты, которые вы расходуете на эксперименты с заклинанием, чтобы им овладеть, а также высококачественные чернила для записи текста. После того как вы потратили время и деньги, вы можете подготавливать это заклинание как и свои прочие заклинания.</p><p><strong>Замена книги.</strong> Вы можете копировать заклинание из своей книги заклинаний в другую, например, если хотите сделать запасную копию. Это делается так же как и простое копирование заклинаний, но быстрее и проще, так как вы понимаете свои собственные обозначения и уже знаете, как творить это заклинание. Вам необходимо потратить только по 10 золотых монет и 1 часу для каждого уровня копируемого заклинания.</p><p>Если вы потеряли свою книгу заклинаний, вы можете использовать ту же процедуру для записи заклинаний, которые у вас подготовлены, в новую книгу заклинаний. Для заполнения оставшейся части книги заклинаний потребует найти новые заклинания, чтобы вернуть всё как прежде. По этой причине многие волшебники держат запасные книги заклинаний в безопасном месте.</p><p><strong>Внешний вид книги.</strong> Ваша книга заклинаний является уникальным сборником заклинаний, со своими декоративными завитушками и ремаркам. Это может быть обычная, обтянутая кожей книга, которую вы получили в подарок от наставника, или оплетённый золотом том, который вы нашли в древней библиотеке, или даже разрозненная коллекция записей, собранная вместе после потери предыдущей книги заклинаний в результате несчастного случая. </p></div>"
     },
     {
       "id": "Spell Mastery",
@@ -888,8 +888,8 @@
     },
     {
       "id": "Stillness of Mind",
-      "name": "Неподвижность сознания (Stillness of Mind)",
-      "description": "<p>Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.</p>"
+      "name": "Спокойствие Разума",
+      "description": "<p>Начиная с 7 уровня вы можете действием окончить один из действующих на вас эффектов, делающих вас очарованным или испуганным.</p>"
     },
     {
       "id": "Stroke of Luck",
@@ -903,8 +903,8 @@
     },
     {
       "id": "Superior Hunter's Defense: Evasion",
-      "name": "Защита превосходного охотника: Уклонение (Superior Hunter's Defense: Evasion)",
-      "description": "<p>When you are subjected to an effect, such as a red dragon's fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.&nbsp;</p>"
+      "name": "Улучшенная Защита Охотника: Увёртливость",
+      "description": "<p>Вы можете проворно уворачиваться от некоторых зональных эффектов, например, огненного дыхания красного дракона или заклинания молния. Если вы подвергаетесь эффекту, позволяющему совершить спасбросок Ловкости, чтобы получить только половину урона, вы вместо этого не получаете урона при успешном спасброске, или получаете лишь половину, если спасбросок был неудачным.</p>"
     },
     {
       "id": "Superior Hunter's Defense: Stand Against the Tide",
@@ -938,8 +938,8 @@
     },
     {
       "id": "The Fiend Spell List",
-      "name": "Вражья Список Заклинаний (The Fiend Spell List)",
-      "description": "<p>The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.</p><table style=\"height: 169px;\"><thead><tr style=\"height: 29px;\"><th style=\"text-align: left; height: 29px; width: 97px;\"><p><strong>Spell Level</strong></p></th><th style=\"text-align: left; height: 29px; width: 266px;\"><p><strong>Spells</strong></p></th></tr></thead><tbody><tr style=\"height: 28px;\"><td style=\"text-align: left; height: 28px; width: 97px;\"><p><strong>1st</strong></p></td><td style=\"text-align: left; height: 28px; width: 266px;\"><p>burning hands, command</p></td></tr><tr style=\"height: 28px;\"><td style=\"text-align: left; height: 28px; width: 97px;\"><p><strong>2nd</strong></p></td><td style=\"text-align: left; height: 28px; width: 266px;\"><p>blindness/deafness, scorching ray</p></td></tr><tr style=\"height: 28px;\"><td style=\"text-align: left; height: 28px; width: 97px;\"><p><strong>3rd</strong></p></td><td style=\"text-align: left; height: 28px; width: 266px;\"><p>fireball, stinking cloud</p></td></tr><tr style=\"height: 28px;\"><td style=\"text-align: left; height: 28px; width: 97px;\"><p><strong>4th</strong></p></td><td style=\"text-align: left; height: 28px; width: 266px;\"><p>fire shield, wall of fire</p></td></tr><tr style=\"height: 28px;\"><td style=\"text-align: left; height: 28px; width: 97px;\"><p><strong>5th</strong></p></td><td style=\"text-align: left; height: 28px; width: 266px;\"><p>flame strike, hallow</p></td></tr></tbody></table>"
+      "name": "Расширенный Список Заклинаний",
+      "description": "<p>Исчадие позволяет вам при изучении заклинаний колдуна выбирать из более широкого списка. В ваш список заклинаний колдуна добавляются следующие заклинания. \r\n</p><h4 class=\"tableTitle\">ДОПОЛНИТЕЛЬНЫЕ ЗАКЛИНАНИЯ ИСЧАДИЯ</h4><table> <tbody><tr class=\"table_header\"> <td>Уровень<br>заклинания</td> <td>Заклинания</td> </tr> <tr> <td>1</td> <td><a href=\"/spells/203-burning_hands/\" target=\"_blank\">огненные ладони</a>, <a href=\"/spells/276-command/\" target=\"_blank\">приказ</a></td> </tr> <tr> <td>2</td>\r\n <td><a href=\"/spells/45-blindness_deafness/\" target=\"_blank\">глухота/слепота</a>, <a href=\"/spells/225-scorching_ray/\" target=\"_blank\">палящий луч</a></td> </tr> <tr> <td>3</td><td><a href=\"/spells/113-stinking_cloud/\" target=\"_blank\">зловонное облако</a>, <a href=\"/spells/205-fireball/\" target=\"_blank\">огненный шар</a></td> </tr> <tr> <td>4</td> <td><a href=\"/spells/202-wall_of_fire/\" target=\"_blank\">огненная стена</a>, <a href=\"/spells/206-fire_shield/\" target=\"_blank\">огненный щит</a></td> </tr> <tr> <td>5</td> <td><a href=\"/spells/181-flame_strike/\" target=\"_blank\">небесный огонь</a>, <a href=\"/spells/310-hallow/\" target=\"_blank\">святилище</a></td> </tr></tbody></table>"
     },
     {
       "id": "Thief's Reflexes",
@@ -948,8 +948,8 @@
     },
     {
       "id": "Thieves' Cant",
-      "name": "Воровского Жаргона (Thieves' Cant)",
-      "description": "<p>During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.&nbsp;</p><p>In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.</p>"
+      "name": "Воровской Жаргон",
+      "description": "<p>Во время плутовского обучения вы выучили воровской жаргон, тайную смесь диалекта, жаргона и шифра, который позволяет скрывать сообщения в, казалось бы, обычном разговоре. Только другое существо, знающее воровской жаргон, понимает такие сообщения. Это занимает в четыре раза больше времени, нежели передача тех же слов прямым текстом.</p><p>Кроме того, вы понимаете набор секретных знаков и символов, используемый для передачи коротких и простых сообщений. Например, является ли область опасной или территорией гильдии воров, находится ли поблизости добыча, простодушны ли люди в округе, и предоставляют ли здесь безопасное убежище для воров в бегах.</p>"
     },
     {
       "id": "Timeless Body (Druid)",
@@ -973,12 +973,12 @@
     },
     {
       "id": "Unarmored Defense (Barbarian)",
-      "name": "Небронированные Обороны (Варвар) (Unarmored Defense (Barbarian))",
+      "name": "(Unarmored Defense (Barbarian)) Небронированные Обороны (Варвар)",
       "description": "<p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p>"
     },
     {
       "id": "Unarmored Defense (Monk)",
-      "name": "Небронированные Обороны (Монах) (Unarmored Defense (Monk))",
+      "name": "(Unarmored Defense (Monk)) Небронированные Обороны (Монах)",
       "description": "<p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier. You can use a shield and still gain this benefit.</p>"
     },
     {
