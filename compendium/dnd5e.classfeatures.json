@@ -73,7 +73,7 @@
     },
     {
       "id": "Channel Divinity: Preserve Life",
-      "name": "Божественный Канал:Сохранение Жизни",
+      "name": "Божественный Канал: Сохранение Жизни",
       "description": "<p>Начиная со 2 уровня, вы можете использовать Божественный канал, чтобы лечить тяжёлые ранения. Вы действием демонстрируете свой священный символ и призываете целительную энергию, которая может восстановить число хитов, равное вашему уровню жреца, умноженному на пять. Выберите любых существ в пределах 30 фт. от себя и распределите эти хиты между ними. Это умение не может восстановить существу хиты выше половины от его максимума. Вы не можете использовать это умение на нежити и конструктах.</p>"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "Channel Divinity: Turn Undead",
-      "name": "Божественный Канал:Изгнание Нежити",
+      "name": "Божественный Канал: Изгнание Нежити",
       "description": "<p>Вы действием демонстрируете свой священный символ и читаете молитву, изгоняющую нежить. Вся нежить, которая может видеть или слышать вас в пределах 30 фт., должна совершить спасбросок Мудрости. Если существо провалило спасбросок, оно изгоняется на 1 минуту, или пока не получит урон. Изгнанное существо должно тратить свои ходы, пытаясь уйти от вас как можно дальше, и не может добровольно переместиться в пространство, находящееся в пределах 30 фт. от вас. Оно также не может совершать реакции. В качестве действия существо может использовать только Рывок или пытаться освободиться от эффекта, препятствующего его передвижению. Если двигаться некуда, существо может использовать действие Уклонение.</p>"
     },
     {
@@ -244,11 +244,11 @@
     {
       "id": "Expertise",
       "name": "Компетентность",
-      "description": "<p>На третьем уровне выберите 2 навыка из тех, которыми вы владеете. Ваш бонус мастерства для этих навыков удваивается.</p><p>На 10 уровне вы можете выбрать ещё 2 навыка и получить для них это преимущество.</p>"
+      "description": "<p>На 1 уровне выберите два ваших владения в навыках или одно владение навыком и владение воровскими инструментами. Ваш бонус мастерства удваивается для всех проверок характеристик, которые вы совершаете, используя любое из выбранных владений.</p><p>На 6 уровне вы можете выбрать ещё два владения (навыки или воровские инструменты), чтобы получить эту же выгоду.</p>"
     },
     {
       "id": "Expertise - Bard",
-      "name": "Компетентность - Bard",
+      "name": "Компетентность (Бард)",
       "description": "<p>На третьем уровне выберите 2 навыка из тех, которыми вы владеете. Ваш бонус мастерства для этих навыков удваивается.</p><p>На 10 уровне вы можете выбрать ещё 2 навыка и получить для них это преимущество.</p>"
     },
     {
@@ -258,8 +258,8 @@
     },
     {
       "id": "Extra Attack - Fighter",
-      "name": "Дополнительная Атака - Fighter",
-      "description": "<p>Начиная с 6 уровня, если вы в свой ход совершаете действие Атака, вы можете совершить две атаки вместо одной.</p>"
+      "name": "Дополнительная Атака (Воин)",
+      "description": "<p>Начиная с 5 уровня, если вы в свой ход совершаете действие Атака, вы можете совершить две атаки вместо одной.</p><p>Количество атак увеличивается до трёх на 11 уровне этого класса, и до четырёх на 20 уровне.</p>"
     },
     {
       "id": "Fast Hands",
@@ -273,8 +273,8 @@
     },
     {
       "id": "Favored Enemey",
-      "name": "(Favored Enemey) Благоприятствует Игре",
-      "description": "<p>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.&nbsp;</p><p>Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.&nbsp;</p><p>You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.&nbsp;</p><p>When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.&nbsp;</p><p>You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.</p>"
+      "name": "Избранный Враг",
+      "description": "<p>Начиная с 1 уровня у вас есть значительный опыт изучения, отслеживания, охоты и даже общения с определённым видом врагов.</p><p>Выберите вид избранного врага: аберрации, великаны, драконы, звери, исчадия, конструкты, монстры, небожители, нежить, растения, слизи, феи или элементали. В качестве альтернативы вы можете выбрать в качестве избранных врагов две гуманоидные расы (например, гноллов и орков).</p><p>Вы совершаете с преимуществом проверки Мудрости (Выживание) для выслеживания избранных врагов, а также проверки Интеллекта для вспоминания информации о них.</p><p>Когда вы получаете это умение, вы также обучаетесь одному из языков, на котором говорит ваш избранный враг, если он вообще умеет говорить.</p><p>Вы дополнительно выбираете по одному избранному врагу и языку, связанному с ним, на 6 и 14 уровнях. Получая уровни, ваш выбор должен отражать чудовищ, с которыми вы уже сталкивались во время приключений.</p>"
     },
     {
       "id": "Feral Instinct",
@@ -318,8 +318,8 @@
     },
     {
       "id": "Fighting Style: Two Weapon Fighting",
-      "name": "(Fighting Style: Two Weapon Fighting) Боевой Стиль: Два Боевых Оружия",
-      "description": "<p>When you engage in two-weapon fighting, you can add your ability modifier.</p>"
+      "name": "Сражение Двумя Оружиями",
+      "description": "<p>Если вы сражаетесь двумя оружиями, вы можете добавить модификатор характеристики к урону от второй атаки.</p>"
     },
     {
       "id": "Foe Slayer",
@@ -368,7 +368,7 @@
     },
     {
       "id": "Hunter's Prey: Horde Breaker",
-      "name": "(Hunter's Prey: Horde Breaker) Охотника добычей: выключатель Орда",
+      "name": "Hunter's Prey: Horde Breaker",
       "description": "<p>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.</p>"
     },
     {
@@ -423,13 +423,13 @@
     },
     {
       "id": "Invocation: Beguiling Infulence",
-      "name": "(Invocation: Beguiling Infulence) Ссылка: Начинка Infulence",
-      "description": "<p>You gain proficiency in the Deception and Persuasion skills.</p>"
+      "name": "Возвание: Обманчивое Влияние",
+      "description": "<p>Вы получаете владение навыками Обман и Убеждение.</p>"
     },
     {
       "id": "Invocation: Bewtching Whispers",
-      "name": "(Invocation: Bewtching Whispers) Ссылка: Bewtching Шепчет",
-      "description": "<p>You can cast&nbsp;compulsion&nbsp;once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Возвание: Завораживающий Шёпот",
+      "description": "<p><strong>Требование:</strong> 7 уровень</p><p>Вы можете один раз сотворить заклинание принуждение, используя ячейку заклинаний колдуна. Вы не можете сделать это повторно, пока не окончите продолжительный отдых.</p>"
     },
     {
       "id": "Invocation: Book of Ancient Secrets",
@@ -463,8 +463,8 @@
     },
     {
       "id": "Invocation: Eyes of the Rune Keeper",
-      "name": "(Invocation: Eyes of the Rune Keeper) Ссылка: глаза Хранитель рун",
-      "description": "<p>You can read all writing.</p>"
+      "name": "Возвание: Глаза Хранителя Рун",
+      "description": "<p>Вы можете читать любые письмена.</p>"
     },
     {
       "id": "Invocation: Fiendish Vigor",
@@ -478,8 +478,8 @@
     },
     {
       "id": "Invocation: Life Drinker",
-      "name": "(Invocation: Life Drinker) Ссылка: Пьющий Жизни",
-      "description": "<p>When you hit a creature with your pact weapon, the creature takes extra necrotic damage equal to your Charisma modifier (minimum 1).</p>"
+      "name": "Возвание: Пьющий Жизнь",
+      "description": "<p><strong>Требование: </strong>12 уровень, умение Договор клинка</p><p>Когда вы попадаете по существу оружием договора, это существо получает дополнительный урон некротической энергией, равный вашему модификатору Харизмы (минимум 1).</p>"
     },
     {
       "id": "Invocation: Mask of Many Faces",
@@ -513,8 +513,8 @@
     },
     {
       "id": "Invocation: Otherwordly Leap",
-      "name": "(Invocation: Otherwordly Leap) Ссылка: Потусторонней Прыжок",
-      "description": "<p>You can cast jump on yourself at will, without expending a spell slot or material components.</p>"
+      "name": "Возвание: Потусторонний Прыжок",
+      "description": "<p><strong>Требование: </strong>9 уровень</p><p>Вы можете неограниченно накладывать на себя заклинание прыжок, не тратя ячейки заклинаний и материальные компоненты.</p>"
     },
     {
       "id": "Invocation: Repelling Blast",
@@ -543,13 +543,13 @@
     },
     {
       "id": "Invocation: Voice of the Chain Master",
-      "name": "(Invocation: Voice of the Chain Master) Ссылка: Голос сети Мастер",
-      "description": "<p>Pact of the Chain feature You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.</p>"
+      "name": "Возвание: Глас Цепного Мастера",
+      "description": "<p><strong>Требование: </strong>умение Договор цепи</p><p>Вы можете телепатически общаться со своим фамильяром и воспринимать всё чувствами фамильяра, пока вы находитесь на одном и том же плане существования. Кроме того, когда вы воспринимаете чувствами фамильяра, вы можете говорить через него своим собственным голосом, даже если фамильяр не способен говорить.</p>"
     },
     {
       "id": "Invocation: Whispers of the Grave",
-      "name": "(Invocation: Whispers of the Grave) Ссылка: шепот из могилы",
-      "description": "<p>You can cast&nbsp;speak with dead&nbsp;at will, without expending a spell slot.</p>"
+      "name": "Возвание: Могильный Шёпот",
+      "description": "<p><strong>Требование:</strong> 9 уровень</p><p>Вы можете неограниченно накладывать заклинание разговор с мёртвыми, не тратя ячейки заклинаний.</p>"
     },
     {
       "id": "Invocation: Witch Sight",
@@ -558,8 +558,8 @@
     },
     {
       "id": "Invocations: Sign of Ill Omen",
-      "name": "(Invocations: Sign of Ill Omen) Вызовы: знак дурное предзнаменование",
-      "description": "<p>You can cast&nbsp;bestow&nbsp;curse once using a warlock spell slot. You can't do so again until you finish a long rest.</p>"
+      "name": "Возвание: Знак Дурного Предзнаменования",
+      "description": "<p><strong>Требование:</strong> 5 уровень</p><p>Вы можете один раз сотворить заклинание проклятие, используя ячейку заклинаний колдуна. Вы не можете сделать это повторно, пока не окончите продолжительный отдых.</p>"
     },
     {
       "id": "Jack of All Trades",
@@ -623,8 +623,8 @@
     },
     {
       "id": "Lay on Hands",
-      "name": "(Lay on Hands) Возложение рук",
-      "description": "<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level × 5.&nbsp;</p><p>As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p><p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p><p>This feature has no effect on undead and constructs.</p>"
+      "name": "Наложение рук",
+      "description": "p>Ваше благословенное касание может лечить раны. У вас есть запас целительной силы, который восстанавливается после продолжительного отдыха. При помощи этого запаса вы можете восстанавливать количество хитов, равное уровню паладина, умноженному на 5.</p><p>Вы можете действием коснуться существа и, зачерпнув силу из запаса, восстановить количество хитов этого существа на любое число, вплоть до максимума, оставшегося в вашем запасе.</p><p>В качестве альтернативы, вы можете потрать 5 хитов из вашего запаса хитов для излечения цели от одной болезни или одного действующего на неё яда. Вы можете устранить несколько эффектов болезни и ядов одним использованием Наложения рук, тратя хиты отдельно для каждого эффекта.</p><p>Это умение не оказывает никакого эффекта на нежить и конструктов.</p"
     },
     {
       "id": "Magical Secrets",
@@ -708,12 +708,12 @@
     },
     {
       "id": "Nature's Ward",
-      "name": "Подопечный природы",
+      "name": "Покровительство Природы",
       "description": "<p>С 10 уровня вы не можете быть очарованным или напуганным феями и элементалями. Вы также получаете иммунитет к болезням и ядам.</p>"
     },
     {
       "id": "Oath of Devotion Spells",
-      "name": "Oath of Devotion Spells",
+      "name": "Заклинания Клятвы Преданности",
       "description": "<table> <tbody><tr class=\"table_header\"> <td>Уровень паладина</td> <td>Заклинания</td> </tr> <tr> <td>3</td> <td><a href=\"/spells/99-protection_from_evil_and_good/\" target=\"_blank\"><strong>защита от зла и добра</strong></a>, <a href=\"/spells/354-sanctuary/\" target=\"_blank\"><strong>убежище</strong></a></td> </tr> <tr> <td>5</td>\r\n <td><a href=\"/spells/155-lesser_restoration/\" target=\"_blank\"><strong>малое восстановление</strong></a>, <a href=\"/spells/192-zone_of_truth/\" target=\"_blank\"><strong>область истины</strong></a></td> </tr> <tr> <td>9</td> <td><a href=\"/spells/158-beacon_of_hope/\" target=\"_blank\"><strong>маяк надежды</strong></a>, <a href=\"/spells/301-dispel_magic/\" target=\"_blank\"><strong>рассеивание магии</strong></a></td> </tr> <tr> <td>13</td> <td><a href=\"/spells/308-freedom_of_movement/\" target=\"_blank\"><strong>свобода перемещения</strong></a>, <a href=\"/spells/340-guardian_of_faith/\" target=\"_blank\"><strong>страж веры</strong></a></td> </tr> <tr> <td>17</td> <td><a href=\"/spells/181-flame_strike/\" target=\"_blank\"><strong>небесный огонь</strong></a>, <a href=\"/spells/198-commune/\" target=\"_blank\"><strong>общение</strong></a></td> </tr></tbody></table>"
     },
     {
@@ -953,13 +953,13 @@
     },
     {
       "id": "Timeless Body (Druid)",
-      "name": "Безвременное Тело (Druid)",
+      "name": "Timeless Body (Druid)",
       "description": "<p>Начиная с 18 уровня, пронизывающая вас природная магия замедляет старение. За каждые 10 лет ваше тело стареет только на 1 год.</p>"
     },
     {
       "id": "Timeless Body (Monk)",
-      "name": "Безвременное Тело (Monk)",
-      "description": "<p>Начиная с 18 уровня, пронизывающая вас природная магия замедляет старение. За каждые 10 лет ваше тело стареет только на 1 год.</p>"
+      "name": "Timeless Body (Monk)",
+      "description": "<p>На 15 уровне ваша ци поддерживает вас, и ваше тело больше не подвержено признакам старения. Вы не можете быть состарены магически. Впрочем, вы всё ещё можете умереть от старости. Кроме того, вам больше не требуется еда и вода.</p>"
     },
     {
       "id": "Tongue of the Sun and Moon",
@@ -973,13 +973,13 @@
     },
     {
       "id": "Unarmored Defense (Barbarian)",
-      "name": "(Unarmored Defense (Barbarian)) Небронированные Обороны (Варвар)",
-      "description": "<p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p>"
+      "name": "Unarmored Defense (Barbarian)",
+      "description": "<p>Если вы не носите доспехов, ваш Класс Доспеха равен 10 + модификатор Ловкости + модификатор Телосложения. Вы можете использовать щит, не теряя этого преимущества.</p>"
     },
     {
       "id": "Unarmored Defense (Monk)",
-      "name": "(Unarmored Defense (Monk)) Небронированные Обороны (Монах)",
-      "description": "<p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier. You can use a shield and still gain this benefit.</p>"
+      "name": "Unarmored Defense (Monk)",
+      "description": "<p>Начиная с 1 уровня, если вы не носите ни доспех, ни щит, ваш Класс Доспеха равен 10 + модификатор Ловкости + модификатор Мудрости.</p>"
     },
     {
       "id": "Unarmored Movement",
